@@ -1,0 +1,5774 @@
+1989/SN_ 년/NNB_ 2/SN_ 월/NNB_ 15/SN_ 일/NNB_
+임 수 경/NNP_
+1989/SN_ 년/NNB_
+학생/NNG_ 회관/NNG_ 건물/NNG_ 계단/NNG_
+서울 지방 경찰청/NNP_ 공안/NNG_ 분 실/NNG_
+임 종 석/NNP_
+여의도/NNP_ 농민/NNG_ 폭력/NNG_ 시위/NNG_
+허 영/NNP_
+10/SN_ 차/NNB_ 개 헌 안/NNG_ 발표/NNG_
+제/XPN_ 8/SN_ 9/SN_ 조/NNB_
+허 영/NNP_
+미국/NNP_ 육군/NNG_ 부 참모/NNG_ 총장/NNG_
+초대/NNG_ 국무/NNG_ 장관/NNG_ 직/NNG_
+로 널드/NNP_ 레이건/NNP_ 대통령/NNG_
+알 렉 산 더/NNP_ 메이 그 스/NNP_ 헤 이 그/NNP_ 2/SN_ 세/NNB_
+미국/NNP_ 육군/NNG_ 부 참모/NNG_ 총장/NNG_
+19 24/SN_ 년/NNB_ 12/SN_ 월/NNB_ 2/SN_ 일/NNB_
+국무/NNG_ 장관/NNG_
+경고/NNG_ :/SP_ 현 실 주의/NNG_ ,/SP_ 레이건/NNP_ 과/JC_ 외교/NNG_ 정책/NNG_
+퍼 트리 샤 /NNP_ 앤 토 이 넷/NNP_ 폭 스/NNP_
+19 44/SN_ 년/NNB_
+3/SN_ 명/NNB_
+노 터 데 임/NNP_ 대학교/NNG_
+퍼 트리 샤 /NNP_ 앤 토 이 넷/NNP_ 폭 스/NNP_
+노 터 데 임/NNP_ 대학교/NNG_
+정통/NNG_ 제 병/NNG_ 연합/NNG_ 부대/NNG_
+퍼 트리 샤 /NNP_ 앤 토 이 넷/NNP_ 폭 스/NNP_
+19 79/SN_ 년/NNB_
+닉 슨/NNP_ 대통령/NNG_
+5/SN_ 년/NNB_
+19 79/SN_ 년/NNB_
+미국/NNP_ 유럽/NNP_ 연합 군/NNG_
+19 79/SN_ 년/NNB_
+미국/NNP_ 기술/NNG_ 주식/NNG_ 회사/NNG_
+외교/NNG_ 정책/NNG_ 의/JKG_ 아마 추 어/NNG_
+1988/SN_ 년/NNB_
+W or l d w ide/SL_ A s s oc iates/SL_ In c/SL_
+1988/SN_ 년/NNB_
+외교/NNG_ 정책/NNG_ 의/JKG_ 아마 추 어/NNG_
+1988/SN_ 년/NNB_
+노 아/NNP_
+창 세 기/NNP_
+고 페 르 나무/NNG_
+하나님/NNG_
+3/SN_ 층/NNG_
+역 청/NNG_
+45/SN_ ~/SO_ 46/SN_ c m/SW_
+3/SN_ 층/NNG_
+고 페 르 나무/NNG_ (/SS_ 잣 나무/NNG_ )/SS_
+기독교/NNG_
+역 사학/NNG_ 과/JC_ 과학/NNG_ 의/JKG_ 발달/NNG_
+근 본 주의/NNG_ 적/XSN_
+보수/NNG_ 적/XSN_ 근 본 주의/NNG_ 계열/NNG_ 의/JKG_ 개 신 교/NNG_
+상징/NNG_ 적/XSN_ 의미/NNG_
+보수/NNG_ 적/XSN_ 근 본 주의/NNG_ 계열/NNG_ 의/JKG_ 개 신 교/NNG_
+역 사학/NNG_ 과/JC_ 과학/NNG_
+홍수/NNG_ 지 질 학/NNG_
+남 침 례 교/NNG_
+역 사 책/NNG_
+유사/NNG_ 과학/NNG_
+비/XPN_ 과학/NNG_ 적/XSN_ 이/VCP_ ㄴ/ETM_ 해석/NNG_
+제 칠 일/NNG_ 안 식 교/NNG_
+이슬 람 교/NNG_ 경 전/NNG_ 이나/JC_ 길 가 메 쉬 /NNP_ 서 사 시/NNG_
+증거/NNG_
+한국 창 조 과학 회/NNP_
+F er n and/SL_ N a v ar ra/SL_
+B TV/SL_
+목재/NNG_
+나무/NNG_
+5000/SN_ 년/NNB_ 전/NNG_
+중국/NNP_
+8 70/SN_ 만/NR_
+3/SN_ -/SS_ 4/SN_ 천/NR_ 년/NNB_
+수 생/NNG_ 생물/NNG_
+북 극 곰 /NNG_
+3/SN_ -/SS_ 4/SN_ 천/NR_ 년/NNB_
+급격/XR_ 하/XSA_ ㄴ/ETM_ 삼 투 압/NNG_ 변화/NNG_
+375/SN_ 일/NNB_
+2000/SN_ 톤/NNB_
+창 조 과학 회/NNP_
+100/SN_ m/SL_
+창 조 과학 회/NNP_
+초등학교/NNG_ 교사/NNG_
+100/SN_ m/SL_
+2000/SN_ 톤/NNB_
+신/XPN_ 정부/NNG_ 군/NNG_
+에 노 모토/NNP_ 다 케 아 키/NNP_
+시나 가 와/NNP_
+자정/NNG_
+슨 푸 /VV_ 번/NNB_
+에 노 모토/NNP_ 다 케 아 키/NNP_
+하 코 다 테 /NNP_ 전쟁/NNG_
+슨 푸 /VV_ 번/NNB_ 에/JKB_ 이 송/NNG_ 되/XSV_ 었/EP_ 을/ETM_ 때/NNG_
+마 쓰 오 카/NNP_ 바 키/NNG_ 치/XSN_
+하 치 노 헤 /NNP_
+18 69/SN_ 년/NNB_ 메이지/NNP_ 2/SN_ 년/NNB_ 3/SN_ 월/NNB_ 25/SN_ 일/NNB_
+하 야 시/NNP_ 다 다 스/NNP_
+하 코 다 테 /NNP_
+하 코 다 테 /NNP_ 전쟁/NNG_
+18 69/SN_ 년/NNB_
+순 풍/NNG_
+신/XPN_ 정부/NNG_ 군/NNG_ 함 대/NNG_
+가이/NNG_ 텐 마 루/NNG_
+초 요 마 루/NNG_
+2/SN_ 분/NNB_
+탄 약/NNG_
+마 쓰 오 카/NNP_ 바 키 치/NNG_
+반 류/NNG_ 마 루/NNG_
+하 코 다 테 /NNP_ 해 전/NNG_
+고대/NNG_ 그리스 어/NNP_
+대륙/NNG_ 철학/NNG_
+고대/NNG_ 그리스 어/NNP_
+서양/NNG_ 철학/NNG_
+고대/NNG_ 그리스 어/NNP_
+대륙/NNG_ 철학/NNG_
+의무/NNG_ 사항/NNG_
+자연/NNG_ 철학/NNG_
+자연/NNG_ 과학/NNG_
+아리 스토 텔레스/NNP_
+철학/NNG_
+수학/NNG_
+19/SN_ -/SS_ 20/SN_ 세기/NNG_
+유럽/NNP_
+서양/NNG_ 철학/NNG_
+유럽/NNP_
+유럽/NNP_
+20/SN_ 세기/NNG_
+신 학/NNG_
+서양/NNG_ 철 학자/NNG_
+신 학/NNG_
+형 이상 학/NNG_
+형 이상 학/NNG_
+비교/NNG_ 종 교 학/NNG_
+정 육 점/NNG_
+난 세/NNG_
+종 홍 산/NNP_
+정 육 점/NNG_
+돼지/NNG_ 장수/NNG_ 임/NNG_ (/SS_ 林 /SH_ )/SS_ 군/NNG_
+고 금 성/NNP_
+난 세/NNG_ 를/JKO_ 구하/VV_ ㄹ/ETM_ 크/VA_ ㄴ/ETM_ 뜻/NNG_ 을/JKO_ 품/VV_ 고/EC_
+종 홍 산/NNP_ (/SS_ 鐘 洪 山 /SH_ )/SS_
+중 화 민국/NNP_
+도 장/NNG_
+홍 가/NNG_ 권/XSN_
+황 비 홍/NNP_
+홍 가/NNG_ 권/XSN_
+청 나라/NNP_
+황 비 홍/NNP_
+홍 가/NNG_ 권/XSN_
+소 림/NNG_ 무 예/NNG_
+쌍 극/NNG_
+황 비 홍/NNP_
+쌍 극/NNG_
+소 림/NNG_ 무 예/NNG_ 도 장/NNG_ 의/JKG_ 관장/NNG_
+황 비 홍/NNP_
+충 주 중 학교/NNP_
+존/NNP_ F/SL_ ./SP_ 케 네 디/NNP_
+외교 학/NNG_ 과/NNG_
+미국/NNP_ 적 십자 사/NNP_
+존/NNP_ F/SL_ ./SP_ 케 네 디/NNP_
+차 석/NNG_
+무디스/NNP_
+노무현/NNP_
+3/SN_ 인/NNG_
+외교/NNG_ 안보/NNG_ 보좌관/NNG_
+무디스/NNP_
+2003/SN_ 년/NNB_ 3/SN_ 월/NNB_ 9/SN_ 일/NNB_
+참여/NNG_ 정부/NNG_
+노무현/NNP_
+무디스/NNP_
+베트남/NNP_
+유 엔 사/NNG_
+유 화/NNG_ 정책/NNG_
+베트남/NNP_
+콘 돌 리 자/NNP_ 라이스/NNP_
+유 화/NNG_ 정책/NNG_
+콘 돌 리 자/NNP_ 라이스/NNP_
+정동영/NNP_
+박 선 원/NNP_
+대 포 동/NNP_ 2/SN_ 호/NNB_
+선/NNG_ 6/SN_ 자/NNB_ 회담/NNG_ ,/SP_ 후/NNG_ 평화/NNG_ 협정/NNG_
+정동영/NNP_
+박 선 원/NNP_
+정동영/NNP_
+박 선 원/NNP_
+2006/SN_ 년/NNB_
+2006/SN_ 년/NNB_ 2/SN_ 월/NNB_ 14/SN_ 일/NNB_
+2006/SN_ 년/NNB_ 10/SN_ 월/NNB_ 14/SN_ 일/NNB_
+일본/NNP_
+2006/SN_ 년/NNB_ 2/SN_ 월/NNB_ 14/SN_ 일/NNB_
+외교/NNG_ 통상부/NNG_ 장관/NNG_
+샤 시/NNG_ 타 루 르/NNP_
+유엔/NNP_ 사무총장/NNG_
+인도/NNP_
+14/SN_ 개/NNB_
+에 티 오피아/NNP_
+오 마르/NNP_ 알 바 시 르/NNP_
+26/SN_ ,/SP_ 000/SN_ 명/NNB_
+에 티 오피아/NNP_
+오 마르/NNP_ 알 바 시 르/NNP_
+26/SN_ ,/SP_ 000/SN_ 명/NNB_
+아 디스 아 바 바/NNP_
+유엔/NNP_ 평화/NNG_ 유지/NNG_ 군/NNG_
+26/SN_ ,/SP_ 000/SN_ 명/NNB_
+베 냐 민/NNP_ 네 타 냐 후/NNP_
+2016/SN_ 년/NNB_ 1/SN_ 월/NNB_ 26/SN_ 일/NNB_
+요 르 단/NNP_ 강/NNG_
+베 냐 민/NNP_ 네 타 냐 후/NNP_
+마 흐 무 드/NNP_ 압 바 스/NNP_
+이스라엘/NNP_
+2/SN_ 국가/NNG_ 해법/NNG_
+정세균/NNP_
+K/SL_ 스포츠/NNG_ 재단/NNG_
+홍 문 종/NNP_
+정세균/NNP_
+2016/SN_ 년/NNB_ 12/SN_ 월/NNB_ 16/SN_ 일/NNB_
+위안부/NNG_ 문제/NNG_ 협상/NNG_
+정동 춘/NNP_
+I W PG/SL_
+김남 희/NNP_
+김남 희/NNP_
+더 불어 민주당/NNP_
+김남 희/NNP_
+신/XPN_ 천 지/NNG_
+뉴욕/NNP_
+포 브 스/NNP_
+러시아/NNP_
+포 브 스/NNP_
+앤 더스/NNP_ 코/NNP_
+예 멘 /NNP_
+포 브 스/NNP_
+러시아/NNP_
+사우 디 아라비아/NNP_
+봉 래 산/NNP_
+풍 악 산/NNP_
+개 골 산/NNP_
+봉 래 산/NNP_
+5 30/SN_ 제 곱 /NNG_ 킬 로 미터/NNB_
+외 금강/NNP_
+금강산/NNP_
+봉 래 산/NNP_
+개 골 산/NNP_
+바이 아라/NNP_
+봄/NNG_
+9/SN_ 가지/NNB_
+개 골 산/NNP_
+불교/NNG_
+9/SN_ 가지/NNB_
+풍 악 산/NNP_
+불교/NNG_ 의/JKG_ 영 지/NNG_
+화 강 암/NNG_
+궁 융 /NNG_ 상 지 괴/NNG_ 응 /VV_ 기/ETN_ 운동/NNG_
+독특/NNG_ 하/XSA_ ㄴ/ETM_ 기후/NNG_
+화 강 암/NNG_
+궁 융 /NNG_ 상 지 괴/NNG_ 응 /VV_ 기/ETN_ 운동/NNG_
+여러/MM_ 종류/NNG_ 의/JKG_ 암 석/NNG_
+궁 융 /NNG_ 상 지 괴/NNG_ 응 /VV_ 기/ETN_
+비로 봉/NNP_
+보 덕 암/NNP_
+삼 불 암/NNP_
+묘 길 상/NNP_
+분 설 담/NNG_
+내 금강/NNP_
+보 덕 암/NNP_
+구 룡 폭 포/NNP_
+만 물 상/NNG_ 구역/NNG_
+구 룡 폭 포/NNP_
+139/SN_ 미터/NNB_
+선 하/NNG_ 구역/NNG_
+구 룡 연/NNP_
+74/SN_ 미터/NNB_
+비 봉 폭 포/NNP_
+해 금강/NNP_
+와 우 섬/NNP_
+남 택 하/NNP_
+삼 일 포/NNP_
+소/NNG_
+삼 일 포/NNP_
+와 우 섬/NNP_
+향 로 봉/NNP_
+108/SN_ 개/NNB_
+신 계 사/NNP_
+108/SN_ 개/NNB_
+조선/NNP_ 왕 조/NNG_
+한국/NNP_ 전쟁/NNG_
+108/SN_ 개/NNB_
+유 점 사/NNP_
+표 훈 사/NNP_
+금강산/NNP_ 관광/NNG_ 지구 법/NNG_
+최 고 인민 회의/NNG_ 상임/NNG_ 위원회/NNG_
+2002/SN_ 년/NNB_
+추 방/NNG_
+금강산/NNP_ 관광/NNG_ 지구 법/NNG_
+금지/NNG_ 되/XSV_ 며/EC_ (/SS_ 11/SN_ 조/NNB_ )/SS_ ,/SP_
+정 주영/NNP_
+1989/SN_ 년/NNB_
+설 봉 호/NNP_
+1998/SN_ 년/NNB_
+2003/SN_ 년/NNB_
+100/SN_ 만/NR_ 명/NNB_
+정 주영/NNP_
+설 봉 호/NNP_
+195/SN_ 만/NR_ 명/NNB_
+1998/SN_ 년/NNB_
+2008/SN_ 년/NNB_
+2008/SN_ 년/NNB_
+설 악 산/NNP_
+가이 드/NNG_
+D M Z/SL_ 관광 청/NNG_
+16/SN_ 개/NNB_
+랭 크/NNP_
+파일/NNG_
+16/SN_ 개/NNB_
+흰 색/NNG_
+열/NR_
+64/SN_ 개/NNB_
+16/SN_ 개/NNB_
+랭 크/NNP_
+두/MM_ 칸/NNG_
+바로/MAG_ 옆/NNG_ 파일/NNG_ 의/JKG_ 5/SN_ 번/NNB_ 째/XSN_
+두/MM_ 칸/NNG_
+앙 파 상/NNP_ 규칙/NNG_
+9/SN_ 개/NNB_
+8/SN_ 번/NNB_ 째/XSN_ 랭 크/NNG_
+8/SN_ 번/NNB_ 째/XSN_ 랭 크/NNG_ 까지/JX_
+나이 트/NNG_
+8/SN_ 번/NNB_ 째/XSN_ 랭 크/NNG_
+심판/NNG_
+퀸 /NNG_
+체 크 메이 트/NNP_
+패배/NNG_
+체 크 메이 트/NNP_
+킹 /NNP_
+체 크 메이 트/NNP_
+킹 /NNP_
+패배/NNG_
+resig n s/SL_
+기 보/NNG_
+기 권/NNG_
+1/SN_ -/SS_ 0/SN_
+기 권/NNG_
+기 권/NNG_
+양측/NNG_ 시계/NNG_
+타임/NNG_ 컨 트 롤/NNG_
+120/SN_ 분/NNB_
+타임/NNG_ 컨 트 롤/NNG_
+40/SN_ 수/NNB_
+무/XPN_ 승부/NNG_
+세계/NNG_ 체 스/NNG_ 선수 권/NNG_
+킹/NNG_
+룩 /NNP_ 에게/JKB_
+룩/NNG_
+킹/NNG_
+미국/NNP_ 의/JKG_ 체 스/NNG_ 협회/NNG_
+킹/NNG_
+미국/NNP_ 의/JKG_ 체 스/NNG_ 협회/NNG_
+룩 /NNP_
+타임/NNG_ 컨 트 롤/NNG_
+패배/NNG_
+토 너 먼트/NNG_ 경기/NNG_
+패배/NNG_
+USC F/SL_
+폰/NNG_
+미국/NNP_ 체 스/NNG_ 협회/NNG_
+USC F/SL_
+FI D E/SL_
+체 크 메이 트/NNP_
+랭 크/NNG_
+파일/NNG_
+5/SN_ 분/NNB_
+파일/NNG_
+랭 크/NNG_
+기 보/NNG_
+재/XPN_ 시작/NNG_
+잘못/MAG_ 되/XSV_ ㄴ/ETM_ 수/NNG_ 가/JKS_ 두/VV_ 어/EC_ 지/VX_ 기/ETN_ 전/NNG_
+체 스 보드/NNG_
+재/XPN_ 시작/NNG_
+57/SN_ mm/SL_
+킹/NNG_
+1/SN_ ./SP_ 25/SN_ 배/NNG_
+57/SN_ mm/SL_
+57/SN_ mm/SL_
+40/SN_ ~/SO_ 50/SN_ %/SW_
+킹/NNG_
+퀸 /NNG_
+아랍/NNP_
+13/SN_ 세기/NNG_
+퀸 /NNP_
+인도/NNP_
+이탈리아/NNP_
+퀸 /NNG_
+약/MM_ 250/SN_ 만/NR_ 평 방/NNG_ 킬 로 미터/NNB_
+유 라 시아/NNP_ 플 레이 트/NNG_
+250/SN_ 만/NR_ 평 방/NNG_ 킬 로 미터/NNB_
+유 라 시아/NNP_ 플 레이 트/NNG_
+5/SN_ ,/SP_ 000/SN_ 미터/NNB_
+칭 짱 /NNG_ (/SS_ ? 藏 /SH_ )/SS_ 고 원/NNG_
+영하/NNG_ 40/SN_ '/SS_ C/SL_
+커 커/NNG_ 시리/NNG_
+남 극/NNG_ 대륙/NNG_
+남 극/NNG_ 대륙/NNG_
+치 롄 /NNG_ 산 맥/NNG_
+고비/NNG_ 사 막/NNG_
+커 커/NNG_ 시리/NNG_
+치 롄 /NNG_ 산 맥/NNG_ (/SS_ Q ilian/SL_ R an ge/SL_ )/SS_
+신 생 대/NNG_ 초기/NNG_ (/SS_ 약/MM_ 5 500/SN_ 만/NR_ 년/NNB_ 전/NNG_ )/SS_
+히 말 라 야/NNP_ 산 맥/NNG_
+황 허/NNG_
+티 베트/NNP_ 고 원/NNG_
+1/SN_ //SP_ 4/SN_
+칭 짱 /NNG_ 철도/NNG_
+신 생 대/NNG_ 초기/NNG_ (/SS_ 약/MM_ 5 500/SN_ 만/NR_ 년/NNB_ 전/NNG_ )/SS_
+6/SN_ 월/NNB_
+2001/SN_ 년/NNB_
+조선/NNP_ 콤 퓨 터/NNG_ 쎈 터/NNG_
+김정 남/NNP_
+김영 룡/NNP_
+국가/NNG_ 안전/NNG_ 보 위 부/NNG_
+일본/NNP_
+조선/NNP_ 컴퓨터/NNG_ 센터/NNG_ )/SS_
+말레이시아/NNP_
+2017/SN_ 년/NNB_ 2/SN_ 월/NNB_ 13/SN_ 일/NNB_ 오전/NNG_ 9/SN_ 시/NNB_ 경/XSN_
+2012/SN_ 년/NNB_
+2017/SN_ 년/NNB_
+쿠 알 라 룸 푸 르/NNP_ 국제 공항/NNG_
+말레이시아/NNP_
+조선 민주 주의 인민 공화국/NNP_
+쿠 알 라 룸 푸 르/NNP_ 국제 공항/NNG_
+2010/SN_ 년/NNB_ 1/SN_ 월/NNB_ 15/SN_ 일/NNB_
+데이트/NNG_
+초등학교/NNG_ 3/SN_ 학년/NNG_
+스님/NNG_
+디지털/NNG_ 서울 문화 예술 대학교/NNP_
+제국/NNG_ 의/JKG_ 아이/NNG_ 들/XSN_
+제국/NNG_ 의/JKG_ 아이/NNG_ 들/XSN_
+디지털/NNG_ 서울 문화 예술 대학교/NNP_
+이 반/NNP_ 서 덜 랜드/NNP_
+증 강/NNG_ 현실/NNG_
+가 상 현실/NNG_
+이 반/NNP_ 서 덜 랜드/NNP_
+실제/NNG_ 환경/NNG_ 과/JC_ 가상/NNG_ 의/JKG_ 객 체/NNG_
+se e/SL_ -/SS_ th rou gh/SL_ H MD/SL_
+현 실감/NNG_
+역 산/NNG_
+태양/NNG_
+군 주/NNG_
+역 산/NNG_
+약/MM_ 29/SN_ ./SP_ 5 306/SN_ 일/NNB_
+약/MM_ 365/SN_ ./SF_
+29/SN_ ./SP_ 5 306/SN_ 일/NNB_
+365/SN_ ./SF_
+10/SN_ 일/NNB_
+치 윤 법/NNG_ 과/JC_ 연대/NNG_ 배 치 법/NNG_
+역 법/NNG_
+개 력/NNG_
+태 초 력/NNG_
+역 법/NNG_
+개 력/NNG_
+태 초 력/NNG_
+역 법/NNG_
+태 초 력/NNG_
+시 헌 력/NNG_
+태 초 력/NNG_
+삼 통 력/NNG_
+건 상력/NNG_
+삼 통 력/NNG_
+경 초 력/NNG_
+유 흠 /NNP_ (/SS_ 劉 /SH_ )/SS_
+경 초 력/NNG_ (/SS_ 景 初 曆 /SH_ )/SS_
+파 장 법/NNG_
+황 극 력/NNG_
+조 충 지/NNP_
+조 충 지/NNP_
+장 법/NNG_
+조 충 지/NNP_ (/SS_ 祖 沖 之 /SH_ )/SS_
+대 명 력/NNG_ (/SS_ 大 明 曆 /SH_ )/SS_
+수시 력/NNG_
+쿠 빌 라이/NNP_ 칸/NNP_
+세 실 소 장 법/NNG_
+수시 력/NNG_
+쿠 빌 라이/NNP_ 칸/NNP_
+수시 력/NNG_ (/SS_ 授 時 曆 /SH_ )/SS_
+쿠 빌 라이/NNP_ 칸/NNP_
+19 84/SN_ 년/NNB_ 5/SN_ 월/NNB_ 19/SN_ 일/NNB_
+로스 앤 젤 레스/NNP_ 올림픽/NNG_
+1987/SN_ 년/NNB_ 인 디 애 나 폴리스/NNP_ 에서/JKB_ 열리/VV_ ㄴ/ETM_ 팬 아메리 칸/NNG_ 게임/NNG_
+소 토마 요 르/NNP_
+팬 아메리 칸/NNG_ 게임/NNG_
+15/SN_ 세/NNB_
+2/SN_ ./SP_ 33/SN_ m/SL_
+1987/SN_ 년/NNB_
+2/SN_ ./SP_ 43/SN_ m/SL_
+2/SN_ ./SP_ 42/SN_ m/SL_
+국제/NNG_ 아마 추 어/NNG_ 육 상/NNG_ 연맹/NNG_
+카 를 로/NNP_ 타 란 하 르트/NNP_
+2/SN_ ./SP_ 35/SN_ m/SL_
+2/SN_ ./SP_ 43/SN_ m/SL_
+소 토마 요 르/NNP_
+5/SN_ 명/NNB_
+셰 베 리/NNP_
+바 르 셀 로 나/NNP_ 올림픽/NNG_
+마지막/NNG_ 라운드/NNG_
+소 토마 요 르/NNP_
+첫/MM_ 시도/NNG_
+1996/SN_ 년/NNB_
+미국/NNP_ 의/JKG_ 찰 스/NNP_ 오 스 틴/NNP_
+올림픽/NNG_ 기록/NNG_ 2/SN_ ./SP_ 39/SN_ m/SL_
+부상/NNG_
+애 틀 랜 타/NNP_ 올림픽/NNG_
+11/SN_ 위/NNB_
+찰 스/NNP_ 오 스 틴/NNP_
+1999/SN_ 년/NNB_
+은 메달/NNG_ 을/JKO_ 획득/NNG_ 하/XSV_ 았/EP_ 다/EF_ ./SF_
+시 드 니/NNP_ 올림픽/NNG_
+스테 판 /NNP_ 홀 름 /NNP_
+은 메달/NNG_
+2/SN_ ./SP_ 32/SN_ m/SL_
+2/SN_ ./SP_ 35/SN_ m/SL_
+2015/SN_ 년/NNB_ 11/SN_ 월/NNB_
+63/SN_ 억/NR_ 원/NNB_
+49/SN_ 억/NR_ 300/SN_ 만/NR_ 원/NNB_
+조현 민/NNP_
+싸 이 버 스카이/NNP_
+49/SN_ 억/NR_ 300/SN_ 만/NR_ 원/NNB_
+싸 이 버 스카이/NNP_
+대한항공/NNP_
+19 53/SN_ 년/NNB_ 3/SN_ 월/NNB_ 24/SN_ 일/NNB_
+서울 대학교/NNP_
+19 77/SN_ 년/NNB_
+19 53/SN_ 년/NNB_
+전라 북도/NNP_ 고 창 군/NNP_
+서울 대학교/NNP_
+19 53/SN_ 년/NNB_
+전 남 고등 학교/NNP_
+19 77/SN_ 년/NNB_
+대전 지방 법원/NNP_
+김재 원/NNP_
+2017/SN_ 년/NNB_ 5/SN_ 월/NNB_ 19/SN_ 일/NNB_
+19 82/SN_ 년/NNB_
+2009/SN_ 년/NNB_
+민주/NNG_ 통합/NNG_ 당/XSN_
+3/SN_ 개/NNB_
+법원장/NNG_
+공동/NNG_ 주택/NNG_
+4/SN_ 층/NNG_
+3/SN_ 층/NNG_
+공동/NNG_ 주택/NNG_
+경 성/NNP_ 미 쿠 니 상 사/NNP_
+콘 크리 트/NNG_
+회 현 동/NNP_
+내 자동/NNP_
+풍 전/NNG_ 아파트/NNG_
+충 정/NNP_ 아파트/NNG_
+조선 주택 영 단/NNP_
+아 팔 타 멘 토/NNP_
+충 정/NNP_ 아파트/NNG_
+충 정/NNP_ 아파트/NNG_
+풍 전/NNG_ 아파트/NNG_
+부산 광역시/NNP_
+D/SL_ 등급/NNG_
+부산 토 지 공사/NNP_
+4/SN_ 층/NNG_
+부산 광역 시청/NNP_
+청/NNP_ 풍 장/NNG_ -/SS_ 소 화장/NNG_ 아파트/NNG_
+근대/NNG_ 문화 유산/NNG_
+19 64/SN_ 년/NNB_ 11/SN_ 월/NNB_ 30/SN_ 일/NNB_
+6/SN_ 층/NNG_
+마 포/NNP_ 삼성 아파트/NNP_
+동 대문 아파트/NNP_
+충 정/NNP_ 아파트/NNG_
+중앙/NNG_ 정원/NNG_ 형/XSN_
+7/SN_ 층/NNG_
+2/SN_ 번/NNB_ 째/XSN_
+동 대문 아파트/NNP_
+미래/NNG_ 유산/NNG_ 아파트/NNG_
+세 운 상 가/NNP_
+종로구/NNP_
+김수 근/NNP_ 건축 가/NNG_
+주상/NNG_ 복합/NNG_ 아파트/NNG_
+김현 옥/NNP_
+세 운 상 가/NNP_
+2008/SN_ 년/NNB_
+힐 탑 아파트/NNP_
+안 병 의 /NNP_
+용산 구/NNP_ 한 남 동/NNP_
+100/SN_ 만/NR_ 달러/NNG_
+안 병 의 /NNP_
+힐 탑 아파트/NNP_
+11/SN_ 층/NNG_
+온 수 난 방/NNG_ 방식/NNG_
+남 산/NNP_ 야외/NNG_ 식 물 원/NNG_
+19 72/SN_ 년/NNB_
+1994/SN_ 년/NNB_
+남 산/NNP_ 야외/NNG_ 식 물 원/NNG_
+남 산/NNP_ 외 인/NNG_ 아파트/NNG_
+남 산/NNP_ 야외/NNG_ 식 물 원/NNG_
+와 우/NNG_ 시민/NNG_ 아파트/NNG_
+김현 옥/NNP_
+6/SN_ 개월/NNB_
+30/SN_ 명/NNB_
+김현 옥/NNP_
+와 우/NNG_ 시민/NNG_ 아파트/NNG_
+30/SN_ 명/NNB_
+회 현/NNP_ 제/XPN_ 2/SN_ 시민/NNG_ 아파트/NNG_
+철 거 민/NNG_
+1970/SN_ 년/NNB_
+판 자 촌/NNG_ 정리/NNG_ 개발/NNG_ 계획/NNG_
+서울 미래 유 산/NNP_ 후보/NNG_
+회 현/NNP_ 제/XPN_ 2/SN_ 시민/NNG_ 아파트/NNG_
+연예인/NNG_ 아파트/NNG_
+여의도/NNP_ 시범/NNG_ 아파트/NNG_
+기 둥 식/NNG_ 아파트/NNG_
+17 90/SN_ 세대/NNG_
+24/SN_ 개/NNB_ 동/NNG_
+19 71/SN_ 년/NNB_
+여의도/NNP_ 시범/NNG_ 아파트/NNG_
+17 90/SN_ 세대/NNG_
+선 형 식/NNP_ 아파트/NNG_
+19 71/SN_ 년/NNB_
+19 71/SN_ 년/NNB_
+115/SN_ m/SL_
+임대/NNG_ 아파트/NNG_ 입주/NNG_ 권/XSN_
+서 소 문/NNP_ 아파트/NNG_
+오 진/NNG_ 개발/NNG_
+성 요 셉 /NNP_ 아파트/NNG_
+특이/NNG_ 하/XSA_ ㄴ/ETM_ 건물/NNG_ 형태/NNG_
+19 71/SN_ 년/NNB_
+6/SN_ 층/NNG_
+3/SN_ 개/NNB_
+성 요 셉 /NNP_ 아파트/NNG_
+상가/NNG_
+반 포 주공/NNP_ 아파트/NNG_
+복 층/NNG_ 설계/NNG_
+대한 주택 공사/NNP_
+22/SN_ 평/NNB_
+37 86/SN_ 가구/NNG_
+반 포 주공/NNP_ 아파트/NNG_
+마을/NNG_ 박물관/NNG_
+개 포 주공/NNP_ 아파트/NNG_
+층 수/NNG_ 제한/NNG_
+19 81/SN_ 년/NNB_
+현대건설/NNP_
+7/SN_ 단지/NNG_
+개 포 주공/NNP_ 아파트/NNG_
+7/SN_ 단지/NNG_
+주택/NNG_ 건설/NNG_ 촉 진 법/NNG_
+압 구 정/NNP_ 현대 아파트/NNP_
+현대 산업 개발/NNP_
+19 69/SN_ 년/NNB_
+1970/SN_ 년/NNB_
+압 구 정/NNP_ 현대 아파트/NNP_
+특혜/NNG_ 분양/NNG_ 사건/NNG_
+10/SN_ 군데/NNB_
+19 81/SN_
+국토/NNG_ 교통부/NNG_
+10/SN_
+충 정/NNG_ 아파트/NNG_
+장 수 명/NNP_ 아파트/NNG_ 인증/NNG_ 제/XSN_
+10/SN_ 군데/NNB_
+디지털/NNG_ 화폐/NNG_
+전자/NNG_ 화폐/NNG_
+디지털/NNG_ 화폐/NNG_
+디지털/NNG_ 화폐/NNG_
+범 용/NNG_ 성/XSN_ 요건/NNG_
+디지털/NNG_ 화폐/NNG_
+범 용/NNG_ 성/XSN_
+가상/NNG_ 화폐/NNG_
+금융/NNG_ 범죄/NNG_ 규제/NNG_ 망/NNG_
+유럽중앙은행/NNP_
+가상/NNG_ 화폐/NNG_
+암 호/NNG_ 화폐/NNG_
+유럽중앙은행/NNP_
+개발 자/NNG_
+암 호/NNG_ 화폐/NNG_
+P/SL_ 방식/NNG_
+블 록 체 인/NNG_
+P/SL_ 방식/NNG_
+블록/NNG_ 체 인/NNG_
+암 호/NNG_ 화폐/NNG_
+블 록 체/NNG_ 이/VCP_ ㄴ/ETM_ 기술/NNG_
+블 록 체 인/NNG_
+데이터/NNG_ 의/JKG_ 수정/NNG_
+블 록 체 인/NNG_
+블 록 체 인/NNG_
+블록/NNG_ 체 인/NNG_
+암 호/NNG_ 화폐/NNG_
+블록/NNG_ 체 인/NNG_
+열 거 주의/NNG_
+영국/NNP_
+법인세/NNG_
+영국/NNP_
+소득세/NNG_
+영국/NNP_
+제임스/NNP_ 알 라 드/NNP_
+개발 자/NNG_ 채용/NNG_
+벨 뷰/NNG_
+피 터/NNP_ 무 어/NNP_
+AT I/SL_ 사/NNG_
+2003/SN_ 년/NNB_ 2/SN_ 월/NNB_
+벨 뷰/NNG_
+피 터/NNP_ 무 어/NNP_
+액 세 서리/NNG_
+플레이/NNG_ 앤 /NNG_ 차지/NNG_
+무선/NNG_ 레이싱/NNG_ 휠 /NNG_
+엑 스 박스/NNG_ 라이 브/NNG_
+128/SN_ MB/SL_
+2008/SN_ 년/NNB_ 11/SN_ 월/NNB_ 19/SN_ 일/NNB_
+하드/NNG_ 드라이브/NNG_
+저장/NNG_ 장치/NNG_
+128/SN_ MB/SL_
+디지털/NNG_ 아 바 타/NNG_
+2008/SN_ 년/NNB_ 11/SN_ 월/NNB_ 19/SN_ 일/NNB_
+라이 브/NNG_ 아 케이 드/NNG_
+캐 슬 배 니아/NNP_
+온라인/NNG_ 서비스/NNG_
+대 시/NNG_ 보드/NNG_
+밤/NNG_ 의/JKG_ 교 향 곡/NNG_
+2005/SN_ 년/NNB_ 11/SN_ 월/NNB_ 22/SN_ 일/NNB_
+18 71/SN_ 년/NNB_
+캐나다/NNP_ 태평양/NNP_ 철도/NNG_ 회사/NNG_
+비 버/NNG_
+비 버/NNG_
+화물/NNG_ 운 송 업/NNG_ 을/JKO_
+브리 티 시/NNP_ 컬 럼 비아/NNP_
+18 71/SN_ 년/NNB_
+캐나다/NNP_ 태평양/NNP_ 철도/NNG_ 회사/NNG_
+존/NNP_ 맥 도 날 드/NNP_
+10/SN_ 년/NNB_
+존/NNP_ 맥 도 날 드/NNP_
+대륙/NNG_ 횡 단/NNG_ 철도/NNG_ 건설/NNG_
+대륙/NNG_ 횡 단/NNG_ 철도/NNG_ 건설/NNG_
+존/NNP_ 맥 도 날 드/NNP_
+보 수 당/NNP_
+포트 하 디/NNP_
+알 렉 산 더/NNP_ 매 캔 지/NNG_
+18 73/SN_ 년/NNB_
+알 렉 산 더/NNP_ 매 캔 지/NNG_
+18 75/SN_ 년/NNB_
+막 스/NNP_ 지 몬 /NNP_ S S/SL_ 준 장/NNG_
+하 인 리 히/NNP_ 힘 러/NNP_
+데 먄 스크/NNG_ 근 방/NNG_
+10/SN_ 월/NNB_
+데 먄 스크/NNG_ 근 방/NNG_
+막 스/NNP_ 지 몬 /NNP_
+하 인 리 히/NNP_ 힘 러/NNP_
+프랑스/NNP_
+안 톤/NNP_ 작전/NNG_
+기 갑/NNG_ 연대/NNG_
+19 42/SN_ 년/NNB_ 10/SN_ 월/NNB_ 말/NNB_
+프랑스/NNP_
+19 42/SN_ 년/NNB_
+10/SN_ 월/NNB_
+막 스/NNP_ 지 몬 /NNP_
+제/XPN_ 3/SN_ 차/NNB_ 하 리 코 프/NNP_ 공 방 전/NNG_
+피 젤 러/NNP_ 슈 토 르 히/NNP_
+헤 르 만/NNP_ 프리스/NNP_ S S/SL_ 준 장/NNG_
+제/XPN_ 3/SN_ 차/NNB_ 하 리 코 프/NNP_ 공 방 전/NNG_
+제/XPN_ 3/SN_ 차/NNB_ 하 리 코 프/NNP_ 공 방 전/NNG_
+막 스/NNP_ 지 몬 /NNP_
+4/SN_ 번/NNB_ 타 자/NNG_
+플 레이 오 프/NNG_ 와/JC_ 한국 시리 즈/NNP_
+4/SN_ 번/NNB_
+허 도 환/NNP_
+일본/NNP_ 캠프/NNG_
+4/SN_ 번/NNB_ 타 자/NNG_
+대통령/NNG_ 제/XSN_
+레 임 덕/NNG_
+레 임 덕/NNG_
+거 국/NNG_ 내각/NNG_
+거 국/NNG_ 일치/NNG_ 내각/NNG_
+의원/NNG_ 내각/NNG_ 제/XSN_
+의원/NNG_ 내각/NNG_ 제/XSN_
+연 립/NNG_ 내각/NNG_
+거 국/NNG_ 일치/NNG_ 내각/NNG_
+연 립/NNG_ 내각/NNG_
+거 국/NNG_ 일치/NNG_ 내각/NNG_
+곽 영 주/NNP_
+경 무관/NNG_
+육군/NNG_ 참모/NNG_ 총장/NNG_
+이승 만/NNP_
+이정재/NNP_
+이정재/NNP_
+부부/NNG_ 통령/NNG_
+19 48/SN_ 년/NNB_
+2010/SN_ 년/NNB_ 3/SN_ 월/NNB_ 26/SN_ 일/NNB_
+백 령 도/NNP_ 근처/NNG_ 해상/NNG_
+40/SN_ 명/NNB_
+2010/SN_ 년/NNB_ 3/SN_ 월/NNB_ 26/SN_ 일/NNB_
+40/SN_ 명/NNB_
+중국/NNP_ 과/JC_ 러시아/NNP_
+평 택 함/NNP_
+광 양 /XR_ 하/XSA_ ㅁ/ETN_ 을/JKO_
+독 도 함/NNP_
+광 양 /XR_ 하/XSA_ ㅁ/ETN_ 을/JKO_
+독 도 함/NNP_
+한겨레/NNP_ 신문/NNG_
+1/SN_ 번/NNB_ 어 뢰/NNG_
+러시아/NNP_
+1/SN_ 번/NNB_ 어 뢰/NNG_
+러시아/NNP_
+미국/NNP_ 과/JC_ 중국/NNP_
+우 방 국/NNG_
+미국/NNP_ 과/JC_ 중국/NNP_
+우 방 국/NNG_
+도 널드/NNP_ 그 레 그/NNP_
+3/SN_ 명/NNB_
+외부/NNG_ 의/JKG_ 수 중/NNG_ 폭발/NNG_
+도 널드/NNP_ 그 레 그/NNP_
+2010/SN_ 년/NNB_ 9/SN_ 월/NNB_ 15/SN_ 일/NNB_
+드 미 트리/NNP_ 메 드 베 데 프/NNP_
+한/NNP_ -/SS_ 러/NNP_ 정상/NNG_ 회담/NNG_
+러시아/NNP_ 외무/NNG_ 차관/NNG_
+이명박/NNP_
+유엔/NNP_ 총회/NNG_ 연설/NNG_
+남북/NNP_ 대화/NNG_
+모스크바/NNP_
+박 길 연/NNP_
+남북/NNP_ 대화/NNG_
+북한/NNP_ 공 격 설/NNG_ 과/JC_ 사 고 설/NNG_
+선 내/NNG_ 폭발/NNG_ 설 /XSN_
+외부/NNG_ 충격/NNG_
+사 고 설/NNG_
+선 내/NNG_ 폭발/NNG_ 설 /XSN_
+비/XPN_ 접촉/NNG_ 폭발/NNG_
+R D X/SL_
+국회/NNG_
+김태 영/NNP_ 국방장관/NNG_
+R D X/SL_
+기 뢰/NNG_ 사 고 설/NNG_
+김태 영/NNP_ 국방장관/NNG_
+피로/NNG_ 파괴/NNG_
+박 선 원/NNP_ 박사/NNG_
+최 원 일/NNP_ 중 령/NNG_
+피로/NNG_ 파괴/NNG_
+최 원 일/NNP_ 중 령/NNG_
+박 선 원/NNP_ 박사/NNG_
+10/SN_ 년/NNB_
+천안함/NNP_ 폭 침/NNG_
+2002/SN_ 년/NNB_
+10/SN_ km/SL_ 이내/NNG_
+김 황 수/NNP_ 교수/NNG_
+조화/NNG_ 주파수/NNG_
+국방부/NNG_
+지 진 파/NNG_ 주파수/NNG_
+조화/NNG_ 주파수/NNG_
+북한/NNP_ 잠수정/NNG_ 과/JC_ 해 안 포/NNG_
+신 학/NNG_ 용/XSN_ 의원/NNG_
+민주당/NNP_ 박지원/NNP_ 원내/NNG_ 대표/NNG_
+민주당/NNP_ 신 학/NNG_ 용/XSN_ 의원/NNG_
+민주당/NNP_ 박지원/NNP_ 원내/NNG_ 대표/NNG_
+신 상 철/NNP_
+미군/NNG_
+민주당/NNP_
+신 상 철/NNP_
+민주당/NNP_
+보수/NNG_ 단체/NNG_
+박 선 원/NNP_ 전/MM_ 청와대/NNP_ 비서관/NNG_
+박 선 원/NNP_
+이승 헌/NNP_
+2010/SN_ 년/NNB_ 4/SN_ 월/NNB_ 14/SN_ 일/NNB_
+도 올/NNG_ 김용 옥/NNP_
+용사/NNG_
+훈장/NNG_
+최 원 일/NNP_ 함 장/NNG_
+한나라당/NNP_
+5/SN_ 월/NNB_ 23/SN_ 일/NNB_
+지방/NNG_ 선거/NNG_
+한나라당/NNP_
+보 수 주의자/NNG_ 들/XSN_
+대구/NNP_ ,/SP_ 경북/NNP_ 지역/NNG_
+50/SN_ 대/NNB_ 이상/NNG_
+한나라당/NNP_
+64/SN_ %/SW_
+대구/NNP_ ,/SP_ 경북/NNP_ 지역/NNG_
+윤 덕 용/NNP_
+신 선 호/NNP_
+오스트리아/NNP_
+윤 덕 용/NNP_
+토마 스/NNP_ 마이 르/NNP_ -/SS_ 하 팅 /NNP_
+참여/NNG_ 연대/NNG_
+342/SN_ 명/NNB_
+서 재 정/NNP_
+참여/NNG_ 연대/NNG_
+반기문/NNP_ U N/SL_ 사무총장/NNG_
+25/SN_ 명/NNB_
+김태 영/NNP_ 국방부/NNG_ 장관/NNG_
+4/SN_ 명/NNB_
+감사원/NNG_
+4/SN_ 명/NNB_
+16/SN_ 기/NNG_
+법무부/NNG_ 장관/NNG_
+김현 웅/NNP_
+제/XPN_ 64/SN_ 대/NNB_
+대한 변호 사 협회/NNP_
+김현 웅/NNP_
+김현 웅/NNP_
+1995/SN_ 년/NNB_
+플 레이 보 이/NNG_
+1995/SN_ 년/NNB_
+미 녀/NNG_ 삼 총 사/NNG_ 2/SN_
+맥 심/NNP_ 지/NNG_
+니 콜 /NNP_ 셰 르 징 거/NNP_
+S w ay/SL_
+솔 로/NNG_ 레 코 딩/NNG_ 계약/NNG_
+니 콜 /NNP_ 셰 르 징 거/NNP_
+인터 스코 프/NNG_ 레 코드/NNG_
+쉘 /NNG_ 위/NNG_ 댄스/NNG_
+2005/SN_ 년/NNB_ 9/SN_ 월/NNB_ 13/SN_ 일/NNB_
+2/SN_ 위/NNB_
+S K Y/SL_
+2005/SN_ 년/NNB_
+900/SN_ 만/NR_ 장/NNB_
+맷 돌/NNG_ 춤/NNG_
+S tic k w it u/SL_
+T imb al and/SL_
+S noo p/SL_ D o g g/SL_
+미국/NNP_
+T imb al and/SL_
+40/SN_ 위/NNB_
+2007/SN_ 년/NNB_ 3/SN_ 월/NNB_ 6/SN_ 일/NNB_
+아시아/NNP_ 니 톨 라 노/NNP_
+새/MM_ 멤버/NNG_
+투어/NNG_
+아시아/NNP_ 니 톨 라 노/NNP_
+카 밋 /NNG_ 버 쳐 /VV_
+W hen/SL_ I/SL_ G row/SL_ U p/SL_
+미국/NNP_ 과/JC_ 오 세 아니아/NNP_
+2008/SN_ 년/NNB_
+1/SN_ 위/NNB_
+B o tt le/SL_ P o p/SL_
+영국/NNP_
+2009/SN_ 년/NNB_ 6/SN_ 월/NNB_ 6/SN_ 일/NNB_
+레이 디/NNG_ 가 가/NNG_
+D oll/SL_ D om in ation/SL_ Tour/SL_
+레이 디/NNG_ 가 가/NNG_
+제 시카/NNP_ 수 타/NNG_
+2009/SN_ 년/NNB_ 4/SN_ 월/NNB_ 27/SN_ 일/NNB_
+슬 럼 독/NNG_ 밀 리 어 네 어/NNP_
+빌 보드/NNG_ 지/NNG_
+재/XPN_ 발 매 반/NNG_
+J a i/SL_ H o/SL_ !/SF_
+E/SL_ ! /SW_ O n line/SL_
+킴 벌 리/NNP_ 와이어 트/NNP_
+E/SL_ ! /SW_ O n line/SL_
+애 슐 리/NNP_ 로 버 츠/NNP_
+2010/SN_ 년/NNB_
+리 드/NNG_ 보 컬/NNG_ 니 콜 /NNP_ 셰 르 징 거/NNP_
+마 고/NNG_ 왓 슨/NNP_
+마 고/NNG_ 왓 슨/NNP_
+P CD/SL_
+니 콜 /NNP_ 셰 르 징 거/NNP_
+19 75/SN_ 년/NNB_
+19 81/SN_ 년/NNB_ 3/SN_ 월/NNB_
+펜 더 사/NNG_ 가/JKS_ J ac k son/SL_ G u it ar s/SL_ 를/JKO_ 인수/NNG_
+최/XPN_ 고급/NNG_ 전기/NNG_ 기타/NNG_ 의/JKG_ 제조/NNG_ 와/JC_ 전문/NNG_ 리 페 어/NNP_ 샵 /NNG_
+19 81/SN_ 년/NNB_
+Elec tric/SL_ S oun d/SL_ P ro du c t/SL_
+시 부 야/NNP_ 히 사 타 케 /NNP_
+로스/NNP_ 앤 젤 레스/NNP_
+시그 네 처/NNG_ 기타/NNG_
+조지/NNP_ 린 치/NNP_
+M et al lica/SL_
+조지/NNP_ 린 치/NNP_ 의/JKG_ E S P/SL_ K am i k a z e/SL_
+E S P/SL_ K H/SL_ -/SS_ 2/SN_
+시그 네 처/NNG_ 기타/NNG_
+메 탈 리 카/NNP_
+커 스 텀 /NNP_ 악기/NNG_
+E/SL_ -/SS_ I I/SL_
+St an dar d/SL_ 시리즈/NNG_
+70/SN_ %/SW_ 의/JKG_ 수/NNG_ 제작/NNG_ 공정/NNG_
+2014/SN_ 년/NNB_
+E/SL_ -/SS_ I I/SL_
+사이 타 마/NNP_
+St an dar d/SL_ S eri es/SL_
+O rig in al/SL_
+이승 현/NNP_
+광주 광역시/NNP_
+정 암 초 등 학교/NNP_
+일 화/NNG_
+M net/SL_
+B I G B ANG/SL_
+이승 현/NNP_
+일 화/NNG_
+하루 하루/MAG_
+2006/SN_ 년/NNB_ 8/SN_ 월/NNB_ 19/SN_ 일/NNB_
+B ig b ang/SL_
+2006/SN_ 년/NNB_ 9/SN_ 월/NNB_ 23/SN_ 일/NNB_
+B ig b ang/SL_
+2006/SN_ 년/NNB_
+다음/NNG_ 날/NNG_
+2006/SN_ 년/NNB_ 8/SN_ 월/NNB_ 19/SN_ 일/NNB_
+B ig b ang/SL_
+거짓말/NNG_
+소 나 기/NNP_
+대 성/NNG_
+우리/NP_ 집/NNG_ 에/JKB_ 왜/MAG_ 오/VV_ 았/EP_ 니/EC_
+소 나 기/NNP_
+대 성/NNP_
+우리/NP_ 집/NNG_ 에/JKB_ 왜/MAG_ 오/VV_ 았/EP_ 니/EC_
+승리/NNG_
+우리/NP_ 집/NNG_ 에/JKB_ 왜/MAG_ 오/VV_ 았/EP_ 니/EC_
+다음/NNG_ 날/NNG_
+승리/NNG_ 선언/NNG_
+2012/SN_ 년/NNB_ 8/SN_ 월/NNB_ 27/SN_ 일/NNB_
+오사 카/NNP_
+도쿄/NNP_
+승리/NNG_ 선언/NNG_
+도쿄/NNP_ 드라마/NNG_ 어 워드/NNG_
+승리/NNG_ 선언/NNG_
+도쿄/NNP_
+8/SN_ 월/NNB_ 19/SN_ 일/NNB_
+인 기 녀/NNG_ 100/SN_
+L et/SL_ '/SS_ s/SL_ T al k/SL_ A bout/SL_ L o ve/SL_
+하늘/NNG_ 에/JKB_ 그리/VV_ 는/ETM_ 생각/NNG_
+인 기 녀/NNG_ 100/SN_
+L et/SL_ '/SS_ s/SL_ T al k/SL_ A bout/SL_ L o ve/SL_
+인 기 녀/NNG_ 100/SN_
+T BC/SL_
+2009/SN_ 년/NNB_ 7/SN_ 월/NNB_ 22/SN_ 일/NNB_
+대구 방송/NNP_
+2010/SN_ 년/NNB_ 11/SN_ 월/NNB_ 30/SN_ 일/NNB_
+T BC/SL_
+T BC/SL_
+동양 방송/NNP_
+2013/SN_ 년/NNB_ 11/SN_ 월/NNB_ 15/SN_ 일/NNB_
+1397/SN_ 억/NR_ 원/NNB_
+2013/SN_ 년/NNB_
+1397/SN_ 억/NR_ 원/NNB_
+3/SN_ 위/NNB_
+1397/SN_ 억/NR_ 원/NNB_
+모션/NNG_ 그래 픽 스/NNG_
+음 향/NNG_
+음 향/NNG_
+모션/NNG_ 그래 픽 스/NNG_
+모션/NNG_ 그래 픽 스/NNG_
+음 향/NNG_
+예술/NNG_
+A BC/SL_ 방송사/NNG_
+카 일 쿠 퍼/NNP_
+영상/NNG_ 제작/NNG_ 프로그램/NNG_
+세 븐/NNP_
+A BC/SL_ 방송사/NNG_
+A BC/SL_ 방송사/NNG_
+카 일 쿠 퍼/NNP_
+감독/NNG_ 의/JKG_ 메시지/NNG_
+영상/NNG_ 제작/NNG_
+모션/NNG_ 그래픽/NNG_
+영상/NNG_ 디자인/NNG_
+모션/NNG_ 그래픽/NNG_
+계 몽 주의/NNG_ 시대/NNG_
+s c i en tia/SL_
+s c i en tia/SL_
+철학/NNG_
+s c i en ce/SL_
+지식/NNG_
+임 호 테 프/NNP_
+아이 작 /NNP_ 아시 모 프/NNP_
+임 호 테 프/NNP_
+알 렉 산 드리아/NNP_ 도서관/NNG_
+러시아/NNP_
+아이 작 /NNP_ 아시 모 프/NNP_
+임 호 테 프/NNP_
+탈/XPN_ 동 조화/NNG_
+감 마 선/NNG_ 망 원 경/NNG_
+콜 모 고 로 프/NNP_ -/SS_ 스미 르 노 프/NNP_ 검정/NNG_
+탈/XPN_ 동 조화/NNG_
+거대/NNG_ 하/XSA_ ㅁ/ETN_ 의/JKG_ 끝/NNG_
+균 질/NNG_ 성/XSN_
+12/SN_ 억/NR_ 광 년/NNB_
+거대/NNG_ 하/XSA_ ㅁ/ETN_ 의/JKG_ 끝/NNG_
+260/SN_ //SP_ h/SL_ M p c/SL_
+암 흑 /NNG_ 물질/NNG_
+바 리 온/NNG_ 물질/NNG_
+38/SN_ 억/NR_ 년/NNB_
+100/SN_ 억/NR_ 년/NNB_
+다운/NNG_ 증후군/NNG_
+W e/SL_ C an/SL_
+장애/NNG_ 아이/NNG_ ,/SP_ W e/SL_ C an/SL_
+장애/NNG_ 성 년/NNG_ 후 견/NNG_ 법안/NNG_
+다운/NNG_ 증후군/NNG_
+11/SN_ 월/NNB_ 3/SN_ 일/NNB_
+국가/NNG_ 인권/NNG_ 위원회/NNG_
+최 시 중/NNP_
+2/SN_ 년/NNB_ 이하/NNG_
+국가/NNG_ 인권/NNG_ 위원회/NNG_
+2008/SN_ 년/NNB_ 8/SN_ 월/NNB_
+2/SN_ 년/NNB_ 이하/NNG_ 의/JKG_ 징역/NNG_ 이나/JC_ 금고/NNG_ 또는/MAG_ 1/SN_ 천만/NR_ 원/NNB_ 이하/NNG_ 의/JKG_ 벌금/NNG_
+나 경원/NNP_
+To gether/SL_ W e/SL_ C an/SL_
+106/SN_ 개국/NNB_
+LA/SL_ 스페셜/NNG_ 올림픽/NNG_
+스페셜/NNG_ 올림픽/NNG_
+To gether/SL_ W e/SL_ C an/SL_
+81/SN_ 개/NNB_
+‘/SS_ 호 스트/NNG_ 타운/NNG_ 프로그램/NNG_ ’/SS_
+‘/SS_ To gether/SL_ W e/SL_ C an/SL_ ’/SS_
+국회/NNG_ 외교/NNG_ 통일/NNG_ 위원장/NNG_
+자이 드/NNP_ 라 아 드/NNP_ 알/NNP_ 후세인/NNP_
+외교/NNG_ 통일/NNG_ 위원장/NNG_
+정 두 언/NNP_
+(/SS_ 참여/NNG_ 촉구/NNG_ )/SS_ 결의안/NNG_
+‘/SS_ 유엔/NNP_ 북한/NNP_ 인권/NNG_ 사무소/NNG_ ’/SS_
+‘/SS_ (/SS_ U N/SL_ )/SS_ 북한 인 권/NNP_ (/SS_ 참여/NNG_ 촉구/NNG_ )/SS_ 결의안/NNG_ ’/SS_
+신 라 호텔/NNP_
+윤 미 향 /NNP_
+자 위대/NNG_ 창립/NNG_ 50/SN_ 돌 /NNB_ 행사/NNG_
+트위터/NNG_
+윤 미 향 /NNP_
+자 위대/NNG_ 창립/NNG_ 50/SN_ 돌 /NNB_ 행사/NNG_
+한국 정신 대/NNP_ 문제/NNG_ 대책/NNG_ 협의회/NNG_ 윤 미 향 /NNP_ 대표/NNG_
+후 암 동/NNP_
+YTN/SL_
+가 브리 엘/NNP_ 의/JKG_ 집/NNG_
+반 사 판/NNG_
+가 브리 엘/NNP_ 의/JKG_ 집/NNG_
+1/SN_ 시간/NNG_ 반/NNG_ 이상/NNG_
+2011/SN_ 년/NNB_ 10/SN_ 월/NNB_ 15/SN_ 일/NNB_
+2011/SN_ 년/NNB_ 10/SN_ 월/NNB_ 20/SN_ 일/NNB_
+10/SN_ ./SP_ 26/SN_ 서울/NNP_ 시장/NNG_ 보궐/NNG_ 선거/NNG_
+계정/NNG_ 연동/NNG_ 오류/NNG_
+거짓말/NNG_
+정 광 용/NNP_
+2009/SN_ 년/NNB_ 10/SN_ 월/NNB_ 26/SN_ 일/NNB_
+2009/SN_ 년/NNB_ 10/SN_ 월/NNB_ 30/SN_ 일/NNB_
+정 광 용/NNP_
+명예/NNG_ 훼손/NNG_
+박 사 모/NNP_ 카페/NNG_ 게시판/NNG_
+정 광 용/NNP_ 회장/NNG_
+박 사모/NNG_ (/SS_ 박근혜/NNP_ 를/JKO_ 사랑/NNG_ 하/XSV_ 는/ETM_ 사람/NNG_ 들/XSN_ 의/JKG_ 모임/NNG_ )/SS_
+홍 신 학 원/NNP_
+CBS/SL_ 라디오/NNG_
+홍 신 학 원/NNP_
+교사/NNG_ 들/XSN_
+CBS/SL_ 라디오/NNG_
+홍 신 학 원/NNP_
+CBS/SL_ 라디오/NNG_
+오마이뉴스/NNP_
+KBS/SL_ 라디오/NNG_
+오마이뉴스/NNP_
+19 49/SN_ 년/NNB_
+교육부/NNG_
+19 49/SN_ 년/NNB_
+오마이뉴스/NNP_
+김홍 수/NNP_
+20 18/SN_ 년/NNB_ 1/SN_ 월/NNB_
+여자/NNG_ 아이스 하 키/NNG_
+청와대/NNP_ 국민/NNG_ 청 원/NNG_
+36/SN_ 만/NR_ 9 05/SN_ 명/NNB_
+평창/NNP_ 동계/NNG_ 올림픽/NNG_ 조직/NNG_ 위원/NNG_
+나 경원/NNP_ 의원/NNG_
+20 18/SN_ 년/NNB_ 5/SN_ 월/NNB_ 21/SN_ 일/NNB_
+노무현/NNP_
+박 창 훈/NNP_ 씨/NNB_
+노무현/NNP_ 전/MM_ 대통령/NNG_
+페이스북/NNP_
+박 창 훈/NNP_
+중학/NNG_ 생/XSN_
+물 물/NNG_ 교환/NNG_
+키 르 기 스스탄/NNP_
+로마/NNP_ 황제/NNG_
+왕/NNG_ 들/XSN_ 의/JKG_ 취 미/NNG_
+아마 추 어/NNG_ 애 호가/NNG_ 들/XSN_
+조 폐 국/NNG_
+군 주/NNG_ 또는/MAG_ 총 독/NNG_
+자문/NNG_
+부처/NNP_ 의/JKG_ 실적/NNG_
+군 주/NNG_ 또는/MAG_ 총 독/NNG_
+책임 감/NNG_ 있/VV_ 는/ETM_ 대신/NNG_ 들/XSN_
+미국/NNP_ 독립/NNG_ 혁명/NNG_
+더 럼 /MAG_ 경/NNG_
+책임/NNG_ 정부/NNG_
+18 49/SN_ 년/NNB_
+엘 긴 /NNP_ 경/NNG_
+18 49/SN_ 년/NNB_
+프랑스/NNP_ 계/XSN_ 캐나 다 인/NNG_ 들/XSN_
+엘 긴 /NNP_ 경/NNG_
+웨 스 턴 오 스트레 일 리아/NNP_ 식민지/NNG_ 와/JC_ 뉴질랜드/NNP_
+18 90/SN_ 년/NNB_
+총 독/NNG_
+웨 스트 민 스터/NNP_ 체제/NNG_
+뉴질랜드/NNP_
+19 77/SN_ 년/NNB_
+7/SN_ 년/NNB_ 간/NNG_
+1990/SN_ 년/NNB_ 10/SN_ 월/NNB_ 30/SN_ 일/NNB_
+19 77/SN_ 년/NNB_
+정신/NNG_ 분열/NNG_
+고려 대학교/NNP_
+19 77/SN_ 년/NNB_
+19 83/SN_ 년/NNB_
+산재/NNG_ 요 양/NNG_ 신청/NNG_
+1988/SN_ 년/NNB_ 7/SN_ 월/NNB_ 23/SN_ 일/NNB_
+구리/NNG_ 노동/NNG_ 상담 소/NNG_
+257/SN_ 명/NNB_
+9/SN_ 월/NNB_ 14/SN_ 일/NNB_
+구리/NNG_ 노동/NNG_ 상담 소/NNG_
+1988/SN_ 년/NNB_
+구리/NNG_ 노동/NNG_ 상담 소/NNG_
+원 진 재단/NNP_
+1993/SN_ 년/NNB_ 11/SN_ 월/NNB_ 23/SN_ 일/NNB_
+1999/SN_ 년/NNB_ 6/SN_ 월/NNB_
+원 진 재단/NNP_
+원 진/NNP_ 노동자/NNG_ 건강/NNG_ 센터/NNG_
+1993/SN_ 년/NNB_
+원 진/NNP_ 노동자/NNG_ 건강/NNG_ 센터/NNG_
+9/SN_ 월/NNB_ 4/SN_ 일/NNB_
+보통/NNG_ 열차/NNG_
+6/SN_ 월/NNB_
+9/SN_ 월/NNB_
+6/SN_ 월/NNB_ 15/SN_ 일/NNB_
+9/SN_ 월/NNB_ 4/SN_ 일/NNB_ 의/JKG_ 다이어/NNG_ 개정/NNG_
+제/XPN_ 3/SN_ 출 입문/NNG_
+미 등/NNG_
+비드/NNP_
+1000/SN_ 번/NNB_ 대/XSN_
+차 체/NNG_ 구조/NNG_
+E/SL_ 2 17/SN_ 계/XSN_
+모터/NNG_
+모 하/NNG_ 222/SN_ 형/XSN_
+3/SN_ 기/NNG_
+4/SN_ 기/NNB_
+3000/SN_ 번/NNB_ 대로/JX_
+M T/SL_ 비/NNG_ 1/SN_ :/SP_ 2/SN_
+19 40/SN_ 년/NNB_ 6/SN_ 월/NNB_ 21/SN_ 일/NNB_
+19 46/SN_ 년/NNB_
+1950/SN_ 년/NNB_
+위 티 어/NNP_
+19 40/SN_ 년/NNB_ 6/SN_ 월/NNB_ 21/SN_ 일/NNB_ 에/JKB_
+물가/NNG_ 관리 청/NNG_
+윈 저 트/NNP_ 앤/NNP_ 뷸 리/NNP_
+텔 마/NNG_ "/SS_ 팻 /MAG_ "/SS_ 라이 언/NNP_
+고등학교/NNG_ 교사/NNG_
+36/SN_
+39/SN_
+19 52/SN_ 년/NNB_
+39/SN_ 세/NNB_
+19 53/SN_ 년/NNB_ 1/SN_ 월/NNB_ 20/SN_ 일/NNB_
+39/SN_ 세/NNB_
+19 56/SN_ 년/NNB_
+닉 슨/NNP_ 독 트 린/NNG_
+베트남/NNP_
+마 오 쩌 둥 /NNP_
+19 69/SN_ 년/NNB_
+19 71/SN_ 년/NNB_ 8/SN_ 월/NNB_
+상호/NNG_ 협조/NNG_
+19 69/SN_ 년/NNB_ 2/SN_ 월/NNB_
+2016/SN_ 년/NNB_
+18 88/SN_ 년/NNB_
+선거 인단/NNG_ 수/NNG_
+5/SN_ 번/NNB_
+286/SN_ 만/NR_ 표/NNG_
+18 88/SN_ 년/NNB_
+약 성 서/NNG_
+발 현/NNG_
+하 느 님/NNG_ 의/JKG_ 발 현/NNG_
+하 느 님/NNG_ 의/JKG_ 어 좌/NNG_
+어 좌/NNG_
+약 성 서/NNG_
+후 기/NNG_ 유 다이 즘/NNG_
+도구/NNG_
+후 기/NNG_ 유 다이 즘/NNG_
+그리스 도/NNP_
+하 느 님/NNG_ 의/JKG_ 도구/NNG_
+후 기/NNG_ 유 다이 즘/NNG_
+미 카 엘/NNP_ (/SS_ 유 다/NNP_
+디 오 니 시 오/NNP_
+신앙/NNG_ 교 리/NNG_
+10/SN_ 월/NNB_ 2/SN_ 일/NNB_
+악 마/NNG_
+아 홉 /NR_ 등급/NNG_
+구 품/NNG_ 천 사/NNG_ 론/XSN_
+9/SN_ 월/NNB_ 29/SN_ 일/NNB_
+10/SN_ 월/NNB_ 2/SN_ 일/NNB_
+디 오 니 시 오/NNP_
+하나/NR_
+미 가 엘/NNP_
+ar ch/SL_
+미 가 엘/NNP_
+천 사장/NNG_ (/SS_ ar chan g el/SL_ )/SS_
+미 가 엘/NNP_
+데이미 언/NNP_ 셔 젤/NNG_
+로스 앤 젤 레스/NNP_
+4/SN_ ,/SP_ 500/SN_ 만/NR_ 달러/NNB_
+데이미 언/NNP_ 셔 젤/NNG_
+서 밋 /NNG_ 엔터테인먼트/NNG_
+베네 치 아/NNP_ 국제/NNG_ 영화제/NNG_
+현실/NNG_ 과/JKB_ 동 떨어지/VV_ ㄴ/ETM_ 상태/NNG_
+서 밋 /NNG_ 엔터테인먼트/NNG_
+로스/NNP_ 앤 젤 레스/NNP_
+범 죄 도시/NNP_
+장 첸 /NNP_
+겨울/NNG_ 공 주/NNG_ 평 강/NNP_ 이야기/NNG_
+진 선 규/NNP_
+600/SN_ 만/NR_ 관객/NNG_
+범 죄 도시/NNP_
+범 죄 도시/NNP_
+남 우/NNG_ 조 연/NNG_ 상/NNG_
+육 룡/NNP_ 이/JKS_ 나 르 샤 /NNP_
+행정/NNG_ 의/JKG_ 연구/NNG_
+윌 슨/NNP_
+행정 학/NNG_
+18 87/SN_ 년/NNB_
+인사/NNG_ 제도/NNG_
+우 드 로/NNP_ 윌 슨/NNP_
+행정/NNG_ 의/JKG_ 연구/NNG_
+인사/NNG_ 제도/NNG_
+체크/NNG_
+동 상/NNG_
+빅 히 트/NNG_ 엔터테인먼트/NNG_
+인 어/NNG_ 이야기/NNG_
+박진 영/NNP_
+중학교/NNG_
+서울 대학교/NNP_
+빅 히 트/NNG_ 엔터테인먼트/NNG_
+마 리/NNP_ 앙 투 아 네트/NNP_
+루 이/NNP_ 16/SN_ 세/NNB_
+마 리/NNP_ 앙 투 아 네트/NNP_
+루 이/NNP_ 16/SN_ 세/NNB_
+마 리/NNP_ 앙 투 아 네트/NNP_
+38/SN_ 살/NNB_
+프랑스/NNP_ 혁명/NNG_
+오스트리아/NNP_
+프랑 스 어/NNP_
+17 55/SN_ 년/NNB_ 11/SN_ 월/NNB_ 2/SN_ 일/NNB_
+하 프/NNG_
+마 리아/NNP_ 카 롤 리 나/NNP_
+프랑 스 어/NNP_
+하 프/NNG_
+베르 사 유/NNP_ 궁 전/NNG_
+적 자 부 인/NNP_
+적 자 부 인/NNP_
+마 리아/NNP_ 테 레 지 아/NNP_
+적 자 부 인/NNP_
+베르 사 유/NNP_ 궁 전/NNG_
+천연 두/NNG_
+프 티/NNG_ 트리아 농 /NNP_ 궁 전/NNG_
+천연 두/NNG_
+프 티/NNG_ 트리아 농 /NNP_ 궁 전/NNG_
+목 걸이/NNG_ 사건/NNG_
+프 티/NNG_ 트리아 농 /NNP_ 궁 전/NNG_
+5 40/SN_ 개/NNB_
+페 르 센/NNP_ 백 작/NNG_
+메르 시/NNP_ 대사/NNG_
+메르 시/NNP_ 대사/NNG_
+공화 파/NNG_
+페 르 센/NNP_ 백 작/NNG_
+페 르 센/NNP_ 백 작/NNG_
+6/SN_ 월/NNB_ 25/SN_ 일/NNB_
+마 리/NNP_ 앙 투 아 네트/NNP_
+콩 세 르 쥬 리/NNP_ 감옥/NNG_
+3/SN_ 일/NNB_
+짐 수 레/NNG_
+마 리/NNP_ 테 레 즈/NNP_
+쁘 띠 /NNP_ 트리아 농 /NNP_ 궁/NNG_
+15/SN_ 살/NNB_
+감자/NNG_
+아들/NNG_
+성추행/NNG_
+게임/NNG_ 프리 크/NNP_
+일본/NNP_
+2009/SN_ 년/NNB_
+1999/SN_ 년/NNB_
+2001/SN_ 년/NNB_
+2002/SN_ 년/NNB_
+포 켓 몬 스터/NNP_ 적/NNG_ ·/SP_ 녹 /NNG_
+열 매/NNG_
+몬 스 터 볼 /NNP_
+열 매/NNG_
+몬 스 터 볼 /NNP_
+포 켓/NNG_ 기 어/NNG_
+포 켓 몬/NNG_ 도 감/NNG_
+악/NNG_ 타입/NNG_
+기술/NNG_ 삭제/NNG_ N PC/SL_
+포 켓 몬/NNG_ 도 감/NNG_
+악/NNG_ 타입/NNG_
+기술/NNG_ 삭제/NNG_ N PC/SL_
+포 켓 몬 스터/NNP_ 금/NNG_ ·/SP_ 은/NNG_
+포 켓 몬 스터/NNP_ 피 카 츄 /NNP_
+닌 텐 도/NNP_ 스페이스/NNG_ 월드/NNG_ 엑스포/NNG_
+포 켓 몬 스터/NNP_ 적/NNG_ ·/SP_ 녹 /NNG_
+뮤 /NNG_
+세 레 비/NNG_
+100/SN_ ,/SP_ 000/SN_ 명/NNB_
+세 레 비/NNG_
+2000/SN_ 년/NNB_
+100/SN_ ,/SP_ 000/SN_ 명/NNB_
+이 와 타/NNP_ 사 토 루/NNP_
+1998/SN_ 년/NNB_
+네/MM_ 명/NNB_
+1998/SN_ 년/NNB_
+3/SN_ 년/NNB_ 반/NNG_
+포 켓/NNG_ 피 카 츄 /NNG_ 컬러/NNG_
+와 트/NNP_ 포인트/NNG_
+와 트/NNP_ 포인트/NNG_
+1999/SN_ 년/NNB_ 11/SN_ 월/NNB_ 21/SN_ 일/NNB_
+1999/SN_ 년/NNB_ 11/SN_ 월/NNB_ 18/SN_ 일/NNB_
+뉴욕/NNP_
+K i ds/SL_ '/SS_ W B/SL_
+100/SN_ 종류/NNG_
+크 라이슬 러/NNP_ P T/SL_ 크루 저/NNP_
+아메리 칸/NNG_ 인터내셔 널/NNG_ 토/NNG_ 이/JKS_ 페 어/NNG_
+지우/VV_
+10/SN_ 월/NNB_ 16/SN_ 일/NNB_
+CD/SL_ -/SS_ R O M/SL_
+600/SN_ ,/SP_ 000/SN_ 장/NNB_
+8/SN_ 월/NNB_
+600/SN_ ,/SP_ 000/SN_ 장/NNB_
+150/SN_ ,/SP_ 000/SN_ 장/NNB_
+포 켓 몬 스터/NNP_ 금/NNG_ ·/SP_ 은/NNG_
+피 터/NNP_ 메인/NNG_
+2 300/SN_ 만/NR_ 장/NNB_
+650/SN_ 만/NR_ 장/NNB_
+2 300/SN_ 만/NR_ 장/NNB_
+크레이 그/NNP_ 해 리스/NNP_
+프 랭 크/NNP_ 포 보/NNG_
+닌 텐 도/NNP_ 파워/NNG_
+시간/NNG_ 의/JKG_ 표현/NNG_
+8/SN_ 점/NNB_
+10/SN_ 점/NNB_
+포 켓 몬 스터/NNP_ 크리 스 탈/NNP_
+성 별/NNG_
+포 켓 몬 스터/NNP_ 크리 스 탈/NNP_
+불 꽃/NNG_
+포 켓 몬 스터/NNP_ 루 비/NNG_ ·/SP_ 사 파이어/NNG_
+9/SN_ 점/NNB_
+패 미 통 /NNP_
+9/SN_ 점/NNB_
+34/SN_ 점/NNB_
+13 88/SN_ 년/NNB_
+1398/SN_ 년/NNB_
+방 석/NNG_
+이 방 원/NNP_
+명 나라/NNP_
+전 각/NNG_
+요 동/NNP_ 정 벌/NNG_
+이 방 원/NNP_
+1360/SN_ 년/NNB_
+최 림/NNP_
+성균관/NNP_
+최 림/NNP_
+성균관/NNP_
+성 선 설/NNG_
+이 제 현/NNP_
+성 선 설/NNG_
+성 리학/NNG_
+1365/SN_ 년/NNB_
+1366/SN_ 년/NNB_
+신 돈/NNG_
+동 진 사/NNP_
+1363/SN_ 년/NNB_
+신 돈/NNG_
+백 일/NNG_ 탈 상/NNG_
+13 88/SN_ 년/NNB_
+최영/NNP_
+밀 직 부 사/NNG_
+권 문/NNG_ 세 족/NNG_
+위 화 도/NNP_ 회 군/NNG_
+권 문/NNG_ 세 족/NNG_
+창 왕/NNG_
+경 연 지사/NNG_
+10/SN_ 명/NNB_
+곽 충 보/NNP_
+신 돈 /NNP_
+윤 /NNG_ 이/JKS_ 이/MM_ 초/NNB_ 사건/NNG_
+곽 충 보/NNP_
+강 화 도/NNP_
+폐 가/NNG_ 입 진/NNG_
+봉 화/NNG_
+이성 계/NNP_
+1392/SN_ 년/NNB_
+이성 계/NNP_
+영 주/NNP_
+봉 화/NNG_
+이성 계/NNP_
+공 양 왕/NNP_
+편 민/NNG_ 사 목/NNG_
+17/SN_ 조/NNB_
+이성 계/NNP_
+공 양 왕/NNP_
+편 민/NNG_ 사 목/NNG_
+정 도 전/NNP_
+유 교/NNG_ 성 리학/NNG_
+조선 경 국 전/NNP_
+유 교/NNG_ 성 리학/NNG_
+조선 경 국 전/NNP_
+유 교/NNG_
+마 종/NNP_
+정 도 전/NNP_
+정 도 전/NNP_
+심 기 리 편 /NNP_
+한양/NNP_
+인 왕 산/NNP_
+정 도 전/NNP_
+한양/NNP_
+무 학 대 사/NNP_
+성 리학/NNG_
+세 자 시 강원/NNP_ 이사/NNG_
+이 방 원/NNP_
+방 석/NNG_
+정 도 전/NNP_
+제/XPN_ 1/SN_ 차/NNB_ 왕 자/NNG_ 의/JKG_ 난/NNG_
+방 석/NNG_
+여 덟 째/NR_
+세 자 시 강원/NNP_ 이사/NNG_
+고려 국 사/NNP_
+조선 경 국 전/NNP_
+고려 국 사/NNP_
+조선 경 국 전/NNP_
+공 병/NNG_ 제도/NNG_
+고려 국 사/NNP_
+공 병/NNG_ 제도/NNG_
+봉 화 백/NNG_
+1397/SN_ 년/NNB_
+정 도 전/NNP_
+조 준/NNP_
+1396/SN_ 년/NNB_
+사 은 사/NNG_
+조 준/NNP_
+18 65/SN_ 년/NNB_
+132/SN_ 호/NNB_
+대비/NNG_ 조/NNP_ 씨/NNB_
+문 헌/NNG_
+공 신/NNG_
+고 종/NNP_
+다 비 치/NNP_
+울/VV_ 고/EC_ 싶/VX_ 단/ETM_ 말/NNG_ 이/VCP_ 야/EF_
+다 비 치/NNP_
+박재 범/NNP_
+T en/SL_ Th ou s and/SL_ L ight ye ar s/SL_
+48/SN_ 위/NNB_
+B on ey/SL_ M/SL_ ./SF_
+B on ey/SL_ M/SL_ ./SF_
+L i z/SL_ M it chell/SL_
+48/SN_ 위/NNB_
+4000/SN_ 만/NR_ 원/NNB_
+지원/NNG_ 대상/NNG_
+4000/SN_ 만/NR_ 원/NNB_
+2009/SN_ 년/NNB_ 6/SN_ 월/NNB_
+300/SN_ 만/NR_ 원/NNB_
+4000/SN_ 만/NR_ 원/NNB_
+안 산시/NNP_
+생활/NNG_ 보호/NNG_ 대상자/NNG_
+12/SN_ 년/NNB_
+15/SN_ 년/NNB_
+15/SN_ 년/NNB_
+12/SN_ 년/NNB_
+우 니 쉬 /NNP_
+세종 대학교/NNP_ 세계 어/NNG_ 연구소/NNG_
+47/SN_ 위/NNB_
+우 니 쉬 /NNP_ (/SS_ Un ish/SL_ )/SS_
+랑 메이커/NNG_ (/SS_ l an g m ak er/SL_ )/SS_
+세종 대학교/NNP_
+우 니 쉬 /NNP_ (/SS_ Un ish/SL_ )/SS_
+유니 버 설 /NNP_ (/SS_ Un i ver s al/SL_ )/SS_
+세종 대학교/NNP_
+피 진 어/NNG_
+15/SN_ 개/NNB_
+피 진 어/NNG_ 체계/NNG_
+15/SN_ 개/NNB_
+7/SN_ 가지/NNB_ 원칙/NNG_
+공통/NNG_ 성/XSN_
+다양/NNG_ 성/XSN_
+명 료 /XR_ 성/XSN_
+공통/NNG_ 성/XSN_
+명 료 /XR_ 성/XSN_
+발음/NNG_ 의/JKG_ 용 이/XR_ 성/XSN_
+공통/NNG_ 성/XSN_
+명 료 /XR_ 성/XSN_
+합성/NNG_
+데 레 사 여 자 고등 학교/NNP_ 를/JKO_
+치과/NNG_
+강남/NNP_
+치과/NNG_ 대학/NNG_
+사법/NNG_ 시험/NNG_
+정동영/NNP_
+부산/NNP_ 데 레 사 여 자 고등 학교/NNP_
+경상 남도/NNP_ 통 영 시/NNP_
+서울 대학교/NNP_
+김윤 옥/NNP_
+400/SN_ 만/NR_ 원/NNB_
+기관 지/NNG_ 확 장 증/NNG_
+6/SN_ ./SP_ 3/SN_ 시위/NNG_
+박정희/NNP_
+기관 지/NNG_ 확 장 증/NNG_
+6/SN_ 개월/NNB_
+박정희/NNP_
+2008/SN_ 년/NNB_ 9/SN_ 월/NNB_
+이명박/NNP_ 대통령/NNG_
+30/SN_ 개월/NNB_ 이상/NNG_
+한국/NNP_
+친/XPN_ 서민/NNG_ 중도/NNG_ 실용/NNG_
+PD/SL_ 수첩/NNG_
+30/SN_ 개월/NNB_ 이상/NNG_
+2008/SN_ 년/NNB_
+2010/SN_ 년/NNB_ 4/SN_ 월/NNB_
+2012/SN_ 년/NNB_ 8/SN_ 월/NNB_
+대/XPN_ 법원/NNG_
+피 치/NNG_
+2015/SN_ 년/NNB_
+대북/NNG_ 경제/NNG_ 제재/NNG_
+2011/SN_ 년/NNB_
+피 치/NNG_
+2015/SN_ 년/NNB_
+2009/SN_ 년/NNB_
+6/SN_ 번/NNB_ 째/XSN_
+더/MAG_ 크/VA_ ㄴ/ETM_ 대한민국/NNP_
+2009/SN_ 년/NNB_
+조성/NNP_ 왕 실/NNG_ 의 궤 /NNG_
+더/MAG_ 크/VA_ ㄴ/ETM_ 대한민국/NNP_
+2010/SN_ 년/NNB_
+6/SN_ 번/NNB_ 째/XSN_
+일본/NNP_ 오사 카/NNP_
+이 충 우/NNP_
+이상 정/NNP_
+이상 정/NNP_
+쓰 키 야 마/NNP_ 아 키 히 로/NNP_
+조선 인/NNG_ 부 락/NNG_
+이 충 우/NNP_
+포항 시/NNP_
+이 덕 쇠 /NNP_
+동지/NNG_ 상 고/NNG_ 야 간부/NNG_
+청계천/NNP_ 헌 책 방/NNG_
+19 61/SN_ 년/NNB_
+동지/NNG_ 상 고/NNG_
+서울/NNP_
+고려대/NNP_
+종로/NNP_
+1996/SN_ 년/NNB_ 4/SN_ 월/NNB_ 11/SN_ 일/NNB_
+김유 찬/NNP_
+종로/NNP_
+김유 찬/NNP_
+이종 찬/NNP_
+종로/NNP_
+김유 찬/NNP_
+50/SN_ 만/NR_ 원/NNB_
+2004/SN_ 년/NNB_ 7/SN_ 월/NNB_ 1/SN_ 일/NNB_
+청계천/NNP_ 복원/NNG_ 과/JC_ 버스/NNG_ 체계/NNG_ 개편/NNG_
+티 머니/NNG_
+세계/NNG_ 대중교통/NNG_ 협회/NNG_
+타임 지/NNP_
+2004/SN_ 년/NNB_
+티 머니/NNG_ 교통/NNG_ 카드/NNG_
+세계/NNG_ 대중교통/NNG_ 협회/NNG_
+김경 준/NNP_
+무/XPN_ 혐의/NNG_
+L K e/SL_
+김경 준/NNP_
+위조/NNG_
+미국/NNP_
+김경 준/NNP_
+L K e/SL_
+150/SN_ 억/NR_ 원/NNB_
+한겨 레 신문/NNP_
+150/SN_ 억/NR_ 원/NNB_
+한겨 레 신문/NNP_
+2010/SN_ 년/NNB_
+김경 준/NNP_
+150/SN_ 억/NR_ 원/NNB_
+한겨 레 신문/NNP_
+2007/SN_ 년/NNB_ 8/SN_ 월/NNB_ 17/SN_ 일/NNB_
+3/SN_ ,/SP_ 40/SN_ 대/NNB_
+50/SN_ 대/NNB_ 이상/NNG_
+10/SN_ %/SW_
+50/SN_ 대/NNB_ 이상/NNG_
+진 수 희/NNP_
+10/SN_ %/SW_ 이상/NNG_
+진 수 희/NNP_
+박근혜/NNP_
+이명박/NNP_
+55/SN_ ./SP_ 4/SN_ %/SW_
+2/SN_ ,/SP_ 4 52/SN_ 표/NNG_
+실천/NNG_ 하/XSV_ 는/ETM_ 경제/NNG_ 대통령/NNG_
+55/SN_ ./SP_ 4/SN_ %/SW_
+2/SN_ ,/SP_ 4 52/SN_ 표/NNG_
+한나라당/NNP_
+5/SN_ 표/NNG_
+이회창/NNP_
+12/SN_ 월/NNB_ 5/SN_ 일/NNB_
+34/SN_ ./SP_ 7/SN_ %/SW_
+이회창/NNP_
+34/SN_ ./SP_ 7/SN_ %/SW_
+이회창/NNP_
+20/SN_ %/SW_
+34/SN_ ./SP_ 7/SN_ %/SW_
+채 종 기/NNP_
+32/SN_ 대/NNB_
+누 각/NNG_ 을/JKO_ 받 치/VV_ 는/ETM_ 석 축/NNG_
+숭 례 문/NNP_
+5/SN_ 시간/NNB_
+채 종 기/NNP_
+32/SN_ 대/NNB_
+128/SN_ 명/NNB_
+태 평 고/NNP_
+2/SN_ 만/NR_ 5000/SN_ 명/NNB_
+국회/NNG_ 의사 당/NNG_
+태 평 고/NNP_
+취임/NNG_ 기념/NNG_ 우 표/NNG_
+2008/SN_ 년/NNB_
+국회/NNG_ 의사 당/NNG_
+태 평소/NNG_
+2007/SN_ 년/NNB_ 12/SN_ 월/NNB_ 7/SN_ 일/NNB_
+2009/SN_ 년/NNB_ 12/SN_ 월/NNB_
+4 51/SN_ 명/NNB_
+2007/SN_ 년/NNB_
+청계 재단/NNP_
+청계 재단/NNP_
+330/SN_ 여/XSN_ 억/NR_ 원/NNB_
+천 신 일/NNP_
+광 복 절/NNG_
+김태 호/NNP_
+광 복 절/NNG_
+실천/NNG_
+실천/NNG_
+김태 호/NNP_
+베트남/NNP_ 하 노 이/NNP_
+1/SN_ 조/NR_ 8/SN_ 천/NR_ 원/NNB_
+베트남/NNP_ 하 노 이/NNP_
+1/SN_ 조/NR_ 8/SN_ 천/NR_ 원/NNB_
+베트남/NNP_
+30/SN_ 일/NNB_
+한/NNP_ -/SS_ 아세 안/NNP_ 정상/NNG_ 회의/NNG_
+한/NNP_ -/SS_ 메 콩 강/NNP_ 외교/NNG_ 장관/NNG_ 회의/NNG_
+메 콩 강/NNP_ 경제/NNG_ 권/XSN_
+10/SN_ 개/NNB_
+메 콩 강/NNP_
+10/SN_ 개/NNB_
+유럽/NNP_
+프랑스/NNP_
+라 르 스/NNP_ 뢰 케 /NNP_ 라 스 무 센/NNP_ 총리/NNG_
+독일/NNP_
+라 르 스/NNP_ 뢰 케 /NNP_ 라 스 무 센/NNP_
+독일/NNP_
+덴 마크/NNP_
+칸/NNG_
+현 정/NNP_ 은/JX_
+8/SN_ 월/NNB_ 21/SN_ 일/NNB_
+현 정/NNP_ 은/JX_
+800/SN_ 연 안 호/NNG_
+현 정/NNP_ 은/JX_
+김대중/NNP_
+800/SN_ 연 안 호/NNG_
+2009/SN_ 년/NNB_ 11/SN_ 월/NNB_ 10/SN_ 일/NNB_
+정 운 찬/NNP_
+정 운 찬/NNP_
+통일/NNG_ 신 보/NNG_
+북 방/NNG_ 한 계 선/NNG_
+통일/NNG_ 신 보/NNG_
+정 운 찬/NNP_
+2009/SN_ 년/NNB_ 12/SN_ 월/NNB_ 14/SN_ 일/NNB_
+유 명 환/NNP_ 외교/NNG_ 통상부/NNG_ 장관/NNG_
+오 자 와/NNP_ 이치 로/NNP_
+가 와 바 타/NNP_ 다 쓰 오/NNP_
+유 명 환/NNP_
+오 자 와/NNP_ 이치 로/NNP_
+문 부/NNG_ 과학/NNG_ 성/XSN_
+가 와 바 타/NNP_ 다 쓰 오/NNP_
+3/SN_ 명/NNB_
+김 포 공항/NNP_
+자민 당/NNP_
+700/SN_ 여/XSN_ 명/NNB_
+2011/SN_ 년/NNB_
+독도/NNP_
+700/SN_ 여/XSN_ 명/NNB_
+20/SN_ 주년/NNB_
+상 트 페 테 르 부르 크/NNP_
+2009/SN_ 년/NNB_
+GS/SL_ 칼 텍 스/NNG_
+현대자동차/NNP_
+20/SN_ 주년/NNB_
+52/SN_ 배/NNG_
+GS/SL_ 칼 텍 스/NNG_
+400/SN_ 조/NNB_
+11/SN_ 조/NR_ 4000/SN_ 억/NR_ 원/NNB_
+291/SN_ 조/NR_ 9000/SN_ 억/NR_ 원/NNB_
+22/SN_ 조/NR_ 9000/SN_ 억/NR_ 원/NNB_
+400/SN_ 조/NNB_
+21/SN_ ./SP_ 7/SN_ %/SW_
+2/SN_ 배/NNG_
+5/SN_ ./SP_ 3/SN_ %/SW_
+8/SN_ 억/NR_ 달러/NNB_ 선/NNG_
+5/SN_ ./SP_ 3/SN_ %/SW_
+유승 민/NNP_
+5/SN_ ./SP_ 3/SN_ %/SW_
+유승 민/NNP_
+김 중 수/NNP_
+2008/SN_ 년/NNB_ 2/SN_ 월/NNB_ 25/SN_ 일/NNB_
+한나라당/NNP_
+2008/SN_ 년/NNB_
+한나라당/NNP_
+창조/NNG_ 적/XSN_ 실 용 주의/NNG_
+실용/NNG_ 정부/NNG_
+한나라당/NNP_
+5/SN_ 월/NNB_ 2/SN_ 일/NNB_
+100/SN_ 만/NR_ 명/NNB_
+청계/NNP_ 광장/NNG_
+탄핵/NNG_ 서명/NNG_ 운동/NNG_
+100/SN_ 만/NR_ 명/NNB_
+외교/NNG_ 통상부/NNG_ 청사/NNG_
+박 왕 자/NNP_
+오전/NNG_ 4/SN_ 시/NNB_ 50/SN_ 분/NNB_ 경/XSN_
+박 왕 자/NNP_
+현대 아산/NNP_
+박 왕 자/NNP_
+만 /MM_ 53/SN_ 세/NNB_
+녹색/NNG_ 뉴 딜 /NNG_
+루 스 벨 트/NNP_
+친/XPN_ 환경/NNG_ 성장/NNG_ 전략/NNG_
+녹색/NNG_ 뉴 딜 /NNG_
+녹색/NNG_ 성장/NNG_
+루 스 벨 트/NNP_
+녹색/NNG_ 뉴 딜 /NNG_
+40/SN_ 분/NNB_
+오전/NNG_ 6/SN_ 시/NNB_ 12/SN_ 분/NNB_
+물 대 포/NNG_
+5/SN_ 명/NNB_
+7/SN_ 명/NNB_
+40/SN_ 분/NNB_
+오전/NNG_ 6/SN_ 시/NNB_ 12/SN_ 분/NNB_
+5/SN_ 명/NNB_
+김석 기/NNP_ 차기/NNG_ 경찰청장/NNG_
+2/SN_ ,/SP_ 3/SN_ 층/NNG_
+김석 기/NNP_
+농 성 자/NNG_
+김석 기/NNP_
+인 화/NNG_ 물질/NNG_
+노무현/NNP_ 대통령/NNG_
+이명박/NNP_ 과/JC_ 검찰/NNG_
+서울 광 장/NNP_
+보수/NNG_ 단체/NNG_
+편 상/NNG_ 욱 /JKG_
+헌법/NNG_ 재판소/NNG_
+노무현/NNP_
+서울 광 장/NNP_
+덕 수 궁/NNP_
+71/SN_ 위/NNB_
+44/SN_ 위/NNB_
+8/SN_ 만/NR_ 12 19/SN_ 명/NNB_
+8/SN_ 만/NR_ 12 19/SN_ 명/NNB_
+정부/NNG_ 총/MM_ 예산/NNG_
+작/VA_ 은/ETM_ 정부/NNG_
+8/SN_ 만/NR_ 12 19/SN_ 명/NNB_
+84/SN_ 위/NNB_
+이건희/NNP_
+2009/SN_ 년/NNB_ 12/SN_ 월/NNB_ 29/SN_ 일/NNB_
+2008/SN_ 년/NNB_
+평창/NNP_ 동계/NNG_ 올림픽/NNG_ 유치/NNG_
+이건희/NNP_
+평창/NNP_ 동계/NNG_ 올림픽/NNG_
+이상 득 /NNP_
+2010/SN_ 년/NNB_ 3/SN_ 월/NNB_ 26/SN_ 일/NNB_
+40/SN_ 명/NNB_
+천안함/NNP_
+북한/NNP_ 정 찰/NNG_ 총 국/NNG_
+안보리/NNG_
+백 령 도/NNP_ 근처/NNG_ 해상/NNG_
+40/SN_ 명/NNB_
+6/SN_ 명/NNB_
+식 코/NNG_
+고용/NNG_ 노사/NNG_ 비서 실/NNG_
+김종 익/NNP_
+MBC/SL_ PD/SL_ 수첩/NNG_
+영 포 회/NNP_
+PD/SL_ 수첩/NNG_
+김종 익/NNP_
+영 포 회/NNP_
+대 연 평 도/NNP_
+2/SN_ 명/NNB_
+대 연 평 도/NNP_
+중 화 인민 공화국/NNP_
+진 돗 개/NNG_
+대 연 평 도/NNP_
+2/SN_ 명/NNB_
+8/SN_ 개월/NNB_
+3/SN_ 월/NNB_
+102/SN_ 명/NNB_
+아랍/NNP_ 에 미 리 트/NNP_
+5/SN_ 명/NNB_
+현지/NNG_ 교 민/NNG_ 간담회/NNG_
+5/SN_ 명/NNB_
+102/SN_ 명/NNB_
+오후/NNG_ 6/SN_ 시/NNB_ 30/SN_ 분/NNB_
+인도 양/NNP_ 해역/NNG_
+2011/SN_ 년/NNB_ 1/SN_ 월/NNB_ 21/SN_ 일/NNB_
+삼 호 주 얼 리 호/NNP_
+아 덴 만/NNP_ 여 명/NNG_ 작전/NNG_
+삼 호 주 얼 리 호/NNP_
+아 덴 만/NNP_ 여 명/NNG_ 작전/NNG_
+8/SN_ 명/NNB_
+장 두 노 미/NNG_
+정 두 언/NNP_ 의원/NNG_
+장 두 노 미/NNG_
+정 두 언/NNP_
+장 두 노 미/NNG_
+타 조/NNG_
+정 두 언/NNP_
+서울/NNP_
+8/SN_ 월/NNB_ 29/SN_ 일/NNB_
+김대중/NNP_ 평화/NNG_ 센터/NNG_
+남북/NNP_ 적 십자/NNP_ 대표단/NNG_
+김대중/NNP_ 평화/NNG_ 센터/NNG_
+8/SN_ 월/NNB_ 29/SN_ 일/NNB_
+이산가족/NNG_ 상봉/NNG_
+임진 강/NNP_ 참사/NNG_
+10/SN_ 월/NNB_ 14/SN_ 일/NNB_
+임진 강/NNP_ 참사/NNG_
+현 인 택/NNP_
+황 강 댐 /NNP_
+현 인 택/NNP_
+10/SN_ 월/NNB_ 14/SN_ 일/NNB_
+한/MM_ 척/NNB_
+통일/NNG_ 신 보/NNG_
+남한/NNP_
+서해/NNP_ 북 방/NNG_ 한 계 선/NNG_
+반 파/NNG_
+국무총리/NNG_
+거리/NNG_ 비례/NNG_ 제/XSN_
+4/SN_ 종류/NNG_
+대중교통/NNG_ 체계/NNG_
+도로/MAG_ 중앙/NNG_
+서울/NNP_ 시장/NNG_
+이동/NNG_ 하/XSV_ ㄴ/ETM_ 거리/NNG_
+4/SN_ 종류/NNG_
+2011/SN_ 년/NNB_
+알 뜰 /NNG_ 폰/NNG_
+M V N O/SL_
+2015/SN_ 년/NNB_
+M V N O/SL_
+알 뜰 /NNG_ 폰/NNG_
+10/SN_ %/SW_
+경영자/NNG_
+김 황 식/NNP_
+김 황 식/NNP_
+7000/SN_ 여/XSN_ 명/NNB_
+최 루 액/NNG_
+김 황 식/NNP_
+영 도 조선 소/NNP_
+보수/NNG_ 단체/NNG_
+서울 광 장/NNP_
+서울 광 장/NNP_
+70/SN_ %/SW_
+나이 트 라인/NNG_
+5/SN_ 월/NNB_ 29/SN_ 일/NNB_
+헌법/NNG_ 재판소/NNG_
+'/SS_ 곱/VA_ ㄴ/ETM_ 얼굴/NNG_ 선발/NNG_ 대회/NNG_
+신 의 /NNP_
+품 위/NNG_ 있/VV_ 는/ETM_ 그녀/NP_
+김희 선/NNP_
+비 천 무/NNP_
+신 의 /NNP_
+19 77/SN_ 년/NNB_ 6/SN_ 월/NNB_ 11/SN_ 일/NNB_
+경상 북도/NNP_ 대구/NNP_
+'/SS_ 곱/VA_ ㄴ/ETM_ 얼굴/NNG_ 선발/NNG_ 대회/NNG_
+미 스터/NNG_ Q/SL_
+목 욕 탕/NNG_ 집/NNG_ 남자/NNG_ 들/XSN_
+김희 선/NNP_
+미 스터/NNG_ Q/SL_
+미 스터/NNG_ Q/SL_
+22/SN_ 세/NNB_
+김희 선/NNP_
+요 조 숙 녀 /NNP_
+《/SS_ 슬 프/VA_ ㄴ/ETM_ 연 가/NNG_
+신화/NNG_ -/SS_ 진 시 황 릉/NNP_ 의/JKG_ 비밀/NNG_
+요 조 숙 녀 /NNP_
+신화/NNG_ -/SS_ 진 시 황 릉/NNP_ 의/JKG_ 비밀/NNG_
+스마 일/NNP_ 어 게 인/NNP_
+요 조 숙 녀 /NNP_
+《/SS_ 슬 프/VA_ ㄴ/ETM_ 연 가/NNG_
+진 시 황 릉/NNP_ 의/JKG_ 비밀/NNG_
+전국/NNG_ :/SP_ 천 하/NNG_ 영웅/NNG_ 의/JKG_ 시대/NNG_
+화 신/NNP_ -/SS_ 마음/NNG_ 을/JKO_ 지배/NNG_ 하/XSV_ 는/ETM_ 자/NNB_
+참/MAG_ 좋/VA_ 은/ETM_ 시절/NNG_
+참/MAG_ 좋/VA_ 은/ETM_ 시절/NNG_
+화 신/NNP_ -/SS_ 마음/NNG_ 을/JKO_ 지배/NNG_ 하/XSV_ 는/ETM_ 자/NNB_
+스마 일/NNP_ 어 게 인/NNP_
+참/MAG_ 좋/VA_ 은/ETM_ 시절/NNG_
+신 의 /NNP_
+평창/NNP_
+2002/SN_ 년/NNB_ 1/SN_ 월/NNB_ 9/SN_ 일/NNB_
+무/XPN_ 주의/NNG_
+평창/NNP_
+무 주/NNP_
+국제 스키 연 맹 /NNP_
+2002/SN_ 년/NNB_ 1/SN_ 월/NNB_ 9/SN_ 일/NNB_
+2010/SN_ 년/NNB_ 5/SN_ 월/NNB_ 25/SN_ 일/NNB_
+무 주/NNP_
+솔 트레이 크/NNP_ 뇌물/NNG_ 파동/NNG_
+2002/SN_ 년/NNB_ 10/SN_ 월/NNB_ 24/SN_ 일/NNB_
+I O C/SL_
+솔 트레이 크/NNP_ 뇌물/NNG_ 파동/NNG_
+2002/SN_ 년/NNB_ 10/SN_ 월/NNB_ 24/SN_ 일/NNB_
+퀘 벡 /NNP_
+200/SN_ f t/SL_ ×/SW_ 85/SN_ f t/SL_ (/SS_ 61/SN_ m/SL_ ×/SW_ 26/SN_ m/SL_ )/SS_
+제 너 럴/NNG_ 모터 스/NNP_ 플 레이스/NNG_
+100/SN_ 만/NR_ 캐나다/NNP_ 달러/NNG_
+NH L/SL_ 규격/NNG_
+스키/NNG_ 크로스/NNG_
+밴 쿠 버/NNP_ 캐 넉 스/NNP_ (/SS_ V ancou ver/SL_ C an u c k s/SL_ )/SS_
+제 너 럴/NNG_ 모터 스/NNP_ 플 레이스/NNG_
+2006/SN_ 년/NNB_ 11/SN_ 월/NNB_ 28/SN_ 일/NNB_
+여자/NNG_ 스키/NNG_ 점 프/NNG_
+V AN O C/SL_
+여자/NNG_ 스키/NNG_ 점 프/NNG_
+소 치/NNG_
+V AN O C/SL_
+여자/NNG_ 스키/NNG_ 점 프/NNG_
+밴 쿠 버/NNP_
+SBS/SL_
+I O C/SL_ 와/JKB_ 의/JKG_ 올림픽/NNG_ 중계/NNG_ 독점/NNG_ 계약/NNG_ 절차/NNG_
+일본/NNP_
+SBS/SL_
+SBS/SL_
+리 우 데 자 네이루/NNP_
+SBS/SL_
+대한민국/NNP_
+텔/NNG_ 만/JX_
+2/SN_ 명/NNB_
+2/SN_ 명/NNB_
+공산당/NNP_
+파 울 /NNP_ 폰/NNP_ 힌 덴 부르 크/NNP_
+19 25/SN_ 년/NNB_
+텔/NNG_ 만/JX_
+파 울 /NNP_ 폰/NNP_ 힌 덴 부르 크/NNP_
+50/SN_ %/SW_
+최 다/NNG_ 득 표 자/NNG_
+과 반/NNG_ 득 표 자/NNG_
+25/SN_ %/SW_
+50/SN_ %/SW_
+상위/NNG_ 득 표 자/NNG_ 2/SN_ 인/NNG_
+2002/SN_ 년/NNB_
+장/NNP_ 마 리/NNP_ 르/NNP_ 펜 /NNP_
+자 크/NNP_ 시 라 크/NNP_
+장/NNP_ 마 리/NNP_ 르/NNP_ 펜 /NNP_
+60/SN_ %/SW_
+자 크/NNP_ 시 라 크/NNP_
+장/NNP_ 마 리/NNP_ 르/NNP_ 펜 /NNP_
+리 오 넬 /NNP_ 조 스 팽 /NNP_
+선호/NNG_ 투표/NNG_ 제/XSN_
+우 파/NNG_
+후보/NNG_ 단일/NNG_ 화/XSN_
+선호/NNG_ 투표/NNG_ 제/XSN_
+우 파/NNG_
+선호/NNG_ 투표/NNG_ 제/XSN_
+좌파/NNG_
+콩 도 르 세/NNP_ 패 자/NNG_
+콩 도 르 세/NNP_ 승자/NNG_
+콩 도 르 세/NNP_ 패 자/NNG_
+선호도/NNG_
+콩 도 르 세/NNP_ 패 자/NNG_
+콩 도 르 세/NNP_ 승자/NNG_
+선호도/NNG_
+1987/SN_ 년/NNB_
+노 태 우/NNP_
+단순/NNG_ 다수/NNG_ 제/XSN_
+김영삼/NNP_
+36/SN_ ./SP_ 6/SN_ %/SW_
+노 태 우/NNP_
+김대중/NNP_
+노 태 우/NNP_
+과 반/NNG_
+콩 도 르 세/NNP_ 패 자/NNG_
+콩 도 르 세/NNP_ 패 자/NNG_
+과 반/NNG_ 득표/NNG_
+노 태 우/NNP_
+결 선/NNG_ 투표/NNG_ 제/XSN_
+역 효과/NNG_
+지지자/NNG_
+19 46/SN_ 년/NNB_
+하 페 즈/NNP_ 알아 사 드/NNP_
+2012/SN_ 년/NNB_
+19 46/SN_ 년/NNB_
+19 54/SN_ 년/NNB_
+하 페 즈/NNP_ 알아 사 드/NNP_
+19 46/SN_ 년/NNB_
+하 페 즈/NNP_ 알아 사 드/NNP_
+라 타 키아/NNP_ 시위/NNG_
+리 파트/NNP_ 알아 사 드/NNP_
+바 샤 르/NNP_ 알아 사 드/NNP_
+간 질/NNG_ 성/XSN_ 폐/NNG_ 질환/NNG_
+바 샤 르/NNP_ 알아 사 드/NNP_
+민주주의/NNG_
+34/SN_ 세/NNB_
+다 마 스쿠 스/NNP_ 의/JKG_ 봄/NNG_
+휴 먼 /NNG_ 라이 츠/NNP_ 워 치/NNP_
+국제/NNG_ 기구/NNG_
+치안/NNG_ 부대/NNG_
+시리아/NNP_ 의/JKG_ 인권/NNG_
+체포/NNG_ 와/JC_ 투 옥/NNG_
+하 마/NNG_
+2011/SN_ 년/NNB_ 시리아/NNP_ 혁명/NNG_
+3/SN_ 월/NNB_ 15/SN_ 일/NNB_
+2011/SN_ 년/NNB_ 시리아/NNP_ 혁명/NNG_
+3/SN_ 월/NNB_ 15/SN_ 일/NNB_
+2011/SN_ 년/NNB_ 시리아/NNP_ 혁명/NNG_
+오 마 리/NNP_ 모스크/NNG_ 주변/NNG_
+히 즈 브/NNP_ 우 트 타 흐 리 르/NNP_
+오 마 리/NNP_ 모스크/NNG_
+히 즈 브/NNP_ 우 트 타 흐 리 르/NNP_
+영광/NNG_ 의/JKG_ 금요일/NNG_
+17/SN_ 명/NNB_
+10/SN_ 만/NR_ 명/NNB_
+영광/NNG_ 의/JKG_ 금요일/NNG_
+17/SN_ 명/NNB_
+영광/NNG_ 의/JKG_ 금요일/NNG_
+사 나마/NNG_ 이/VCP_ ㄴ/ETM_
+폭 동/NNG_
+아마 드/NNP_ 바 데 르/NNP_ 하 순/NNG_
+라 타 키아/NNP_
+라 타 키아/NNP_
+공무원/NNG_ 급여/NNG_
+4/SN_ 월/NNB_ 1/SN_ 일/NNB_
+레 제 프/NNP_ 타이 프/NNP_ 에 르 도 안/NNP_
+아 델/NNP_ 사 파 르/NNP_
+국경/NNG_
+알아 사 드/NNP_
+아 델/NNP_ 사 파 르/NNP_
+니 카 브/NNP_
+시리아/NNP_ 시민/NNG_ 권/XSN_
+실 탄/NNG_
+저항/NNG_ 의/JKG_ 금요일/NNG_
+37/SN_ 명/NNB_
+저항/NNG_ 의/JKG_ 금요일/NNG_
+37/SN_ 명/NNB_
+최 루/NNG_ 가스/NNG_
+새롭/VA_ ㄴ/ETM_ 내각/NNG_ 의/JKG_ 출범/NNG_
+최 루/NNG_ 가스/NNG_
+다 라/NNP_
+43/SN_ 년/NNB_
+최고/NNG_ 국가/NNG_ 치안/NNG_ 재판소/NNG_
+국가/NNG_ 비상 사태/NNG_ 의/JKG_ 해제/NNG_
+43/SN_ 년/NNB_
+최고/NNG_ 국가/NNG_ 치안/NNG_ 재판소/NNG_
+43/SN_ 년/NNB_
+최고/NNG_ 국가/NNG_ 치안/NNG_ 재판소/NNG_
+전 차/NNG_
+요 르 단/NNP_
+25/SN_ 명/NNB_
+요 르 단/NNP_
+미 스 킨/NNG_
+알 자 지/NNP_ 이/VCP_ 라는/ETM_
+50/SN_ 명/NNB_
+알 자 지/NNP_ 이/VCP_ 라는/ETM_
+샤 이 크/NNG_ 미 스 킨/NNG_
+저항/NNG_ 의/JKG_ 날/NNG_
+올리 브/NNG_ 가지/NNG_
+올리 브/NNG_ 가지/NNG_
+알 미 단/NNG_
+홈 스/NNP_
+바 니 야 스/NNP_
+알레 포/NNP_
+홈 스/NNP_
+알레 포/NNP_
+아 네 르 스/NNP_ 포 그/NNG_ 라 스 무 센/NNP_
+1/SN_ ,/SP_ 000/SN_ 명/NNB_
+11/SN_ 명/NNB_
+아 네 르 스/NNP_ 포 그/NNG_ 라 스 무 센/NNP_
+함 자/NNG_ 알 하 티브/NNG_
+5/SN_ 월/NNB_ 30/SN_ 일/NNB_
+바 트 당/NNP_
+13/SN_ 살/NNB_
+전/MM_ 국민/NNG_ 대화/NNG_ 위원회/NNG_
+잔 혹/NNG_ 하/XSA_ ㄴ/ETM_ 점 령 군/NNG_
+사우 디 아라비아/NNP_
+3/SN_ 개월/NNB_
+3/SN_ 개월/NNB_
+370/SN_ 명/NNB_
+별/NNG_
+우 루 과 이/NNP_
+4/SN_ 개/NNB_
+우승/NNG_
+4/SN_ 개/NNB_
+1930/SN_ 년/NNB_
+별/NNG_
+우 루 과 이/NNP_
+1930/SN_ 년/NNB_
+4/SN_ 개국/NNB_
+아르헨티나/NNP_
+우 루 과 이/NNP_
+유 고 슬 라 비아/NNP_
+제 비 뽑 기/NNG_
+페 루/NNP_
+유 고 슬 라 비아/NNP_
+아르헨티나/NNP_ 와/JKB_
+스웨덴/NNP_
+브라질/NNP_
+알 시 데 스/NNG_ 기지 아/NNG_
+브라질/NNP_
+브라질/NNP_
+알 시 데 스/NNG_ 기지 아/NNG_
+남미/NNP_ 축구/NNG_ 선수 권/NNG_ 대회/NNG_
+이탈리아/NNP_
+스웨덴/NNP_
+남미/NNP_ 축구/NNG_ 선수 권/NNG_ 대회/NNG_
+이탈리아/NNP_
+줄 리 메 컵/NNG_
+이탈리아/NNP_
+줄 리 메 컵/NNG_
+16/SN_ 강/NNG_
+코 파/NNG_ 아메리카/NNP_
+덴 마크/NNP_
+와 일 드/NNP_ 카드/NNG_
+대한민국/NNP_
+16/SN_ 강/NNG_
+오 프 사이 드/NNG_ 오 심/NNG_ 골/NNG_
+디 에 고/NNP_ 포 를 란/NNP_
+루 이스/NNP_ 알 베르 토/NNP_ 수 아 레스/NNP_
+4/SN_ 강/NNG_
+디 에 고/NNP_ 포 를 란/NNP_
+손/NNG_
+40/SN_ 년/NNB_
+디 에 고/NNP_ 포 를 란/NNP_
+가 나/NNP_
+40/SN_ 년/NNB_
+2/SN_ 위/NNB_
+콜 롬 비아/NNP_
+2011/SN_ 년/NNB_
+잉 글 랜드/NNP_
+스페인/NNP_
+코 파/NNG_ 아메리카/NNP_
+콜 롬 비아/NNP_
+뉘 르 부르 크 링/NNP_ (/SS_ N/SL_ ?/SP_ r bur g ring/SL_ )/SS_
+안전/NNG_
+G P/SL_ -/SS_ 슈 트 레 케 /NNP_
+독일/NNP_
+G P/SL_ -/SS_ 슈 트 레 케 /NNP_
+1980/SN_ 년대/NNB_
+독일/NNP_
+모토/NNG_ 레이싱/NNG_ 의/JKG_ 성 지/NNG_
+노르 트 슐 라이 페 /NNP_
+아이 클러/NNP_
+28/SN_ ./SP_ 3/SN_ km/SL_
+토 니/NNP_ 바 우 호 퍼/NNP_
+구 스타 프/NNP_ 아이 클러/NNP_
+2/SN_ 천/NR_ 7/SN_ 백만/NR_ 유로/NNG_
+만 오 천/NR_ 명/NNB_
+2/SN_ 년/NNB_
+2500/SN_ 명/NNB_
+모토/NNG_ 사이클/NNG_ 아이 펠 레 넨 /NNP_
+19 51/SN_ 년/NNB_
+투 어 링/NNG_ 카/NNP_ 챔피 언 십/NNG_
+19 51/SN_ 년/NNB_
+2/SN_ 차/NNB_ 대전/NNG_ 종전/NNG_ 후/NNG_
+10/SN_ 만/NR_ 명/NNB_
+19 51/SN_ 년/NNB_
+10/SN_ 만/NR_ 명/NNB_
+피 어스/NNP_ 커 리지/NNG_
+페 라 리/NNG_
+니 키/NNP_ 라우 다/NNP_
+포 뮬 러/NNP_ 원/NNB_
+F/SL_ 1/SN_ 선수/NNG_ 들/XSN_
+피 어스/NNP_ 커 리지/NNG_
+보 이 콧 /NNG_
+니 키/NNP_ 라우 다/NNP_
+G P/SL_ -/SS_ 슈 트 레 케 /NNP_
+2009/SN_
+19 84/SN_ 년/NNB_
+G P/SL_ -/SS_ 슈 트 레 케 /NNP_
+뉘 르 부르 크 링/NNP_ 2009/SN_
+19 84/SN_ 년/NNB_
+G P/SL_ -/SS_ 슈 트 레 케 /NNP_
+6/SN_ 분/NNB_ 47/SN_ 초/NNB_
+링 마이스터/NNP_
+링 마이스터/NNP_
+스테 판 /NNP_ 벨 로 프/NNP_
+6/SN_ 분/NNB_ 47/SN_ 초/NNB_
+6/SN_ 분/NNB_ 11/SN_ 초/NNB_ 13/SN_
+포르 쉐 /NNP_ 9 56/SN_
+19 84/SN_ 년/NNB_
+그 랑 프리/NNG_
+그 랑 프리/NNG_
+19 84/SN_ 년/NNB_
+쥐 트 슐 라이 페 /NNP_
+쥐 트 슐 라이 페 /NNP_
+유럽/NNP_ 그 랑 프리/NNG_
+16/SN_ 개/NNB_
+10/SN_ 번/NNB_
+추 월/NNG_ 장면/NNG_
+16/SN_ 개/NNB_
+슈 마 허/NNP_ S/SL_
+16/SN_ 개/NNB_
+슈 마 허/NNP_ S/SL_
+6/SN_ 번/NNB_
+2011/SN_ 년/NNB_
+2003/SN_
+테스트/NNG_ 센터/NNG_
+브리 지 스 톤/NNP_
+G re en/SL_ H ell/SL_
+2003/SN_ 년/NNB_
+70/SN_ 년대/NNB_
+국제/NNG_ 자동차/NNG_ 연맹/NNG_
+G P/SL_ -/SS_ 슈 트 레 케 /NNP_
+루 이스/NNP_ 해 밀 턴/NNP_
+국제/NNG_ 자동차/NNG_ 연맹/NNG_
+2011/SN_ 년/NNB_
+루 이스/NNP_ 해 밀 턴/NNP_ 이/VCP_ 다/EF_ ./SF_
+포 뮬 러/NNP_ 원/NNG_
+호 켄 하 임 링/NNP_
+루 이스/NNP_ 해 밀 턴/NNP_
+드라이 빙/NNG_ 아카데미/NNG_
+모토/NNG_ 스포츠/NNG_ 협회/NNG_
+드라이 빙/NNG_ 아카데미/NNG_
+독일/NNP_ 모토/NNG_ 스포츠/NNG_ 협회/NNG_
+드라이 버/NNG_
+레이싱/NNG_
+1990/SN_ 유로/NNG_
+티켓/NNG_
+BMW/SL_ -/SS_ R ing/SL_ T a x i/SL_
+트랙 /NNG_ 투어/NNG_
+밤/NNG_ 7/SN_ 시/NNB_
+14 45/SN_ 유로/NNB_
+트랙 /NNG_ 투어/NNG_
+14 45/SN_ 유로/NNB_
+3/SN_ 인/NNG_
+S a ve/SL_ the/SL_ R ing/SL_
+레 져 파크/NNP_
+S a ve/SL_ the/SL_ R ing/SL_
+3/SN_ 억/NR_ 5/SN_ 천만/NR_ 유로/NNG_
+3/SN_ 억/NR_ 5/SN_ 천만/NR_ 유로/NNG_
+재정부/NNG_ 장관/NNG_
+조건 부/NNG_ 세 비/NNG_ 반 납/NNG_
+27/SN_ 명/NNB_
+2017/SN_ 년/NNB_ 5/SN_ 월/NNB_ 31/SN_ 일/NNB_
+40/SN_ 명/NNB_
+27/SN_ 명/NNB_
+새누리당/NNP_
+40/SN_
+27/SN_
+신문/NNG_
+국정/NNG_ 농 단/NNG_ 사태/NNG_
+과제/NNG_ 이행/NNG_
+자유/NNG_ 한국당/NNP_
+31/SN_ 일/NNB_
+국정/NNG_ 농 단/NNG_ 사태/NNG_
+국정/NNG_ 농 단/NNG_
+해당/NNG_ 상임위/NNG_
+국제/NNG_ 기능/NNG_ 올림픽/NNG_ 대회/NNG_
+2/SN_ 천/NR_ 66/SN_ 만/NR_ 원/NNB_
+'/SS_ 나/NP_ 의/JKG_ 로/JKB_ 남 불/NNG_
+환경/NNG_ 노동/NNG_ 위원회/NNG_
+독일/NNP_
+산업/NNG_ 인 력 공단/NNP_ 이/JKS_
+환경/NNG_ 노동/NNG_ 위원회/NNG_
+독일/NNP_
+연합뉴스/NNP_
+블루 스/NNG_
+12/SN_ 마디/NNG_
+블루 스/NNG_
+블루/NNG_ 노트/NNG_
+블루 스/NNG_
+블루/NNG_ 노트/NNG_
+우울/NNG_ 과/JC_ 슬픔/NNG_
+원 맨/NNG_ 광 대/NNG_ 쇼/NNG_
+블루/NNG_ 법/NNG_ B l ue/SL_ l a w s/SL_
+블루/NNG_ 데 빌 스/NNP_
+블루/NNG_ 법/NNG_ B l ue/SL_ l a w s/SL_
+블루/NNG_ 법/NNG_ B l ue/SL_ l a w s/SL_
+블루/NNG_ 데 빌 스/NNP_
+4/SN_ 번/NNB_
+12/SN_ 마디/NNG_
+19 27/SN_ 년/NNB_
+4/SN_ 번/NNB_
+A A B/SL_ 패턴/NNG_
+R ising/SL_ H igh/SL_ W ater/SL_ B l u es/SL_
+미/NNG_ 와/JC_ 시/NNG_
+블루/NNG_ 노트/NNG_
+피/XPN_ 압박/NNG_ 인종/NNG_
+블루/NNG_ 노트/NNG_
+흑인/NNG_ 노예/NNG_
+미/NNG_ 와/JC_ 시/NNG_
+하 행/NNG_ 선 법/NNG_
+4/SN_ 박 자/NNG_
+3/SN_ 가지/NNB_
+1/SN_ 도/NNB_
+드 럼/NNG_
+유럽/NNP_ 스타일/NNG_
+드 럼/NNG_
+12/SN_ 마디/NNG_
+블루 스/NNG_ 세 븐 /NNG_
+유럽/NNP_ 의/JKG_ 다이어 토 닉/NNG_
+리 듬 앤 블루 스/NNG_ 와/JC_ 록 큰 롤/NNG_ ,/SP_ 재 즈/NNG_
+서부/NNG_ 의/JKG_ 화성/NNP_
+블루 스/NNG_ 세 븐 /NNG_
+19 20/SN_ ~/SO_ 40/SN_ 년대/NNB_
+19 08/SN_ 년/NNB_
+19 12/SN_ 년/NNB_
+마 미/NNP_ 스미 스/NNP_
+I/SL_ G o t/SL_ the/SL_ B l u es/SL_
+19 08/SN_ 년/NNB_
+미국/NNP_ 남부/NNG_
+I/SL_ G o t/SL_ the/SL_ B l u es/SL_
+마 미/NNP_ 스미 스/NNP_
+20/SN_ 세기/NNG_ 초/NNB_
+라 파 예 트/NNP_
+폴/NNP_ 올리 버/NNP_
+W/SL_ ./SF_ C/SL_ ./SP_ 핸 디/NNG_
+하 워 드/NNP_ W/SL_ ./SF_ 오 덤/NNG_
+하 워 드/NNP_ W/SL_ ./SF_ 오 덤/NNG_
+20/SN_ 세기/NNG_ 초/NNB_
+19/SN_ 세기/NNG_
+싱 코 페이 션/NNG_
+음악/NNG_ 적/XSN_ 형태/NNG_ 와/JC_ ,/SP_ 장르/NNG_
+재 즈/NNG_
+싱 코 페이 션/NNG_
+싱 코 페이 션/NNG_
+19/SN_ 세기/NNG_ 말/NNB_
+포 크/NNG_ 블루 스/NNG_
+선/NNP_ 하우스/NNG_
+떠 돌 이/NNG_ 악 사/NNG_ 들/XSN_
+찰 리/NNP_ 패 튼/NNP_
+어 쿠 스틱/NNG_ 기타/NNG_ 나/JC_ 하 모니 카/NNG_
+찰 리/NNP_ 패 튼/NNP_
+베 니/NNP_ 모 텐 /NNP_
+베이시/NNP_
+점 프/NNG_ 블루 스/NNG_
+19 40/SN_ 년/NNB_
+시카고/NNP_
+점 프/NNG_ 블루 스/NNG_
+카운 트/NNG_ 베이시/NNP_
+19 31/SN_ 년/NNB_
+티 본 /NNP_ 워 커/NNP_
+찰 리/NNP_ 크리 스 천/NNG_
+19 31/SN_ 년/NNB_
+찰 리/NNP_ 크리 스 천/NNG_
+19 31/SN_ 년/NNB_
+T/SL_ -/SS_ 본 /NNP_ 워 커/NNP_
+시카고/NNP_ 블루 스/NNG_
+디 트로이 트/NNP_
+19 40/SN_ 년대/NNB_
+시카고/NNP_ ,/SP_ 맴 피 스/NNP_ ,/SP_ 디 트로이 트/NNP_
+록/NNG_ 음악/NNG_ 의/JKG_ 탄생/NNG_
+1950/SN_ 년대/NNB_ 후반/NNG_
+영국/NNP_
+영국/NNP_
+블루 스/NNG_ 페스티벌/NNG_
+1950/SN_ 년대/NNB_ 후반/NNG_
+영국/NNP_
+60/SN_ 년대/NNB_ 초반/NNG_
+스크리 밍 /NNP_ 로드/NNP_ 서 치/NNP_
+60/SN_ 년대/NNB_ 초반/NNG_
+브리 티 시/NNG_ 리 듬 /NNG_ 앤/NNP_ 블루 스/NNG_
+에 시 드/NNG_ 록/NNG_
+비 비 /MAG_ 킹/NNG_
+E n d less/SL_ B oo g i e/SL_
+에 시 드/NNG_ 록/NNG_
+비 비 /MAG_ 킹/NNG_
+에 시 드/NNG_ 록/NNG_
+비 비 /MAG_ 킹/NNG_
+1960/SN_ 년대/NNB_
+클래식/NNG_ 블루 스/NNG_
+B l u es/SL_ in/SL_ the/SL_ N ight/SL_
+배 트 맨 /NNP_ 의/JKG_ 테마 곡/NNG_
+해 롤 드/NNP_ 알 렌/NNP_
+비 틀 즈/NNP_
+파 비 안/NNP_ 포르 테 /NNG_
+R/SL_ hap s o d y/SL_ in/SL_ B l ue/SL_
+A/SL_ H ar d/SL_ D ay/SL_ '/SS_ s/SL_ N ight/SL_
+정 지 룡/NNP_
+무역/NNG_
+푸 젠/NNP_
+삼/NNP_
+도 독 직/NNG_
+정 지 룡/NNP_
+후쿠 마 쓰 /NNP_
+정 삼/NNG_
+명 나라/NNP_
+샤 먼 /NNG_ 섬/NNG_
+에 도/NNP_ 막 부/NNG_
+남 해/NNP_ 무역/NNG_
+해 금/NNG_ 정책/NNG_
+16 44/SN_ 년/NNB_
+이 자 성/NNP_ 의/JKG_ 난/NNG_
+16 47/SN_ 년/NNB_
+양 쯔 /NNP_ 강/NNG_
+과 주/NNP_ 와/JC_ 전장/NNG_
+청 나라/NNP_
+15/SN_ 만/NR_ 5/SN_ 천/NR_ 명/NNB_
+24/SN_ 개/NNB_
+15/SN_ 만/NR_ 5/SN_ 천/NR_ 명/NNB_
+16 46/SN_ 년/NNB_ 3/SN_ 월/NNB_
+39/SN_ 세/NNB_
+8/SN_ 천만/NR_ 원/NNB_
+동생/NNG_ 이/JKS_ 전 세금/NNG_ 으로/JKB_ 사용/NNG_
+향후/NNG_ 10/SN_ 년/NNB_ 간/NNG_
+10/SN_ 년/NNB_
+2/SN_ 년/NNB_
+8/SN_ 천만/NR_ 원/NNB_
+이화 여 자 대학교/NNP_
+광주 교도 소/NNP_
+광 복 절/NNG_ 특별/NNG_ 사면/NNG_
+이화 여 자 대학교/NNP_
+박성 준/NNP_
+19 67/SN_ 년/NNB_
+말/NNG_
+높/VA_ 은/ETM_ 다이 옥 신/NNG_ 농도/NNG_
+국 감 모니 터 단/NNG_
+새만금/NNP_ 사업/NNG_
+뉴스/NNG_ 메이커/NNG_ ,/SP_ 문화 일보/NNP_ ,/SP_ 국감/NNG_ 연대/NNG_
+중앙일보/NNP_
+하 수도/NNG_
+환경부/NNG_
+중앙일보/NNP_
+상 수도/NNG_ 와/JC_ 하 수도/NNG_
+이 부 영/NNP_
+4/SN_ 월/NNB_ 3/SN_ 일/NNB_
+문 희 상/NNP_
+이 부 영/NNP_
+상임/NNG_ 중앙/NNG_ 위원/NNG_ 직/NNG_
+문 희 상/NNP_
+유시민/NNP_
+러시아/NNP_
+5/SN_ 월/NNB_ 3/SN_ 일/NNB_
+5/SN_ 월/NNB_ 21/SN_ 일/NNB_
+러시아/NNP_
+한명숙/NNP_
+9/SN_ ./SP_ 42/SN_
+이해찬/NNP_
+8/SN_ 월/NNB_ 7/SN_ 일/NNB_
+필 패/NNG_ 카드/NNG_
+5/SN_ 위/NNB_
+이해찬/NNP_
+정동영/NNP_
+유시민/NNP_
+이해찬/NNP_ 후보/NNG_
+9/SN_ 월/NNB_ 15/SN_ 일/NNB_
+검찰/NNG_ 측/NNB_
+골프 채/NNG_
+징역/NNG_ 3/SN_ 년/NNB_ 형/XSN_
+의자/NNG_
+3/SN_ 년/NNB_
+무/XPN_ 죄/NNG_
+대한 통 운/NNP_
+패 소/NNG_
+조선일보/NNP_
+2012/SN_ 년/NNB_ 1/SN_ 월/NNB_ 6/SN_ 일/NNB_
+대한 통 운/NNP_
+심 장병/NNG_
+의자/NNG_
+심 장병/NNG_
+5/SN_ 만/NR_ 달러/NNB_
+4/SN_ 차/NNB_
+서울/NNP_ 시장/NNG_
+9/SN_ 억/NR_ 4000/SN_ 여/XSN_ 만/NR_ 원/NNB_
+2011/SN_ 년/NNB_ 10/SN_ 월/NNB_ 31/SN_ 일/NNB_
+한 신 건 영/NNP_
+불법/NNG_ 정치/NNG_ 자금/NNG_
+집/NNG_ 근처/NNG_ 도로/NNG_
+종 친/NNG_
+종 친/NNG_
+지역구/NNG_ 사무실/NNG_
+한 신 건 영/NNP_ 의/JKG_ 계열사/NNG_
+열리/VV_ ㄴ/ETM_ 공판/NNG_ 증인/NNG_
+수표/NNG_
+이사/NNG_ 비용/NNG_
+대한 통 운/NNP_
+1/SN_ 억/NR_ 원/NNB_
+자녀/NNG_ 교육비/NNG_
+현금/NNG_
+장 롱/NNG_
+지난해/NNG_ 4/SN_ 월/NNB_
+3/SN_ 억/NR_ 원/NNB_
+2/SN_ 억/NR_ 원/NNB_
+의약/NNG_
+P L o S/SL_
+2000/SN_ 년/NNB_ 10/SN_ 월/NNB_
+P lo s/SL_ B i olo g y/SL_
+P L o S/SL_
+퍼 블 릭/NNG_ 라이 브 러 리/NNG_ 오 브/NNG_ 사이 언스/NNG_
+퍼 블 릭/NNG_ 라이 브 러 리/NNG_ 오 브/NNG_ 사이 언스/NNG_
+B ill/SL_ &/SW_ M elinda/SL_ G ates/SL_ F oun dation/SL_
+2000/SN_ 년/NNB_
+2000/SN_ 년/NNB_
+34/SN_ ,/SP_ 000/SN_ 여/XSN_ 명/NNB_
+2001/SN_ 년/NNB_
+2003/SN_ 년/NNB_
+P lo S/SL_ B i olo g y/SL_
+풀 뿌리/NNG_
+31/SN_ ,/SP_ 0 79/SN_ 명/NNB_
+2002/SN_ 년/NNB_ 12/SN_ 월/NNB_ 17/SN_ 일/NNB_
+P lo S/SL_ B i olo g y/SL_
+2000/SN_ 년/NNB_
+182/SN_ 개국/NNB_
+2006/SN_ 년/NNB_
+연구/NNG_ 카메라/NNG_
+잭 /NNP_
+U/SL_ -/SS_ 제조/NNG_ 스테이 션/NNG_
+연구/NNG_ 카메라/NNG_
+바이오/NNG_ 쇼크/NNG_
+U/SL_ -/SS_ 제조/NNG_ 스테이 션/NNG_
+빅/NNG_ 대/VV_ 디 /EC_
+A DAM/SL_
+채 집 자/NNG_ 의/JKG_ 화 원/NNG_
+A DAM/SL_
+빅/NNG_ 대 디/NNG_
+리 틀/NNG_ 시스터/NNG_
+빅/NNG_ 대/VV_ 디 /EC_
+장 갑/NNG_ 하/XSA_ ㄴ/ETM_ 잠수 복/NNG_
+빅/NNG_ 대 디/NNG_
+랩 쳐 /NNG_
+아일랜드/NNP_
+라이 언/NNP_
+랩 쳐 /NNP_
+리 틀/NNG_ 시스터/NNG_
+아 틀 라 스/NNP_
+잠수 함/NNG_
+재 스 민/NNG_ 졸 리/VV_ ㄴ/ETM_
+프 랭 크/NNP_ 폰 테인/NNP_
+아 틀 라 스/NNP_
+라이 언/NNP_
+랩 쳐 /VV_
+골프/NNG_
+랩 쳐 /VV_
+테 넌 바 움 /NNP_
+리 틀/NNG_ 시스터/NNG_
+폰 테인/NNP_
+테 넌 바 움 /NNP_
+리 틀/NNG_ 시스터/NNG_
+테 넌 바 움 /NNP_ 박사/NNG_
+막대/XR_ 하/XSA_ ㄴ/ETM_ 양/NNG_ 의/JKG_ A DAM/SL_
+테 넌 바 움 /NNP_ 박사/NNG_
+3/SN_ 가지/NNB_
+5/SN_ 명/NNB_
+3/SN_ 가지/NNB_
+5/SN_ 명/NNB_
+스 플라이 서/NNG_
+핵/NNG_ 미사일/NNG_
+A DAM/SL_
+테 넌 바 움 /NNP_
+슬 프/VA_ ㄴ/ETM_ 어 조/NNG_
+종교/NNG_ 재/XPN_ 교육 자/NNG_
+2004/SN_ 년/NNB_
+2004/SN_ 년/NNB_
+종교/NNG_ 재/XPN_ 교육 자/NNG_
+종교/NNG_ 재/XPN_ 교육 자/NNG_
+상원/NNG_ 의원/NNG_
+시스템/NNG_ 쇼크/NNG_ 시리즈/NNG_
+유 령/NNG_
+초/XPN_ 감각/NNG_ 적/XSN_ 능력/NNG_
+무 전기/NNG_
+시스템/NNG_ 쇼크/NNG_ 시리즈/NNG_
+초/XPN_ 감각/NNG_ 적/XSN_ 능력/NNG_
+D irec t/SL_ 3/SN_ D/SL_ 10/SN_
+하 복/NNG_ 물리/NNG_ 엔진/NNG_
+언 리얼/NNG_ 엔진/NNG_ 2/SN_ ./SP_ 5/SN_
+D irec t/SL_ 3/SN_ D/SL_ 10/SN_
+하 복/NNG_ 물리/NNG_ 엔진/NNG_
+하 복/NNG_ 물리/NNG_ 엔진/NNG_
+수 중/NNG_ 예술 가/NNG_
+2007/SN_ 년/NNB_
+래 리/NNP_ 허브/NNG_
+플 레이스테이 션/NNG_ 스토 어/NNG_
+8/SN_ 월/NNB_ 20/SN_ 일/NNB_
+10/SN_ 월/NNB_ 2/SN_ 일/NNB_
+8/SN_ 월/NNB_ 20/SN_ 일/NNB_
+보안/NNG_ 시스템/NNG_
+조 던/NNP_ 토마 스/NNP_
+H ori z on t al/SL_ P l us/SL_
+서 바이 버/NNP_ 모 드/NNG_
+H ori z on t al/SL_ P l us/SL_
+서 바이 버/NNP_ 모 드/NNG_
+H ori z on t al/SL_ P l us/SL_
+서 바이 버/NNP_ 모 드/NNG_
+2/SN_ K/SL_ 게임 즈/NNP_
+보 스턴/NNP_ 글로 브/NNG_
+와이어 드/NNG_ 매 거 진/NNG_
+보 스턴/NNP_ 글로 브/NNG_
+와이어 드/NNG_ 매 거 진/NNG_
+정치/NNG_ 적/XSN_ 성향/NNG_
+와이어 드/NNG_ 매 거 진/NNG_
+메 타 크리 틱 /NNP_
+디스 이즈/NNG_ 게임/NNG_
+96/SN_ 점/NNB_
+2007/SN_ 년/NNB_
+디스 이즈/NNG_ 게임/NNG_
+96/SN_ 점/NNB_
+95/SN_ ./SP_ 4/SN_ %/SW_
+세/MM_ 번/NNB_ 째/XSN_
+비타/NNG_ 체 임 버 스/NNP_
+흑 백/NNG_ 논리/NNG_ 적/XSN_
+롤 플 레 잉/NNG_ 게임/NNG_
+비타/NNG_ 체 임 버 스/NNP_
+조 너 선/NNP_ 블 로 우/NNP_
+비타/NNG_ 체 임 버 스/NNP_
+I G N/SL_
+라이 프 치 히/NNP_ 게임/NNG_ 컨벤 션/NNG_
+Best/SL_ G ame/SL_
+2007/SN_ 년/NNB_
+2006/SN_ 년/NNB_
+2006/SN_ 년/NNB_
+Best/SL_ G ame/SL_
+게임 스 팟 /NNP_
+게임/NNG_ 인포 머/NNG_
+게임 스 파이/NNP_
+Best/SL_ Stor y/SL_
+게임 스 파이/NNP_
+1/SN_ 위/NNB_
+1/SN_ 패 치/NNG_
+H ori z on t al/SL_ FO V/SL_ L ock/SL_
+윈도/NNG_ 버전/NNG_
+멀 미/NNG_
+2/SN_ 번/NNB_
+5/SN_ 회/NNB_
+2/SN_ 번/NNB_
+5/SN_ 회/NNB_
+설치/NNG_ ·/SP_ 제거/NNG_ 프로그램/NNG_
+취소/NNG_ 툴 /VV_ F A Q/SL_
+19 51/SN_ 년/NNB_ 9/SN_ 월/NNB_ 20/SN_ 일/NNB_
+2/SN_ 위/NNB_
+부산/NNP_
+상 도 동/NNP_ 계/XSN_
+1989/SN_ 년/NNB_
+부산/NNP_
+김용 주/NNP_
+19 86/SN_ 년/NNB_
+2010/SN_ 년/NNB_ 5/SN_ 월/NNB_
+공천/NNG_ 에/JKB_ 탈락/NNG_
+부산/NNP_ 영 도 구/NNP_
+당/NNG_ 대표/NNG_
+비 박/NNG_ (/SS_ 비/XPN_ 박근혜/NNP_ )/SS_ 계/XSN_
+2012/SN_ 년/NNB_
+2014/SN_ 년/NNB_ 7/SN_ 월/NNB_ 14/SN_ 일/NNB_ 에/JKB_
+2016/SN_ 년/NNB_ 11/SN_ 월/NNB_
+1/SN_ 년/NNB_ 치/XSN_ 국회의원/NNG_ 세 비/NNG_
+신문/NNG_
+20/SN_ 대/NNB_ 총선/NNG_
+1/SN_ 년/NNB_ 치/XSN_ 국회의원/NNG_ 세 비/NNG_
+20/SN_ 대/NNB_ 총선/NNG_
+대한민국/NNP_ 과/JKB_ 의/JKG_ 계약/NNG_
+행 온/NNG_
+승 해/NNG_
+대 승 광 오 온 론/NNP_
+수 온/NNG_
+5/SN_ 온/NNG_
+물 거품/NNG_
+인지/NNG_
+실천/NNG_
+실천/NNG_
+6/SN_ 바라 밀/NNG_
+어 리 석 /VA_ 지/EC_ 않/VX_ 음/ETN_
+대 승 오 온 론/NNP_
+실천/NNG_
+여 실 정 행/NNG_
+심 무/NNG_ 발 오 성/NNG_
+마음/NNG_ 작용/NNG_
+염 오 법/NNG_
+사/NNG_
+사/NNG_
+심 무/NNG_ 발 오 성/NNG_
+3/SN_ 불/NNB_ 선 근/NNG_
+욕/NNG_ 계/XSN_ 의/JKG_ 무 명/NNG_
+욕/NNG_ 계/XSN_ 의/JKG_ 탐 /NNG_
+진/NNP_
+치 불/NNG_ 선 근/NNG_
+욕 계/NNG_
+욕 전 탐 /NNG_
+3/SN_ 불/NNB_ 선 근/NNG_
+진 불/NNG_ 선 근/NNG_
+탐 불/NNG_ 선 근/NNG_
+욕 전 무 명/NNG_
+3/SN_ 불/NNB_ 선 근/NNG_
+욕 계/NNG_
+무 명/NNG_
+탐 /NNG_
+진/NNG_
+욕 전 탐 /NNG_
+욕 전 무 명/NNG_
+살/NNG_
+화합/NNG_ 적 취/NNG_
+가 야/NNG_
+대 승 광 오 온 론/NNP_
+패 괴/NNG_
+'/SS_ 나/NP_ 의/JKG_ 것/NNB_
+번 뇌/NNG_ 의/JKG_ 성 질/NNG_
+업/NNG_ 의/JKG_ 성 질/NNG_
+5/SN_ 가지/NNB_
+업/NNG_
+5/SN_ 가지/NNB_
+업/NNG_
+7/SN_ 가지/NNB_
+노사/NNG_
+제/XPN_ 6/SN_ 지분/NNG_
+7/SN_ 가지/NNB_
+7/SN_ 가지/NNB_
+명 색/NNG_
+선 업/NNG_ 과/JC_ 악 업/NNG_ 의/JKG_ 작용/NNG_
+업/NNG_
+천 인/NNG_
+중 생/NNG_
+천 인/NNG_ (/SS_ 天 人/SH_ )/SS_ 도/JX_
+악 업/NNG_
+마음/NNG_
+심 추/NNG_
+의 언/NNG_
+심 추/NNG_
+의 언/NNG_
+심 추/NNG_
+혜/NNP_
+심 세/NNG_
+심 세/NNG_
+차별/NNG_
+사찰/NNG_
+사/NNG_
+픽 업/NNG_ 의/JKG_ 사용/NNG_
+T ele caster/SL_
+F en der/SL_
+R ic k en b ac k er/SL_
+픽 업/NNG_ 의/JKG_ 사용/NNG_
+19 31/SN_ 년/NNB_
+픽 업/NNG_
+F l y ing/SL_ P an/SL_
+T ele caster/SL_
+픽 업/NNG_
+기타/NNG_ 줄/NNG_
+픽 업/NNG_
+공기/NNG_ 의/JKG_ 진 동/NNG_
+현/NNP_ 의/JKG_ 진 동/NNG_
+전 류/NNG_
+자 기장/NNG_
+도 체/NNG_
+V/SL_ 자/NNB_
+마 호 가니/NNG_
+블루 스/NNG_ 용/XSN_
+로켓/NNG_
+셋 /NR_ 이/VCP_ ㄴ/ETM_ 넥 /EC_ 공 법/NNG_
+코 리/NNP_ 나/JC_ 목재/NNG_
+58/SN_ 년/NNB_
+블루 스/NNG_
+깁 슨/NNP_
+S G/SL_
+개성/NNG_ 적/XSN_ 이/VCP_ ㄴ/ETM_ 사 운드/NNG_
+S G/SL_
+중 후 /XR_ 하/XSA_ ㄴ/ETM_ 사 운드/NNG_
+하이 플랫 /NNG_ 연주/NNG_
+토 니/NNP_ 아이 오 미/NNG_
+S G/SL_
+깁 슨/NNP_
+3/SN_ 개/NNB_
+스트 랫 /NNG_
+3/SN_ 개/NNB_
+펜 더/NNG_
+싱글/NNG_ 픽 업/NNG_
+펜 더/NNG_
+3/SN_ 개/NNB_
+물 방울/NNG_
+재 규 어/NNG_
+커 트/NNG_ 코 베 인/NNG_
+재 규 어/NNG_
+펜 더/NNG_
+쇠 붙 이/NNG_
+62/SN_ 년/NNB_
+재 즈/NNG_ 마 스터/NNG_
+19 75/SN_ 년/NNB_
+19 58/SN_ 년/NNB_
+2007/SN_ 년/NNB_
+일렉 트 릭/NNP_ 기타/NNG_
+19 58/SN_ 년/NNB_
+일제/NNG_ 펜 더/NNG_
+재 즈/NNG_ 마 스터/NNG_
+2007/SN_ 년/NNB_
+할 로 우 바 디/NNG_
+세미/NNG_ 할 로 우/NNG_
+노 엘/NNP_ 갤러 /VV_ 거/NNB_
+할 로 우 바 디/NNG_
+풀 할 로 우 바 디/NNP_
+세미/NNG_ 할 로 우/NNG_
+두/MM_ 가지/NNB_
+세미/NNG_ 할 로 우/NNG_
+풀 할 로 우 바 디/NNP_
+페이 퍼/NNG_ 모 드/NNG_
+김현 식/NNP_
+실 루 엣 /NNG_
+페이 퍼/NNG_ 모 드/NNG_
+김현 식/NNP_
+황 치 훈/NNP_
+페이 퍼/NNG_ 모 드/NNG_
+김현 식/NNP_
+실 루 엣 /NNG_
+김광 수/NNP_
+이 별/NNG_ 의/JKG_ 그 늘/NNG_
+노 땐 스/NNP_
+김광 수/NNP_
+이 별/NNG_ 의/JKG_ 그 늘/NNG_
+노 땐 스/NNP_
+김광 수/NNP_
+3/SN_ 천만/NR_ 원/NNB_
+노 땐 스/NNP_
+C L ICH/SL_
+월드/NNG_ 뮤직/NNG_
+C L ICH/SL_
+2002/SN_ 년/NNB_
+이사/NNG_
+C L ICH/SL_
+월드/NNG_ 뮤직/NNG_
+라 틴/NNP_ 음악/NNG_ 의/JKG_ 전 도 사/NNG_
+Y O O N S ANG/SL_ SO N G BO O K/SL_ ：/SP_ P l ay/SL_ W ith/SL_ H im/SL_ !/SF_
+윤 상/NNP_ 콘서트/NNG_ -/SS_ P l ay/SL_ with/SL_ h im/SL_
+모 텟 /NNG_
+2008/SN_ 년/NNB_
+모 텟 /NNG_
+NY U/SL_
+P l ay/SL_ with/SL_ h im/SL_
+모 텟 /NNG_
+강 수 지/NNP_
+일렉 트로 니 카/NNG_
+N oo d le/SL_ R o ad/SL_
+잊 으 라 니/NNP_
+O ne/SL_ and/SL_ O n ly/SL_
+누 들 로드/NNP_
+이 소 라/NNP_
+팝 스/NNG_
+한국/NNP_ 의/JKG_ 강/NNG_
+팝 스/NNG_
+아 키 에이지/NNP_
+한국/NNP_ 의/JKG_ 강/NNG_
+상 명 대학교/NNP_
+팝 스/NNG_
+위대/XR_ 하/XSA_ ㄴ/ETM_ 탄생/NNG_
+최 다 니 엘/NNP_
+여름 밤/NNG_ 의/JKG_ 꿈/NNG_
+L etter/SL_ to/SL_ y our/SL_ Ch rist m as/SL_
+최 다 니 엘/NNP_
+여름 밤/NNG_ 의/JKG_ 꿈/NNG_
+생명/NNG_ 최/XPN_ 전선/NNG_
+최 다 니 엘/NNP_
+생명/NNG_ 최/XPN_ 전선/NNG_
+아르헨티나/NNP_
+306/SN_ 보 충 대/NNG_
+밤/NNG_ 의/JKG_ 디스크/NNG_ 쇼/NNG_
+1993/SN_ 년/NNB_ 5/SN_ 월/NNB_
+아르헨티나/NNP_ 국적/NNG_
+T BC/SL_ 동양 방송/NNP_
+김 을 동/NNP_ 사단/NNG_
+19 64/SN_ 년/NNB_
+T BC/SL_ 동양 방송/NNP_
+풍 문/NNG_ 여자/NNG_ 고등학교/NNG_
+풍 문/NNG_ 여자/NNG_ 고등학교/NNG_
+19 63/SN_ 년/NNB_
+19 64/SN_ 년/NNB_
+이회창/NNP_
+노 태 우/NNP_
+민주 정의 당/NNP_
+이회창/NNP_
+노 태 우/NNP_ 대통령/NNG_
+변호사/NNG_
+19 86/SN_ 년/NNB_
+불법/NNG_ 선거/NNG_
+민주 정의 당/NNP_
+이 적/NNG_ 표 현물/NNG_
+임금/NNG_ 과/JC_ 기초/NNG_ 이론/NNG_
+국가/NNG_ 보안법/NNG_
+무 죄/NNG_
+7/SN_ 조/NR_ 5/SN_ 항/NNG_
+김상 명/NNP_
+검사/NNG_
+사회/NNG_ 민주주의/NNG_ 청년/NNG_ 연맹/NNG_ 사건/NNG_
+김대중/NNP_
+죄 형/NNG_ 법정/NNG_ 주의/NNG_
+사회/NNG_ 민주주의/NNG_ 청년/NNG_ 연맹/NNG_
+무 죄/NNG_ 판결/NNG_
+시장/NNG_
+최 형 록/NNP_
+김대중/NNP_
+감 사 원장/NNG_ 공 관/NNG_ 입주/NNG_
+서면/NNG_ 조사/NNG_
+대 쪽/NNG_
+거부/NNG_
+권위/NNG_ 혁 파/NNG_ 와/JC_ 권 위 주의/NNG_ 적/XSN_ 이/VCP_ ㄴ/ETM_
+서면/NNG_ 조사/NNG_
+6/SN_ 명/NNB_
+대 쪽/NNG_
+신한국당/NNP_
+김영삼/NNP_ 대통령/NNG_ 에게/JKB_
+김대중/NNP_
+신한국당/NNP_ 내/NNB_
+신한국당/NNP_ 신임/NNG_ 총재/NNG_
+신한국당/NNP_
+추석/NNG_
+c b s/SL_ 와/JC_ 경 실 련/NNG_
+6 70/SN_ 억/NR_ 비자금/NNG_ 사건/NNG_
+강 삼 재/NNP_
+김대중/NNP_
+김대중/NNP_ 후보/NNG_ 의/JKG_ 6 70/SN_ 억/NR_ 비자금/NNG_ 사건/NNG_
+김대중/NNP_ 후보/NNG_ 의/JKG_ 비자금/NNG_ 수사/NNG_
+이인 제/NNP_
+비자금/NNG_
+강 삼 재/NNP_
+호남/NNP_
+김영삼/NNP_
+김영삼/NNP_
+신한국당/NNP_
+합 당/NNG_ 합동/NNG_ 회의/NNG_
+호남/NNP_
+김태 정/NNP_
+김영삼/NNP_
+IMF/SL_ 사태/NNG_
+국민 신 당/NNP_
+D JP/SL_ 연대/NNG_
+1997/SN_ 년/NNB_
+이인 제/NNP_
+D JP/SL_ 연대/NNG_
+국민 신 당/NNP_
+김종 필/NNP_
+IMF/SL_ 구제/NNG_ 금융/NNG_ 사태/NNG_
+1998/SN_ 년/NNB_
+내각/NNG_ 제/XSN_ 개헌/NNG_
+한나라당/NNP_ 총재/NNG_
+김영삼/NNP_ 과/JC_ 심하/VA_ ㄴ/ETM_ 갈등/NNG_
+패배/NNG_
+한나라당/NNP_
+내각/NNG_ 제/XSN_ 개헌/NNG_ 문제/NNG_
+조 순/NNP_
+볼 테 르/NNP_
+민주노동당/NNP_
+언론사/NNG_ 세무/NNG_ 조사/NNG_ 중단/NNG_
+국가/NNG_ 보안법/NNG_
+볼 테 르/NNP_
+민주노동당/NNP_
+16/SN_ 대/NNB_
+이회창/NNP_
+제/XPN_ 16/SN_ 대/NNB_
+서민/NNG_
+귀 족/NNG_ 적/XSN_ 이/VCP_ ㄴ/ETM_ 정치 가/NNG_
+새 천 년 민주당/NNP_
+창 사랑/NNG_
+김대중/NNP_ 정부/NNG_
+정몽준/NNP_
+호남/NNP_ ,/SP_ 충청/NNP_ 지방/NNG_
+정몽준/NNP_
+새 천 년 민주당/NNP_
+정몽준/NNP_
+서해/NNP_ 교 전/NNG_
+반/XPN_ 미/NNP_ 감정/NNG_
+정몽준/NNP_ 과/JC_ 노무현/NNP_
+노무현/NNP_
+정치/NNG_ 계/XSN_ 은퇴/NNG_
+115/SN_ 평/NNB_
+서해/NNP_ 교 전/NNG_
+정몽준/NNP_
+열린우리당/NNP_
+한나라당/NNP_
+자신/NNG_ 의/JKG_ 개인/NNG_ 활동/NNG_
+2007/SN_ 년/NNB_
+한나라당/NNP_
+2007/SN_ 년/NNB_
+2/SN_ 년/NNB_
+이명박/NNP_
+스페 어/NNG_ 후보/NNG_ 론/XSN_
+2007/SN_ 년/NNB_
+이명박/NNP_
+스페 어/NNG_ 후보/NNG_ 론/XSN_
+무/XPN_ 소속/NNG_
+이명박/NNP_
+2006/SN_ 년/NNB_ 5/SN_ 월/NNB_
+2007/SN_ 년/NNB_ 11/SN_ 월/NNB_ 7/SN_ 일/NNB_
+심 대 평/NNP_
+박 선 영/NNP_
+심 대 평/NNP_
+염 홍 철/NNP_
+이회창/NNP_
+창 조 한국당/NNP_
+17/SN_ 석/NNB_
+이명박/NNP_
+노무현/NNP_
+4/SN_ 대 강/NNG_ 정비/NNG_ 사업/NNG_
+불 교 방송/NNP_
+김재 원/NNP_ 의/JKG_ 아 침 저널/NNG_
+지식인/NNG_ 층/XSN_
+비/XPN_ 충청/NNP_ 권/XSN_
+미 네 르 바/NNP_
+법 치 주의/NNG_
+홍준표/NNP_
+인터넷/NNG_ 논 객/NNG_ 미 네 르 바/NNP_
+미 네 르 바/NNP_
+실질/NNG_ 적/XSN_ 법 치 주의/NNG_
+국민/NNG_ 대/XPN_ 화합/NNG_
+김영삼/NNP_ 대통령/NNG_
+전두환/NNP_ 노 태 우/NNP_ 의/JKG_ 사면/NNG_ 논의/NNG_
+추 징금/NNG_ 문제/NNG_
+1997/SN_ 년/NNB_ 4/SN_ 월/NNB_ 17/SN_ 일/NNB_
+김윤 환/NNP_
+2/SN_ ,/SP_ 295/SN_ 억/NR_ 원/NNB_
+추석/NNG_
+1997/SN_ 년/NNB_
+김대중/NNP_
+전두환/NNP_ 노 태 우/NNP_ 사면/NNG_ 론/XSN_
+낙 선/NNG_
+전두환/NNP_ 노 태 우/NNP_ 사면/NNG_
+한겨레/NNP_
+39/SN_ 만/NR_ 표/NNG_
+서정 우/NNP_
+경부 고속도로/NNP_
+모금/NNG_
+기소/NNG_
+기업/NNG_
+서정 우/NNP_
+8 47/SN_ 억/NR_ 9/SN_ 천만/NR_ 원/NNB_
+병역/NNG_
+병 풍/NNG_
+병역/NNG_ 문제/NNG_
+오마이뉴스/NNP_ ,/SP_ 일 요 시 사/NNP_
+2004/SN_ 년/NNB_
+1/SN_ 급/NNG_
+병 풍/NNG_
+김대 업/NNP_
+이석 희/NNP_
+F BI/SL_
+미국/NNP_
+국세청/NNG_ 과/JC_ 한나라당/NNP_
+이석 희/NNP_
+이회 성/NNP_
+부 국/NNG_ 팀/NNG_
+차 수 명/NNP_
+2002/SN_ 년/NNB_ 2/SN_ 월/NNB_ 16/SN_ 일/NNB_
+송파구/NNP_
+딸/NNG_
+이회창/NNP_
+1999/SN_ 년/NNB_
+장 미/NNP_ 아파트/NNG_
+딸/NNG_
+가 회 동/NNP_
+설 훈/NNP_ 의원/NNG_
+새 천 년 민주당/NNP_
+새 천 년 민주당/NNP_
+20/SN_ 만/NR_ 달러/NNB_
+1/SN_ 억/NR_ 원/NNB_
+반/XPN_ 호/NNP_ 남 정서/NNG_
+지역 감정/NNG_
+김대중/NNP_
+반/XPN_ 호/NNP_ 남 정서/NNG_
+자기/NP_ 책임/NNG_ 의/JKG_ 원칙/NNG_
+국가/NNG_ 배 상 법/NNG_
+배상/NNG_ 책임/NNG_
+무 과실/NNG_ 책임/NNG_
+감독/NNG_ 의 무자/NNG_
+감독/NNG_ 의무/NNG_ 위반/NNG_
+일반/NNG_ 불법/NNG_ 행 위 자/NNG_
+책임/NNG_ 무/XPN_ 능 력자/NNG_
+감독/NNG_ 의 무자/NNG_
+소멸/NNG_ 시 효/NNG_
+후유증/NNG_
+드/NNP_ 메 랑/NNP_
+절 지/NNG_ 동물/NNG_
+눈/NNG_
+멜 라/NNP_ 놉 신/NNG_
+망 막/NNG_ 시 상/NNG_ 하 부/NNG_
+저녁/NNG_ 9/SN_ 시/NNB_ 경/XSN_
+혈액/NNG_ 이나/JC_ 침/NNG_
+빛/NNG_
+종/NNG_
+벤 저/NNP_
+t a u/SL_ 유전자/NNG_
+2/SN_ 번/NNB_ 염 색 체/NNG_
+가족/NNG_ 성/XSN_ 전 진/NNG_ 성/XSN_ 수면/NNG_ 위상/NNG_ 증후군/NNG_
+미 네 르 바/NNP_
+일 간 스포츠/NNP_
+미 네 르 바/NNP_
+다음/NNG_ 의/JKG_ 아 고 라/NNP_
+2009/SN_ 년/NNB_ 1/SN_ 월/NNB_
+미 네 르 바/NNP_
+허위/NNG_ 사실/NNG_
+일 간 스포츠/NNP_
+금융/NNG_ 중심지/NNG_ 론/XSN_
+민 유 성/NNP_
+금융/NNG_ 허 브 론/NNG_
+민 유 성/NNP_
+80/SN_ %/SW_
+민 유 성/NNP_
+2008/SN_ 년/NNB_
+금융/NNG_ 중심지/NNG_ 론/XSN_
+9/SN_ 월/NNB_ 15/SN_ 일/NNB_
+리 만/NNP_ 브 러 더 스/NNG_
+9/SN_ 월/NNB_ 15/SN_ 일/NNB_
+강 만 수/NNP_
+리 만/NNP_ 브 러 더 스/NNG_
+9/SN_ 월/NNB_ 15/SN_ 일/NNB_
+조선일보/NNP_
+이명박/NNP_ 대통령/NNG_
+IMF/SL_
+누리/NNG_ 꾼/XSN_
+미 네 르 바/NNP_
+누리/NNG_ 꾼/XSN_
+IMF/SL_ 스왑/NNG_
+미 네 르 바/NNP_ 신 드 롬 /NNG_ ,/SP_ 왜/MAG_
+시사/NNG_ 360/SN_
+냉 소/NNG_ 적/XSN_ 반응/NNG_
+1/SN_ 천/NR_ 100/SN_ 억/NR_ 달러/NNB_
+시사/NNG_ 360/SN_
+220/SN_ 억/NR_ 달러/NNB_
+300/SN_ 억/NR_ 달러/NNB_
+기획/NNG_ 경제/NNG_ 부/NNG_
+IMF/SL_
+인터넷/NNG_ 의존/NNG_ 형/XSN_ 기 고가/NNG_
+연합 인포맥스/NNP_
+연합 인포맥스/NNP_
+미 네 르 바/NNP_
+인터넷/NNG_ 의존/NNG_ 형/XSN_ 기 고가/NNG_
+연합 인포맥스/NNP_
+신동아/NNP_
+1997/SN_ 년/NNB_
+1997/SN_ 년/NNB_ 외환/NNG_ 위기/NNG_
+신동아/NNP_
+증권사/NNG_
+독 학/NNG_
+호 소 력/NNG_
+파 나마/NNP_
+짐 바 브 웨 /NNP_
+19 78/SN_ 년/NNB_
+1992/SN_ 년/NNB_
+짐 바 브 웨 /NNP_
+1992/SN_ 년/NNB_
+5/SN_ %/SW_
+94/SN_ %/SW_
+2009/SN_ 년/NNB_ 1/SN_ 월/NNB_ 15/SN_ 일/NNB_
+94/SN_ %/SW_
+100/SN_ 분/NNB_ 토론/NNG_
+한 선 교/NNP_
+조선일보/NNP_
+YTN/SL_
+조선일보/NNP_
+무/XPN_ 죄/NNG_ 추정/NNG_ 원칙/NNG_
+조선일보/NNP_
+헤럴드/NNP_ 경제/NNG_
+이명박/NNP_ 정부/NNG_ 전 복/NNG_
+좌파/NNG_ 단체/NNG_ 소속/NNG_ 청년/NNG_ 들/XSN_
+이명박/NNP_ 정부/NNG_ 전 복/NNG_
+좌파/NNG_ 단체/NNG_ 소속/NNG_ 청년/NNG_ 들/XSN_
+자살/NNG_
+좌파/NNG_ 단체/NNG_
+지 토 세/NNG_ 마 루/NNG_
+김홍 집 /NNP_
+부산 항/NNP_
+인천/NNP_
+지 토 세/NNG_ 마 루/NNG_
+김홍 집 /NNP_
+김홍 집 /NNP_
+통 리 기 무 아 문/NNG_
+조선/NNP_ 책 략/NNG_ 과/JC_ 이 언/NNP_
+척 사/NNG_ 위 정 파/NNG_ (/SS_ 邪 衛 正 派 /SH_ )/SS_
+예 조/NNG_ 참 판/NNG_
+통 리 기 무 아 문/NNG_
+윤 치 호/NNP_
+경기도/NNP_ 관 찰 사/NNG_
+이 유 원/NNP_ (/SS_ 李 裕 元 /SH_ )/SS_
+5/SN_ 월/NNB_ 22/SN_ 일/NNB_
+제 물 포/NNP_ 조약/NNG_
+경기도/NNP_ 관 찰 사/NNG_
+EA/SL_ 로스 앤 젤 레스/NNP_
+노 드/NNP_ 형 제 단/NNG_
+스크린/NNG_
+웨 스트 우드/NNP_ 스튜디오/NNG_
+스크린/NNG_
+2047/SN_ 년/NNB_
+레 드/NNG_ 존/NNP_
+옐 로/NNG_ 존/NNP_
+레 드/NNG_ 존/NNP_
+옐 로/NNG_ 존/NNP_
+이 온/NNG_ 캐 논/NNP_
+노 드/NNP_ 형 제 단/NNG_
+2047/SN_ 년/NNB_
+노 드/NNP_ 형 제 단/NNG_
+타이 베 리 움/NNG_
+곤 충/NNG_
+균 열/NNG_ 발 생 기/NNG_
+사 라 예 보/NNP_
+균 열/NNG_ 발 생 기/NNG_
+서 양 화/NNG_
+반 올림/NNG_
+2004/SN_ 년/NNB_
+2003/SN_ 년/NNB_
+2004/SN_ 년/NNB_
+2003/SN_ 년/NNB_
+2004/SN_ 년/NNB_ 8/SN_ 월/NNB_ 15/SN_ 일/NNB_
+우리/NP_ 에게/JKB_ 내일/NNG_ 은/JX_ 없/VA_ 다/EC_
+2006/SN_ 년/NNB_
+우리/NP_ 에게/JKB_ 내일/NNG_ 은/JX_ 없/VA_ 다/EC_
+2006/SN_ 년/NNB_
+우리/NP_ 에게/JKB_ 내일/NNG_ 은/JX_ 없/VA_ 다/EC_
+노동 석/NNP_
+좋/VA_ 지/EC_ 아니 하/VX_ ㄴ/ETM_ 가/EC_
+평택/NNP_ 피 어서/VV_ ㄴ/ETM_ 영화제/NNG_
+2007/SN_ 년/NNB_
+제/XPN_ 3/SN_ 회/NNB_
+정 윤 철/NNP_
+심 용 태/NNP_
+최 강 칠 우/NNP_
+남자/NNG_ 신인/NNG_ 연기/NNG_ 상/NNG_
+서양/NNG_ 골 동양/NNG_ 과 자 점/NNG_ 앤 티 크/NNP_
+최 강 칠 우/NNP_
+요 시나/NNP_ 가/JKS_ 후 미/NNG_
+최 강 칠 우/NNP_
+양 기 범/NNP_
+성균관/NNP_ 스캔 들/NNG_
+걸 오/NNP_
+성균관/NNP_ 유 생/NNG_ 들/XSN_ 의/JKG_ 나 날/NNG_
+정 은 궐 /NNP_
+정 은 궐 /NNP_
+걸 오/NNP_ 문 재 신/NNP_
+패 션 왕/NNP_
+미국/NNP_
+패 션 왕/NNP_
+2012/SN_ 년/NNB_
+2012/SN_ 년/NNB_
+강 영 걸/NNP_
+대구/NNP_
+숙 종/NNP_
+깡 철 이/NNP_
+숙 종/NNP_
+2013/SN_ 년/NNB_
+부산/NNP_
+2013/SN_ 년/NNB_
+유 아 인/NNG_
+스 펙 트럼/NNG_
+김희 애/NNP_
+밀 회/NNP_
+안 판 석/NNP_
+밀 회/NNP_
+류 승 완/NNP_
+밀 회/NNP_
+류 승 완/NNP_
+베 테 랑/NNP_
+부산/NNP_ 국제/NNG_ 영화제/NNG_
+2013/SN_ 년/NNB_
+2014/SN_ 년/NNB_
+8/SN_ 월/NNB_ 29/SN_ 일/NNB_
+2014/SN_ 년/NNB_ 3/SN_ 월/NNB_
+사 도 세 자/NNP_
+사 도/NNP_
+사 도 세 자/NNP_
+이준 익/NNP_
+9/SN_ 월/NNB_ 16/SN_ 일/NNB_
+사 도 세 자/NNP_
+남 우/NNG_ 주연/NNG_ 상/NNG_
+유 아 인/NNG_
+제/XPN_ 28/SN_ 회/NNB_ 청 룡/NNG_ 영화상/NNG_
+주 성 철/NNP_
+남 우/NNG_ 주연/NNG_ 상/NNG_
+1/SN_ 위/NNB_
+육 룡/NNP_ 이/JKS_ 나 르 샤 /NNP_
+좋아 해 줘 /NNP_
+2016/SN_ 년/NNB_
+노 진 우/NNP_
+2016/SN_ 년/NNB_ 2/SN_ 월/NNB_ 17/SN_ 일/NNB_
+2015/SN_ 년/NNB_ 10/SN_ 월/NNB_ 5/SN_ 일/NNB_
+승 일/NNP_ 희망/NNG_ 재단/NNG_
+스튜디오/NNG_ 콘 크리 트/NNG_
+승 일/NNP_ 희망/NNG_ 재단/NNG_
+한국어/NNP_ 린 이/NNG_ 백 혈 병/NNG_ 재단/NNG_
+어린 이날/NNG_
+승 일/NNP_ 희망/NNG_ 재단/NNG_
+두/MM_ 편/NNB_
+글/NNG_ 을/JKO_ 쓰/VV_ 는/ETM_ 것/NNB_
+시/NNP_ -/SS_ S e e/SL_
+이 충 재/NNP_
+두/MM_ 편/NNB_
+2016/SN_ 년/NNB_
+선 입 견/NNG_
+사회/NNG_ 환원/NNG_ 활동/NNG_
+톰 /NNP_ 페이 퍼/NNG_
+아트 부산/NNP_ 2016/SN_
+티 셔츠/NNG_
+톰 /NNP_ 페이 퍼/NNG_
+2016/SN_ 년/NNB_
+톰 /NNP_ 페이 퍼/NNG_
+2014/SN_ 년/NNB_
+프 래 즐 /NNP_
+씨 씨 알 티/NNG_ 에어 로스페이스/NNP_
+프 래 즐 /NNP_
+황 병 기/NNP_
+프 래 즐 /NNP_
+윤 성 현/NNP_
+존/NNP_ 벨/NNP_ 해 처/NNG_
+18 88/SN_ 년/NNB_
+몬 태 나/NNP_ 주/NNP_ 블 레 인/NNP_ 카운 티/NNG_ 의/JKG_ 카 우크 릭/NNP_ 부근/NNG_
+존/NNP_ 벨/NNP_ 해 처/NNG_
+18 88/SN_ 년/NNB_
+후 두 과/NNG_
+그리스 어/NNP_
+몬 태 나/NNP_ 의/JKG_ 뼈/NNG_ 층/XSN_
+지 층/NNG_ 과/JC_ 층 서/NNG_ 적/XSN_
+카 스 모 사우 루 스 아/NNP_ 과/JC_ 공 룡/NNG_ 의/JKG_ 눈/NNG_ 위/NNG_ 에/JKB_ 있/VV_ 는/ETM_ 뿔 /NNG_
+맨 스 필 드/NNP_ 뼈/NNG_ 층/NNG_
+1995/SN_ 년/NNB_
+스티 라 코 사우 루 스/NNP_
+카 스 모 사우 루 스 아/NNP_ 과/JC_
+트리 케 라 톱 스/NNG_
+마 쉬 /NNP_ 는/JX_
+18 89/SN_ 년/NNB_
+마 쉬 /NNP_
+트리 케 라 톱 스/NNG_
+케 라 톱 스/NNP_ 호 리 두 스/NNP_
+케 라 톱 스/NNP_ 알 티 코 르 니스/NNP_
+손학규/NNP_
+천정 배/NNP_
+10/SN_ %/SW_
+정동영/NNP_
+대/XPN_ 통합/NNG_ 민주/NNG_ 신/XPN_ 당/NNG_
+열린우리당/NNP_
+50/SN_ %/SW_
+유 다/NNP_
+2/SN_ 년/NNB_
+므 낫 세/NNP_
+22/SN_ 세/NNB_
+기 원전/NNG_ 6 09/SN_ 년/NNB_
+아 몬/NNG_
+여 디 다/NNP_
+22/SN_ 세/NNB_
+열 왕 기 하/NNG_
+플라 비 우스/NNP_ 요 세 푸 스/NNP_
+탈 무 드/NNP_
+플라 비 우스/NNP_ 요 세 푸 스/NNP_
+아 몬 /NNP_
+우 상/NNG_
+플라 비 우스/NNP_ 요 세 푸 스/NNP_
+19 84/SN_ 년/NNB_
+MBC/SL_ 노조/NNG_ 파업/NNG_
+19 84/SN_ 년/NNB_
+MBC/SL_ 아침/NNG_ 뉴스/NNG_ 2000/SN_
+19 84/SN_ 년/NNB_
+미 네 소 타/NNP_ 대학교/NNG_ 에서/JKB_
+아침/NNG_ 뉴스/NNG_ 2000/SN_
+서 노르 드 어/NNP_
+13/SN_ 세기/NNG_
+아이슬 란 드 어/NNP_
+서 노르 드 어/NNP_
+서 노르 드 어/NNP_
+9/SN_ 개/NNB_
+12/SN_ 세기/NNG_
+12/SN_ 세기/NNG_
+점/NNG_
+6/SN_ 개/NNB_
+노르 드 어/NNP_
+6/SN_ 개/NNB_
+치 찰 음/NNG_
+15/SN_ 세기/NNG_
+12/SN_ 세기/NNG_ 중반/NNG_
+8/SN_ 세기/NNG_
+룬 /NNP_ 문자/NNG_
+덴 마크/NNP_ 와/JC_ 스웨덴/NNP_
+노르 웨이/NNP_ 와/JC_ 대 서 양/NNP_ 정 착 지/NNG_ 들/XSN_
+8/SN_ 세기/NNG_
+노르 드 어/NNP_
+동 노르 드 어/NNP_
+빅 히 트 엔터테인 먼트/NNP_
+아 미/NNG_ (/SS_ AR M Y/SL_ )/SS_
+아 미/NNG_
+B ey on d/SL_ The/SL_ S c ene/SL_
+7/SN_ 인/NNG_ 조/NNG_
+2013/SN_
+2015/SN_
+신인/NNG_ 상/NNG_
+2014/SN_
+화 양 연 화/NNP_
+5/SN_ 개/NNB_
+톱 소셜/NNG_ 아 티 스트/NNG_ 상/NNG_
+톱 소셜/NNG_ 아 티 스트/NNG_ 상/NNG_
+85/SN_ 위/NNB_
+아메리 칸/NNG_ 뮤직/NNG_ 어 워드/NNG_
+5/SN_ 위/NNB_
+5/SN_ 억/NR_ 200/SN_ 만/NR_ 회/NNB_
+5/SN_ 위/NNB_
+기 네 스/NNP_
+방 시 혁/NNP_
+7/SN_ 명/NNB_
+힛 잇 /NNP_
+R M/SL_
+블로그/NNG_
+일 지 아트 홀 /NNP_
+멜 론/NNG_
+서울/NNP_
+엠 카운 트 다운/NNP_
+2014/SN_ 년/NNB_
+8/SN_ 위/NNB_
+엠 넷/NNG_
+3/SN_ 월/NNB_ 29/SN_ 일/NNB_
+DAR K/SL_ &/SW_ W I L D/SL_
+3/SN_ 일/NNB_
+예 스/NNG_ 24/SN_ 라이 브 홀/NNG_
+호르몬/NNG_ 전쟁/NNG_
+서울/NNP_
+3/SN_ 부/NNB_ 작/NNG_
+서울/NNP_ 올림 픽 공원/NNP_ 올림픽/NNG_ 홀/NNG_
+방 탄/NNG_ 소 년 단/NNG_ 의/JKG_ 시작/NNG_
+화 양 연 화/NNP_ pt/SL_ ./SP_ 1/SN_
+I/SL_ NE ED/SL_ U/SL_
+화 양 연 화/NNP_ pt/SL_ ./SP_ 1/SN_
+I/SL_ NE ED/SL_ U/SL_
+네/MM_ 번/NNB_ 째/XSN_
+C T/SL_ 촬영/NNG_
+SK/SL_ 올림픽/NNG_ 핸드 볼/NNG_ 경기장/NNG_
+고 베/NNP_ 월드/NNG_ 기념 홀/NNG_
+월드/NNG_ 와이 드/NNG_ 액 트/NNG_
+골 든 /NNG_ 트 윗 /NNG_
+290/SN_ 만/NR_ 뷰 /NNB_
+2015/SN_ 멜 론/NNG_ 뮤직/NNG_ 어 워드/NNG_
+290/SN_ 만/NR_
+23/SN_ 곡/NNG_
+일렉 트/NNG_ 로/JKB_ 트 랩/NNG_
+고려 대학교/NNP_ 화 정 체육 관/NNP_
+23/SN_ 곡/NNG_
+불 타 오르/VV_ 네/EC_
+올림픽/NNG_ 체 조/NNG_ 경기장/NNG_
+10/SN_ 개/NNB_
+올림픽/NNG_ 체 조/NNG_ 경기장/NNG_
+13/SN_ 회/NNB_
+Y O U T H/SL_
+3/SN_ 년/NNB_
+뭄 바 톤/NNP_ 트 랩/NNG_
+W IN GS/SL_
+올해/NNG_ 의/JKG_ 가 수상/NNG_
+70/SN_ 만/NR_ 장/NNB_
+3/SN_ 만/NR_ 8/SN_ ,/SP_ 000/SN_ 명/NNB_
+서울/NNP_ 고 척 스카이 돔 /NNP_
+빌 보드/NNG_ 뮤직/NNG_ 어 워드/NNG_
+서울/NNP_ 올림픽/NNG_ 주/MM_ 경기장/NNG_
+DNA/SL_
+1000/SN_ 만/NR_ 뷰 /NNB_
+서 태 지/NNP_
+DNA/SL_
+더 블/NNG_ 플래 티 넘 /NNG_
+방 탄/NNG_ 소 년 단/NNG_
+로스 앤 젤 레스/NNP_
+1000/SN_ 만/NR_
+마이크로/NNG_ 소프트/NNG_ 공 연장/NNG_
+지 미/NNP_ 키 멜 /NNP_ 라이 브/NNG_
+5/SN_ 관 왕/NNG_
+49/SN_ 번/NNB_ 째/XSN_
+5/SN_ 관 왕/NNG_
+싸 이/NNG_
+골 든 /NNG_ 디스크/NNG_ 시상식/NNG_
+서울/NNP_ 고 척 스카이 돔 /NNP_
+경기도/NNP_ 일산/NNP_ 킨 텍 스/NNP_
+봄 날/NNG_
+12/SN_ 곡/NNG_
+베스트/NNG_ 팬 덤 상/NNG_
+M IC/SL_ D ro p/SL_
+올해/NNG_ 의/JKG_ 음악/NNG_ 인상/NNG_
+12/SN_ 곡/NNG_
+퍼 포 머/NNG_
+F A K E/SL_ L O V E/SL_
+오사 카 성/NNP_ 홀/NNG_
+이 모/NNG_ 힙 합/NNG_ 장르/NNG_
+1/SN_ 위/NNB_
+화 양 연 화/NNP_
+2/SN_ 부/NNB_ 작/NNG_
+학교/NNG_ 3/SN_ 부/NNB_ 작/NNG_
+쩔 /VV_ 어/EC_
+체 인 스 모 커 스/NNP_
+타임 지/NNP_
+체 인 스 모 커 스/NNP_
+피 플 지/NNG_
+임진 모/NNP_
+김영 대/NNP_
+임진 모/NNP_
+대중 음악/NNG_ 평론가/NNG_
+CNBC/SL_
+진정/NNG_ 성/XSN_
+CNN/SL_ Today/SL_
+소셜/NNG_ 미디어/NNG_
+싸 이/NNG_
+BBC/SL_
+강남/NNP_ 스타일/NNG_
+BBC/SL_
+러 브/NNG_ 마이 셀 프/NNP_
+5/SN_ 억/NR_ 원/NNB_
+러 브/NNG_ 마이 셀 프/NNP_
+5/SN_ 억/NR_ 원/NNB_
+발 랑 시 엔/NNP_ 과/JKB_ 의/JKG_
+2010/SN_ -/SS_ 11/SN_ 시즌/NNG_
+2014/SN_ 년/NNB_
+2010/SN_ 년/NNB_ 7/SN_ 월/NNB_ 29/SN_ 일/NNB_
+발 랑 시 엔/NNP_
+117/SN_ 분/NNB_
+마르 세 유/NNP_
+매 혹/NNG_ 적/XSN_ 이/VCP_ ㄴ/ETM_ 공 격 수/NNG_
+21/SN_ 골/NNG_
+9 60/SN_ 만/NR_ 파운드 /NNB_
+매 혹/NNG_ 적/XSN_ 이/VCP_ ㄴ/ETM_ 공 격 수/NNG_
+21/SN_ 골/NNG_
+매 혹/NNG_ 적/XSN_ 이/VCP_ ㄴ/ETM_ 공 격 수/NNG_
+21/SN_ 골/NNG_
+2012/SN_ 년/NNB_ 6/SN_ 월/NNB_ 26/SN_ 일/NNB_
+선 덜 랜드/NNP_
+샬 케 /NNG_ 04/SN_
+47/SN_ 경기/NNG_
+웨 스트/NNP_ 햄 /NNG_
+H ey/SL_ J u de/SL_
+웨 스트/NNP_ 햄 /NNG_
+H ey/SL_ J u de/SL_
+두/MM_ 골/NNG_
+3/SN_ 월/NNB_ 8/SN_ 일/NNB_
+두/MM_ 골/NNG_
+사우 샘 프 턴/NNP_
+선 덜 랜드/NNP_
+3/SN_ 월/NNB_ 8/SN_ 일/NNB_
+헐 /VV_ 시티/NNG_
+9/SN_ 월/NNB_ 30/SN_ 일/NNB_
+8/SN_ 만/NR_ 파운드/NNG_
+9/SN_ 월/NNB_ 30/SN_ 일/NNB_
+경 골/NNG_
+에 런 /IC_ 램 지/NNG_
+박 치기/NNG_
+8/SN_ 만/NR_ 파운드/NNG_
+해 면 동물/NNG_
+해 파 리/NNG_
+보통/NNG_ 해 면 강/NNG_
+눈/NNG_
+2/SN_ 년/NNB_
+해 안 가/NNG_
+140/SN_ 개/NNB_
+2/SN_ 년/NNB_
+산 란/NNG_ 시/NNG_
+140/SN_ 개/NNB_
+바다/NNG_
+35/SN_ cm/SL_ 로/JKB_
+30/SN_ 년/NNB_
+30/SN_ 년/NNB_
+35/SN_ cm/SL_
+달 빛/NNG_
+보석/NNG_
+대 모/NNG_ 의/JKG_ 등 딱 지/NNG_
+카 리 브/NNP_ 해/NNG_ 지역/NNG_
+등 딱 지 거 북/NNG_
+베 코/NNP_
+1994/SN_ 년/NNB_
+19 45/SN_ 년/NNB_
+제/XPN_ 11/SN_ 회/NNB_
+19 45/SN_ 년/NNB_
+서울 특별 시/NNP_
+서울 대학교/NNP_
+서울 특별 시/NNP_
+서울 대학교/NNP_
+이창 복/NNP_
+1992/SN_ 년/NNB_
+7/SN_ 월/NNB_ 16/SN_ 일/NNB_
+징역/NNG_ 7/SN_ 년/NNB_
+이동원/NNP_
+진 술 파/NNG_
+홍 정 희/NNP_
+이화여대/NNP_
+홍 정 희/NNP_
+1989/SN_ 년/NNB_
+서울 형 사 지방 법원/NNP_
+배 임/NNG_ 수 재/NNG_ 죄/NNG_
+노동부/NNG_
+1995/SN_ 년/NNB_
+뇌 물 죄/NNG_
+징역/NNG_ 3/SN_ 년/NNB_
+이 형 구/NNP_
+특정/NNG_ 범죄/NNG_ 가중/NNG_ 처벌/NNG_ 법/NNG_ 뇌 물 죄/NNG_
+잔 /NNP_ 로 렌 초 /NNP_ 베르 니 니/NNP_
+성/NNG_ 베 드 로/NNP_ 대 성 전/NNG_
+잔 /NNP_ 로 렌 초 /NNP_ 베르 니 니/NNP_
+미 켈 란 젤 로/NNP_
+284/SN_ 개/NNB_
+잔 /NNP_ 로 렌 초 /NNP_ 베르 니 니/NNP_
+미 켈 란 젤 로/NNP_
+284/SN_ 개/NNB_
+알 렉 산 데 르/NNP_ 7/SN_ 세/NNB_
+토 스카 나/NNP_ 주식/NNG_
+교황/NNG_ 알 렉 산 데 르/NNP_ 7/SN_ 세/NNB_
+1667/SN_ 년/NNB_
+알 렉 산 데 르/NNP_ 7/SN_ 세/NNB_
+16 56/SN_ 년/NNB_
+불/NNG_
+벌/NNG_ 을/JKO_ 내리/VV_ 겠/EP_ 다는/ETM_ 엄 명/NNG_
+320/SN_ 톤/NNB_
+불/NNG_
+320/SN_ 톤/NNB_
+종 려/NNG_ 나 뭇 잎/NNG_
+화해/NNG_ 의/JKG_ 길/NNG_
+비아/NNP_ 델 라/NNP_ 콘 칠 리아 치 오 네/NNP_
+19 36/SN_ 년/NNB_
+1950/SN_ 년/NNB_
+비아/NNP_ 델 라/NNP_ 콘 칠 리아 치 오/NNP_ 네/XSN_
+19 29/SN_ 년/NNB_
+19 40/SN_ 년/NNB_
+흑 백/NNG_ 텔레비전/NNG_
+19 40/SN_ 년/NNB_
+19 41/SN_ 년/NNB_ 3/SN_ 월/NNB_
+5 25/SN_ 라인/NNG_ 시스템/NNG_
+19 40/SN_ 년/NNB_
+19 41/SN_ 년/NNB_ 3/SN_ 월/NNB_
+5 25/SN_ 라인/NNG_
+29/SN_ ./SP_ 97/SN_ 개/NNB_
+영상/NNG_
+약/MM_ 59/SN_ ./SP_ 94/SN_ Hz/SL_
+M/SL_ 형식/NNG_
+100/SN_ Hz/SL_
+29/SN_ ./SP_ 97/SN_ 개/NNB_
+약/MM_ 59/SN_ ./SP_ 94/SN_ Hz/SL_
+멀티 바이 브 레이 터/NNG_
+부/NNG_ 반 송파/NNG_ 주파수/NNG_
+색/NNG_ 부/NNG_ 반 송파/NNG_ 주파수/NNG_
+5 25/SN_
+멀티 바이 브 레이 터/NNG_
+멀티 바이 브 레이 터/NNG_
+4 05/SN_ 라인/NNG_ 시스템/NNG_
+휘 도/NNG_ -/SS_ 색 차/NNG_ 부 호/NNG_ 화/XSN_ 시스템/NNG_
+조지/NNP_ 발 렌 시/NNP_
+기존/NNG_ 의/JKG_ 흑 백/NNG_ 신호/NNG_
+휘 도/NNG_ -/SS_ 색 차/NNG_ 부 호/NNG_ 화/XSN_ 시스템/NNG_
+호 환/NNG_ 성/XSN_
+원/NNG_ 신호/NNG_ 의/JKG_ 색상/NNG_ 의/JKG_ 채 도/NNG_
+조지/NNP_ 발 렌 시/NNP_ (/SS_ G e or g es/SL_ V alen si/SL_ )/SS_
+휘 도/NNG_ (/SS_ L um in ance/SL_ )/SS_ 신호/NNG_
+3/SN_ ./SP_ 5 7 9 5 45/SN_ MHz/SL_
+8/SN_ 사이클/NNG_
+색 도/NNG_ (/SS_ h ue/SL_ )/SS_
+백/NR_ 포 치/NNG_
+색 도/NNG_ (/SS_ h ue/SL_ )/SS_
+컬러/NNG_ 버 스트/NNG_
+컬러/NNG_ 버 스트/NNG_ (/SS_ color/SL_ bur st/SL_ )/SS_
+8/SN_ 사이클/NNG_
+라인/NNG_ 주파수/NNG_ 의/JKG_ 정 수 곱 /NNP_ (/SS_ 286/SN_ ./SP_ 0/SN_ )/SS_
+반 송파/NNG_ 주파수/NNG_ 의/JKG_ 결정/NNG_
+음성/NNG_ 반 송파/NNG_
+59/SN_ ./SP_ 94/SN_ Hz/SL_
+휘 도/MAG_ 반 송파/NNG_
+음성/NNG_ 반 송파/NNG_
+정 수 곱 /NNP_ (/SS_ 286/SN_ ./SP_ 0/SN_ )/SS_
+2/SN_ 개/NNB_ 의/JKG_ 측 파 대/NNG_ (/SS_ si de b and/SL_ )/SS_
+화면/NNG_ 해 설/NNG_ 방송/NNG_ (/SS_ DV S/SL_ )/SS_
+4/SN_ ./SP_ 2/SN_ MHz/SL_
+보호/NNG_ 대역/NNG_
+6/SN_ MHz/SL_
+6/SN_ MHz/SL_
+2/SN_ 개/NNB_
+5/SN_ 개/NNB_
+정/NNG_
+20/SN_ 세/NNB_
+19/SN_ 세/NNB_
+5/SN_ 개/NNB_
+만 /MM_ 20/SN_ 세/NNB_
+물/VV_ 는/ETM_
+피 어 칼 /VV_ 막/MAG_ 콘 킨 /NNP_
+드 루 이 드/NNP_ 보 그/NNG_ 말/NNG_
+확실/XR_ 하/XSA_ ㅁ/ETN_
+더/MAG_ 이/VCP_ 니/EC_
+드 루 이 드/NNP_ 보 그/NNG_ 말/NNG_
+보이/VV_ ㄴ/ETM_ 강/NNG_
+입 술/NNG_
+지식/NNG_ 의/JKG_ 연 어/NNG_
+그/MM_ 위 온/NNG_ 바 흐 /NNP_ 의/JKG_ 이야기/NNG_
+수 금/NNG_
+마 법/NNG_ 처리/NNG_ 되/XSV_ ㄴ/ETM_ 무기/NNG_
+수 금/NNG_
+두 루미/NNG_ 가 죽/NNG_ 가방/NNG_
+사 슴 /NNG_
+브 란/NNP_ 과/JC_ 스 콜 랑/NNG_
+사 슴 /NNG_
+오/VV_ 시/EP_ ㄴ/ETM_
+앙 구 스/NNP_ 신/NNG_
+멧 돼지/NNG_
+디 어 머 드/NNP_ 우 어/NNP_ 두 브 너/NNP_
+앙 구 스/NNP_
+카르 브 러/NNP_ 리 페 하 르/NNP_
+페 르 디 어/NNP_
+페 르 디 어/NNP_
+카르 브 러/NNP_ 리 페 하 르/NNP_
+음악/NNG_ 프로 듀 서/NNG_ 카 니 예 /NNP_ 웨 스트/NNP_ (/SS_ K an ye/SL_ W est/SL_ )/SS_ 의/JKG_ G/SL_ ./SP_ O/SL_ ./SF_ O/SL_ ./SF_ D/SL_ ./SP_ M u sic/SL_
+19 79/SN_ 년/NNB_
+벤 자민/NNP_ 허 드 슨/NNP_ 맥 길 도 위 /NNP_
+G/SL_ ./SP_ O/SL_ ./SF_ O/SL_ ./SF_ D/SL_ ./SP_ M u sic/SL_
+19 79/SN_ 년/NNB_
+벤 자민/NNP_ 허 드 슨/NNP_ 맥 길 도 위 /NNP_
+G/SL_ ./SP_ O/SL_ ./SF_ O/SL_ ./SF_ D/SL_ ./SP_ M u sic/SL_ 에/JKB_
+카 니 예 /NNP_ 웨 스트/NNP_
+2007/SN_ 년/NNB_
+열정/NNG_ 적/XSN_ 이/VCP_ ㄴ/ETM_ 라이 브/NNG_ 공연/NNG_
+A/SL_ T ale/SL_ of/SL_ T w o/SL_ C iti es/SL_
+더/MAG_ 라이 브 러 리/NNG_
+미 스터/NNG_ 허 드 슨/NNP_ &/SW_ 더/MAG_ 라이 브 러 리/NNG_
+A/SL_ T ale/SL_ of/SL_ T w o/SL_ C iti es/SL_
+맵 스/NNP_ 헉 슬 리/NNP_
+2007/SN_ 년/NNB_
+카 니 예 /NNP_ 웨 스트/NNP_
+영국/NNP_
+더/MAG_ 폴리스/NNG_
+더/MAG_ 폴리스/NNG_
+글로 우/NNP_ 인/NNG_ 더/MAG_ 다 크/NNG_ 투어/NNG_
+신 광 여 자 고등 학교/NNP_
+1999/SN_ 년/NNB_
+신 혜 원/NNP_
+신 광 여 자 고등 학교/NNP_
+신 민 아/NNP_ ,/SP_ 김 효 진/NNP_
+신 혜 원/NNP_
+신 광 여 자 고등 학교/NNP_
+길 거리/NNG_ 캐 스팅/NNG_
+학교/NNG_ 2/SN_
+2012/SN_ 년/NNB_
+차 경 선/NNP_
+이민 기/NNG_
+차 경 선/NNP_
+부 일/NNG_ 영화상/NNG_
+노 덕/NNP_
+화 차/NNP_
+노 덕/NNP_
+여 우/NNG_ 주연/NNG_ 상/NNG_
+홍 상수/NNP_
+이병 헌/NNP_
+2015/SN_ 년/NNB_
+홍 상수/NNP_
+이병 헌/NNP_
+2005/SN_ 년/NNB_
+교육/NNG_ 과학/NNG_ 기술부/NNG_
+교육/NNG_ 과학/NNG_ 기술부/NNG_
+2010/SN_ 년/NNB_
+2011/SN_ 년/NNB_
+2013/SN_ 년/NNB_
+기상/NNG_ 탑 재 체/NNG_
+아 스트리 움/NNG_ 사/NNG_
+미국/NNP_
+10/SN_ 년/NNB_ 에/JKB_
+정지/NNG_ 궤도/NNG_ 복합/NNG_ 위성/NNG_ 2/SN_ A/SL_
+10/SN_ 년/NNB_
+홍콩/NNP_ 과/JC_ 마 카 오/NNP_
+전국/NNG_ 인민/NNG_ 대표/NNG_ 대회/NNG_
+마 오 쩌 둥 /NNP_
+독일/NNP_
+영국/NNP_
+홍콩/NNP_ 과/JC_ 마 카 오/NNP_
+양 무/NNG_ 운동/NNG_
+동 치/NNG_ 제/XSN_
+무 술/NNG_ 정 변/NNG_
+양 무/NNG_ 운동/NNG_
+변 법/NNG_ 운동/NNG_
+의 화 단/NNP_ 의/JKG_ 난/NNG_ 후/NNG_
+소비 에 트 연 방/NNP_
+19 54/SN_ 년/NNB_
+19 78/SN_ 년/NNB_
+중국 공산당/NNP_ 의/JKG_ 정책/NNG_
+사회주의/NNG_ 적/XSN_ 법 치/NNG_ 국가/NNG_ 의/JKG_ 건설/NNG_
+시장/NNG_ 경제/NNG_ 법률/NNG_ 체계/NNG_
+2010/SN_ 년/NNB_
+우 방 궈 /NNP_
+제/XPN_ 4/SN_ 차/NNB_
+민 법 전/NNG_ 제정/NNG_
+우 방 궈 /NNP_
+법원/NNG_
+입 법 법/NNG_
+전 인 대/NNP_ 상무/NNG_ 위원회/NNG_
+전국/NNG_ 인민/NNG_ 대표/NNG_ 대회/NNG_
+국가 주석/NNG_
+국무원/NNG_
+단행/NNG_ 조례/NNG_
+행정/NNG_ 규칙/NNG_
+최고/NNG_ 인민/NNG_ 법원/NNG_ 의/JKG_ 재판 례/NNG_
+인민 법/NNG_
+인민/NNG_ 법원/NNG_
+중 급/NNG_ 인민/NNG_ 법원/NNG_
+제/XPN_ 1/SN_ 심/NNG_ 관할/NNG_ 법원/NNG_
+제/XPN_ 2/SN_ 심/NNG_
+중 급/NNG_ 인민/NNG_ 법원/NNG_
+제/XPN_ 1/SN_ 심/NNG_ 관할/NNG_ 법원/NNG_
+소비 에 트 연 방/NNP_
+법학/NNG_ 교육/NNG_
+법 학부/NNG_
+법학/NNG_ 교육/NNG_
+7/SN_ %/SW_
+미국/NNP_
+민 법/NNG_
+민 법/NNG_ 통 칙/NNG_
+재산/NNG_ 관계/NNG_
+재산/NNG_ 관계/NNG_
+재산/NNG_ 관계/NNG_
+인 신/NNG_ 관계/NNG_
+청 나라/NNP_
+19 10/SN_ 년/NNB_
+15 69/SN_ 개/NNB_
+중국/NNP_ 청 나라/NNP_ 말기/NNG_
+19 25/SN_ 년/NNB_
+19 49/SN_ 년/NNB_
+국민 당/NNP_
+계약 법/NNG_
+3/SN_ 대/NNB_ 계약 법/NNG_
+기업/NNG_ 간/NNB_ 분쟁/NNG_
+혼 인/NNG_ 가족 법/NNG_
+19 86/SN_ 년/NNB_
+1993/SN_ 년/NNB_
+1998/SN_ 년/NNB_
+중 화 인민 공화국/NNP_ 계약 법/NNG_
+민 법/NNG_ 통 칙/NNG_
+대륙/NNG_ 법 계/NNG_
+민 상 법/NNG_ 합 일 주의/NNG_
+민 법/NNG_
+대륙/NNG_ 법 계/NNG_
+시민/NNG_ 사회/NNG_ (/SS_ 市 民 社 會 /SH_ )/SS_ 의/JKG_ 법/NNG_
+민 상 법/NNG_ 합 일 주의/NNG_
+침 권/NNG_ 책임 법/NNG_
+7/SN_ 월/NNB_ 1/SN_ 일/NNB_
+92/SN_ 개/NNB_
+침 권/NNG_ 책임 법/NNG_
+12/SN_ 장/NNG_ 92/SN_ 개/NNB_ 조 문/NNG_
+국제/NNG_ 사법/NNG_
+조약/NNG_
+국제/NNG_ 관 습/NNG_
+법률/NNG_ 적 용 법/NNG_
+국제/NNG_ 사법/NNG_
+상 법/NNG_
+민 상 법/NNG_
+상 법/NNG_ 총 칙/NNG_
+민 상 법/NNG_ 합 일 주의/NNG_
+단 행 법/NNG_
+개혁/NNG_ 개방/NNG_
+법제/NNG_ 경제/NNG_
+1988/SN_ 년/NNB_
+해 상 법/NNG_
+회사/NNG_ 법/NNG_
+삼 자/NNG_ 기업/NNG_ 법/NNG_
+외상/NNG_ 투자/NNG_ 기업/NNG_
+외상/NNG_ 투자/NNG_ 기업/NNG_ 법/NNG_
+외상/NNG_ 투자/NNG_ 기업/NNG_ 법/NNG_
+중국/NNP_
+중 재 법/NNG_
+중 재 인/NNG_
+중재/NNG_ 위원회/NNG_
+동 법/NNG_
+중 재 법/NNG_
+19 79/SN_ 년/NNB_
+범죄/NNG_
+죄 형/NNG_ 법정/NNG_ 주의/NNG_
+플 리/NNG_ 바 게 닝/NNG_
+유 추/NNG_ 해석/NNG_
+치안/NNG_ 관리/NNG_ 처 벌 법/NNG_
+국외/NNG_ 추 방/NNG_
+4/SN_ 년/NNB_
+치안/NNG_ 관리/NNG_ 처벌/NNG_
+최 장/NNG_ 4/SN_ 년/NNB_
+법 치/NNG_
+관 부/NNG_ 무 착/NNG_
+행정/NNG_ 소 송 법/NNG_
+치안/NNG_ 관리/NNG_ 처벌/NNG_ 조례/NNG_
+행정/NNG_ 소 송 법/NNG_
+1994/SN_ 년/NNB_
+중 화 인민 공화국/NNP_ 광고 법/NNG_
+전 인 대/NNP_ 상 무 위/NNG_
+중 화 인민 공화국/NNP_ 광고 법/NNG_
+절차/NNG_ 성/XSN_ 규정/NNG_
+세 속/NNG_ 주의/NNG_
+레 제 프/NNP_ 타이 이 프/NNP_ 에 르 도 안/NNP_
+정의/NNG_ 개발/NNG_ 당/XSN_
+정의/NNG_ 개발/NNG_ 당/XSN_
+대형/NNG_ 망 치/NNG_
+2014/SN_ 년/NNB_
+2003/SN_ 년/NNB_
+2014/SN_ 년/NNB_ 6/SN_ 월/NNB_ 19/SN_ 일/NNB_
+2 37/SN_ 명/NNB_
+아 타 튀 르 크/NNP_
+정의/NNG_ 개발/NNG_ 당/XSN_
+비 날리/VV_ 을 드 름 /NNP_
+비 날리/VV_ 을 드 름 /NNP_
+탱크/NNG_
+군부/NNG_
+비 날리/VV_ 을 드 름 /NNP_
+정의/NNG_ 개발/NNG_ 당/XSN_ 사무실/NNG_
+훌 루 시/NNP_ 아 카르/NNP_
+앙 카 라/NNP_
+TR T/SL_
+티 젠/NNG_ 카 라 쉬 /NNP_
+티 젠/NNG_ 카 라 쉬 /NNP_
+로이 터/NNP_
+로이 터/NNP_
+오전/NNG_ 12/SN_ 시/NNB_ 2/SN_ 분/NNB_
+미국/NNP_ 북 감 리 교회/NNP_
+18 84/SN_ 년/NNB_
+맥 클 레이/NNP_
+18 84/SN_ 년/NNB_ 6/SN_ 월/NNB_ 24/SN_ 일/NNB_
+미국/NNP_ 북 감 리 교회/NNP_ (/SS_ 미 감 리 회/NNP_ )/SS_
+고 종 황 제/NNP_
+미 리 미/NNP_ 교회/NNG_
+19 43/SN_ 년/NNB_
+2013/SN_ 년/NNB_
+감 리 교회/NNG_
+19 71/SN_ 년/NNB_
+조선 기독 교 단/NNP_
+19 49/SN_ 년/NNB_
+2008/SN_ 년/NNB_
+19 21/SN_ 년/NNB_
+신 민 회/NNP_
+헐 버트/NNP_ 선 교사/NNG_
+감 리/NNG_ 교회/NNG_
+아 펜 젤 러/NNP_ 선 교사/NNG_
+아 펜 젤 러/NNP_ 선 교사/NNG_
+감 리 교 인/NNG_ 이/VCP_ 었/EP_ 다/EF_ ./SF_
+헐 버트/NNP_ 선 교사/NNG_
+준/XPN_ 회원/NNG_ 목 회 자/NNG_
+목 회/NNG_ 주제/NNG_
+서리/NNG_
+신 학/NNG_ 독서/NNG_ 보고서/NNG_
+서리/NNG_
+목 회/NNG_ 주제/NNG_
+감 리 교/NNG_ 준/XPN_ 회원/NNG_ 목 회 자/NNG_
+영 성/NNG_ 훈련/NNG_ 과/JC_ 수 련 목/NNG_
+교회/NNG_ 행정/NNG_ 관련/NNG_ 소/XPN_ 논문/NNG_
+준/XPN_ 회원/NNG_ 2/SN_
+교회/NNG_ 행정/NNG_ 관련/NNG_ 소/XPN_ 논문/NNG_
+교회/NNG_ 행정/NNG_ 관련/NNG_
+병원/NNG_ 정신/NNG_ 과/JC_ 검사/NNG_
+98/SN_ 골/NNG_
+차 붐/NNG_
+오 은 미/NNP_
+2/SN_ 남/NNG_ 1/SN_ 녀/NNG_
+고려 대학교/NNP_
+98/SN_ 골/NNG_
+해 설/NNG_ 위원/NNG_
+차 붐/NNG_
+S V/SL_ 다름 슈 타 트/NNP_ 98/SN_
+19 79/SN_ 년/NNB_ 5/SN_ 월/NNB_ 31/SN_ 일/NNB_
+19 76/SN_ 년/NNB_ 10/SN_ 월/NNB_
+독일/NNP_
+병역/NNG_
+공군/NNG_
+19 79/SN_ 년/NNB_
+차 범 근/NNP_ 축구/NNG_ 교실/NNG_
+울산/NNP_ 현대/NNG_
+차 범 근/NNP_ 축구/NNG_ 교실/NNG_
+1997/SN_ 년/NNB_ 1/SN_ 월/NNB_ 7/SN_ 일/NNB_
+울산/NNP_ 현대/NNG_
+성적/NNG_ 부진/NNG_
+1997/SN_ 년/NNB_
+도쿄/NNP_ 국립/NNG_ 경기장/NNG_
+아 키 타/NNP_ 유 타 카/NNP_
+도쿄/NNP_ 국립/NNG_ 경기장/NNG_
+아 키 타/NNP_ 유 타 카/NNP_
+홍 명 보/NNP_
+하 석 주/NNP_
+이상 윤/NNP_
+5/SN_ 회/NNB_ 연속/NNG_ 월드컵/NNG_ 진출/NNG_
+우 즈 베 키스탄/NNP_
+하 석 주/NNP_
+무/XPN_ 승부/NNG_
+조/NNP_ 1/SN_ 위/NNB_
+5/SN_ 월/NNB_ 20/SN_ 일/NNB_
+SBS/SL_
+인천/NNP_ 아시안/NNG_ 게임/NNG_ 결 승 전/NNG_
+수원/NNP_ 삼성/NNP_ 블루 윙 즈/NNP_ 감독/NNG_
+퇴진/NNG_ 운동/NNG_
+6/SN_ 일/NNB_
+SBS/SL_
+도쿄/NNP_ 학 예/NNG_ 대학/NNG_
+야 쿠 르 트/NNG_ 스 왈 로스/NNP_
+야 수/NNG_
+25/SN_ 승/NNG_ 8/SN_ 패/NNG_
+야 쿠 르 트/NNG_ 스 왈 로스/NNP_
+25/SN_ 승/NNG_ 8/SN_ 패/NNG_
+교사/NNG_
+야 쿠 르 트/NNG_ 스 왈 로스/NNP_
+2009/SN_ 년/NNB_
+2003/SN_ 년/NNB_
+구 리 야 마/NNP_ 정/NNG_
+2002/SN_ 년/NNB_
+문화/NNG_ 대상/NNG_
+관광/NNG_ 홍보/NNG_ 대사/NNG_
+2009/SN_ 년/NNB_
+19 85/SN_ 년/NNB_
+현 기증/NNG_
+19 86/SN_ 년/NNB_
+19 85/SN_ 년/NNB_
+페 니 키아/NNP_
+사 렙 /NNG_ 타/VV_
+페 니 키아/NNP_
+기 시/NNG_ 문명/NNG_
+갤 리 선/NNG_
+기 시/NNG_ 문명/NNG_
+사 렙 /NNG_ 타/VV_
+갤 리 선/NNG_
+가 나 안 인/NNG_
+키 나/NNG_ (/SS_ χ /SL_ ν /SL_ α /SL_ )/SS_
+헤 로 도 토 스/NNP_
+아마르 나/NNP_ 문서/NNG_
+키 나/NNG_
+아마르 나/NNP_
+키 나/NNG_
+비 블 로스/NNP_
+이집트/NNP_
+게 르 하 르 드/NNP_ 헬 름/NNG_
+비 블 로스/NNP_
+토 트 메 스/NNP_ 3/SN_ 세/NNB_
+대/XPN_ 규모/NNG_ 의/JKG_ 민족/NNG_ 이동/NNG_
+아마르 나/NNP_
+게 르 하 르 드/NNP_ 헬 름/NNG_
+레 반 트/NNP_ 지역/NNG_
+해양/NNG_ 지배 력/NNG_
+레 반 트/NNP_
+철 기/NNG_ 시대/NNG_
+해양/NNG_ 지배 력/NNG_
+지 중 해/NNP_ 연안/NNG_
+해양/NNG_ 지배 력/NNG_
+유승 민/NNP_ 의원/NNG_
+진 중 권/NNP_ 교수/NNG_
+유승 민/NNP_ 의원/NNG_
+암 흑 /NNG_ 국가/NNG_
+유승 민/NNP_
+진 중 권/NNP_
+팔 각/NNG_ 형/XSN_
+파라/VV_ 보/VX_ ㄹ/ETM_ 라/EC_ 안 테 나/NNG_
+4/SN_ 매 /NNB_
+마 그 네 슘 /NNG_
+2/SN_ ./SF_
+팔 각/NNG_ 형/XSN_
+마 그 네 슘 /NNG_
+고 이 득/MAG_ 파라/VV_ 보/VX_ ㄹ/ETM_ 라/EC_
+4 49/SN_ W/SL_
+17/SN_ ,/SP_ 4 72/SN_ 셀 /NNB_
+3/SN_ 기/NNB_
+17/SN_ ,/SP_ 4 72/SN_ 셀 /NNB_
+하이 드라 진/NNG_
+223/SN_ N/SL_
+4 49/SN_ W/SL_
+3/SN_ 채널/NNG_
+아 날 로그/NNG_ 테이프/NNG_ 레 코 더/NNG_
+CC/SL_ &/SW_ S/SL_
+1/SN_ 억/NR_ 9 500/SN_ 만/NR_ 비 트/NNB_
+53/SN_ 개/NNB_
+디지털/NNG_ 레 코 더/NNG_
+커 맨 드/NNG_
+1/SN_ 억/NR_ 9 500/SN_ 만/NR_ 비 트/NNB_
+작/VA_ 은/ETM_ 갈 고리/NNG_
+1000/SN_ ~/SO_ 3000/SN_ 개/NNB_
+3/SN_ ~/SO_ 4/SN_ 일/NNB_
+엉덩이/NNG_ 지 느 러 미/NNG_
+30/SN_ 센 티 미터/NNB_ 이상/NNG_
+수 컷/NNG_
+어둡/VA_ ㄴ/ETM_ 반 점/NNG_
+작/VA_ 은/ETM_ 갈 고리/NNG_
+지방 간/NNG_
+죽/VV_ 은/ETM_ 시 늉 /NNG_
+비타민/NNG_ C/SL_
+금 붕 어/NNG_
+메 기/NNG_
+초 록 색/NNG_
+곤 충/NNG_
+기 생 충/NNG_
+식 용/NNG_
+미국/NNP_ 플로 리 다 주/NNP_
+와 일 드/NNP_ 오 스카/NNP_
+"/SS_ 빨갛/VA_ ㄴ/ETM_ 타이 거/NNP_ 오 스카/NNP_
+페 인 팅/NNG_
+미국/NNP_ 플로 리 다 주/NNP_
+알 라/NNP_
+페 인 팅/NNG_
+동남 아시아/NNP_
+임 석/NNP_
+2012/SN_ 년/NNB_
+1/SN_ 년/NNB_ 6/SN_ 월/NNB_
+2012/SN_ 년/NNB_ 7/SN_ 월/NNB_ 5/SN_ 일/NNB_
+2013/SN_ 년/NNB_ 11/SN_ 월/NNB_ 23/SN_ 일/NNB_
+형사/NNG_ 보상금/NNG_ 전액/NNG_
+2012/SN_ 년/NNB_ 7/SN_ 월/NNB_ 5/SN_ 일/NNB_
+임 석/NNP_ 솔 로 몬 /NNP_ 저축/NNG_ 은행/NNG_ 회장/NNG_
+1/SN_ 년/NNB_ 6/SN_ 월/NNB_
+W i i/SL_ 재 퍼/NNG_
+2007/SN_ 년/NNB_ 4/SN_ 월/NNB_ 6/SN_ 일/NNB_
+2007/SN_ 년/NNB_ 4/SN_ 월/NNB_ 6/SN_ 일/NNB_
+2007/SN_ 년/NNB_ 4/SN_ 월/NNB_ 13/SN_ 일/NNB_
+닌 텐 도/NNP_ 월드/NNG_
+2007/SN_ 년/NNB_ 4/SN_ 월/NNB_ 13/SN_ 일/NNB_
+제임스/NNP_ 마 커 스/NNP_
+웨 스 커/NNP_
+바이오/NNG_ 하/XSV_ 자 드 /EC_ 0/SN_
+웨 스 커/NNP_
+제임스/NNP_ 마 커 스/NNP_
+마 커 스/NNP_
+거 머리/NNG_
+T/SL_ -/SS_ A L OS/SL_ 프로젝트/NNG_
+세 르 게이/NNP_ 블 라 디 미 르/NNP_
+러시아/NNP_
+T/SL_ -/SS_ A L OS/SL_
+T/SL_ -/SS_ A L OS/SL_ 프로젝트/NNG_
+세 르 게이/NNP_ 블 라 디 미 르/NNP_
+일 인 칭/NNG_ 건 슈 팅/NNG_ 게임/NNG_
+액션/NNG_ 버튼/NNG_
+일 인 칭/NNG_
+건 슈 팅/NNG_ 게임/NNG_
+일 인 칭/NNG_
+액션/NNG_ 버튼/NNG_
+별/NNG_
+동일/NNG_ 성/XSN_
+문화/NNG_
+언어/NNG_
+번 스타인/NNP_
+사회/NNG_ 화/XSN_ 에/JKB_ 의/JKG_ 언어/NNG_ 의/JKG_ 역할/NNG_
+언어/NNG_ 를/JKO_ 사용/NNG_ 하/XSV_ 는/ETM_ 방법/NNG_
+언어/NNG_ 적/XSN_ 자원/NNG_
+정 밀어/NNG_
+정 밀어/NNG_
+한 정 어/NNG_
+면담/NNG_
+짧/VA_ 게/EC_ 대답/NNG_
+한 정 어/NNG_
+구성/NNG_
+한 정 어/NNG_
+알/VV_ 게/EC_ 되/VV_ ㄹ/ETM_ 일/NNG_
+20/SN_ 명/NNB_
+기독교/NNG_
+유 영 철/NNP_
+기독교/NNG_
+월 미 도/NNP_
+기독교/NNG_
+영등 포 역/NNP_
+사형/NNG_
+영등 포 역/NNP_
+사형/NNG_
+라이프/NNG_
+12/SN_ 월/NNB_ 13/SN_ 일/NNB_
+라이프/NNG_
+아 돌 프/NNP_ A/SL_ ./SF_ 샬 렛 /NNP_
+데 니스/NNP_ 버 널/NNG_
+오 하이 오/NNP_ 주/NNG_
+아 돌 프/NNP_ A/SL_ ./SF_ 샬 렛 /NNP_
+18 90/SN_ 년대/NNB_
+셸 /NNP_ 비 /EP_ 일 레 트로 닉/NNG_ 컴 퍼 니/NNG_
+아 돌 프/NNP_ A/SL_ ./SF_ 샬 렛 /NNP_
+찰 스/NNP_ 쿠 럴 트/NNP_
+19 72/SN_ 년/NNB_
+아마도/MAG_ 지구/NNG_ 에서/JKB_ 가장/MAG_ 오래/MAG_ 되/XSV_ ㄴ/ETM_ 전 구/NNG_
+《/SS_ 오/VV_ ㄴ/ETM_ 더/MAG_ 로드/NNG_ 위 드/NNP_ 찰 스/NNP_ 쿠 럴 트/NNP_
+기자/NNG_ 마이크/NNP_ 던 스턴/NNP_
+아마도/MAG_ 지구/NNG_ 에서/JKB_ 가장/MAG_ 오래/MAG_ 되/XSV_ ㄴ/ETM_ 전 구/NNG_
+장소/NNG_ 세포/NNG_
+대 뇌/NNG_ 피 질/NNG_
+장소/NNG_ 세포/NNG_
+CA/SL_ 1/SN_
+내/NNG_ 후 각/NNG_ 피 질/NNG_
+대 뇌/NNG_ 피 질/NNG_
+단기/NNG_ ,/SP_ 장기/NNG_ 기억/NNG_ 과/JC_ 장소/NNG_ 인식/NNG_
+기억/NNG_ 회 로/NNG_
+CA/SL_ 3/SN_
+회 상/NNG_ 능력/NNG_
+CA/SL_ 1/SN_
+공간/NNG_ 에/JKB_ 대하/VV_ ㄴ/ETM_ 회 상/NNG_ 능력/NNG_
+CA/SL_ 1/SN_
+깜 빡 임 /VV_
+혼 돈/NNG_
+쥐/NNG_
+깜 빡 거 림 /VV_
+되 깜 빡 임 /VV_
+깜 빡 임 /VV_
+내/NNG_ 후 각/NNG_ 피 질/NNG_
+감 마 파/NNG_
+활성/NNG_ 의/JKG_ 선택/NNG_ 성/XSN_
+냄새/NNG_ -/SS_ 위치/NNG_
+영역/NNG_
+냄새/NNG_ 에/JKB_ 기반/NNG_ 하/XSV_ ㄴ/ETM_ 길/NNG_ 찾/VV_ 기/ETN_
+나 승 현/NNP_
+3/SN_ 학년/NNG_
+2005/SN_ 년/NNB_
+광주 제일 고등 학교/NNP_
+2005/SN_ 년/NNB_
+이치/NNG_ 로/JKB_
+나 승 현/NNP_
+현대/NNP_ 유니 콘 스/NNP_
+알 렉 스/NNP_ 로드리 게 스/NNP_
+현대/NNP_ 유니 콘 스/NNP_
+0/SN_ ./SP_ 3 22/SN_
+현대/NNP_ 유니 콘 스/NNP_
+내 야 수/NNG_
+우리/NP_ 히 어 로 즈/NNG_
+이광 환/NNP_ 감독/NNG_
+우리/NP_ 히 어 로 즈/NNG_
+장 채 근/NNP_
+골 든 /NNG_ 글 러 브/NNG_
+3/SN_ 월/NNB_ 10/SN_ 일/NNB_
+2003/SN_ 년/NNB_
+김인 식/NNP_ 위원장/NNG_
+김인 식/NNP_
+손 시 헌/NNP_
+이종 범/NNP_
+김인 식/NNP_ 위원장/NNG_
+광 저 우/NNP_ 아시안/NNG_ 게임/NNG_
+타이 완/NNP_ 킬 러/NNG_
+김 시 진/NNP_
+유 격 수/NNG_
+추 신 수/NNP_
+타이 완/NNP_ 킬 러/NNG_
+게 리/NNP_ 셰 필 드/NNP_
+이 대 수/NNP_
+게 리/NNP_ 셰 필 드/NNP_
+히 어 로 즈/NNP_
+이 대 수/NNP_
+게 리/NNP_ 셰 필 드/NNP_
+L PG/SL_ 트리오/NNG_
+2012/SN_ 년/NNB_
+L PG/SL_ 트리오/NNG_
+K/SL_ -/SS_ 로드/NNP_
+스티 브 블 래 스/NNP_ 증후군/NNG_
+평화/NNG_ 왕/NNG_
+타이/NNP_ 완전/NNG_
+6/SN_ 년/NNB_
+넥 센/NNP_ 히 어 로 즈/NNG_
+이 대 호/NNP_
+슬 프/VA_ ㄴ/ETM_ 홈런/NNG_
+96/SN_ 타 점/NNG_
+K IA/SL_ 타이 거 즈/NNP_
+2014/SN_ 년/NNB_
+피 츠 버그/NNP_ 파이 리 츠/NNG_
+2014/SN_ 년/NNB_
+홍 세 완/NNP_
+박병 호/NNP_
+차 우 찬/NNP_
+2015/SN_ 년/NNB_
+2015/SN_ 년/NNB_
+피 츠 버그/NNP_ 파이 리 츠/NNG_
+트 레 버/NNG_ 로 젠 탈/NNP_
+1100/SN_ 만/NR_ 달러/NNB_
+니 코스키/NNP_ 와/JC_ 라이 언/NNP_ 사 도 스키/NNP_
+2016/SN_ 년/NNB_
+워싱턴/NNP_ 내셔 널 스/NNP_
+워싱턴/NNP_ 내셔 널 스/NNP_
+브라이스/NNP_ 하 퍼/NNP_
+벤 치 클리 어 링/NNG_
+20/SN_ 홈런/NNG_
+지구/NNG_
+슈퍼 문/NNG_
+첫/MM_ 번/NNB_ 째/XSN_
+슈퍼 문/NNG_
+정 월/NNG_ 대/XPN_ 보름/NNG_
+한/MM_ 번/NNB_
+슈퍼 문/NNG_
+미술/NNG_
+9/SN_ 회/NNB_
+시인/NNG_
+9/SN_ 회/NNB_ 연속/NNG_ 가 왕/NNG_
+시/NNG_ 쓰/VV_ 는/ETM_ 것/NNB_
+미술/NNG_
+9/SN_ 회/NNB_
+크리 스티 안/NNP_ 시 몬 /NNP_
+마 리아/NNP_
+7/SN_ 명/NNB_
+크리 스티 안/NNP_ 시 몬 /NNP_
+막 스/NNP_ 크루 즈/NNP_
+마 리아/NNP_
+크리 스티 안/NNP_ 시 몬 /NNP_
+베르 린/NNP_ 레 싱 /NNP_ 시 어 터/NNG_
+막 스/NNP_ 크루 즈/NNP_
+19 05/SN_ 년/NNB_
+베를린/NNP_
+19 05/SN_ 년/NNB_ 크리스마스/NNG_
+모래/NNG_
+19 05/SN_ 년/NNB_
+마 리아/NNP_
+감자/NNG_
+미 샤 엘/NNP_
+V E B s/SL_
+한 느 /NNP_
+서부/NNG_ 지역/NNG_
+도 나 우 버트/NNP_
+세계/NNG_ 2/SN_ 차/NNB_ 대전/NNG_
+서부/NNG_ 지역/NNG_
+V E B s/SL_
+모 슬 린/NNG_ 이나/JC_ 사 슴 털/NNG_
+트리 코/NNG_
+모 슬 린/NNG_ 이나/JC_ 사 슴 털/NNG_
+약/MM_ 100/SN_ 년/NNB_
+100/SN_ 년/NNB_
+모 슬 린/NNG_ 이나/JC_ 사 슴 털/NNG_
+인 조/NNP_ 머리 카 락/NNG_
+크리 스 텐 슨/NNP_
+플 리 즈 스트 라 제/NNG_
+플 리 즈 스트 라 제/NNG_
+크리 스 텐 슨/NNP_
+한 느 /NNP_
+크리 스 텐 슨/NNP_
+플 리 즈 스트 라 제/NNG_
+연 산 군/NNP_
+연 산 군/NNP_
+연 산 군/NNP_
+『/SS_ 조선 왕 조 실 록/NNP_ 』/SS_
+거 울/NNG_ 에/JKB_ 대하/VV_ ㄴ/ETM_ 명 상/NNG_
+《/SS_ 검/VA_ 은/ETM_ 꽃/NNG_ 》/SS_
+</SS_ 살 인자/NNG_ 의/JKG_ 기억/NNG_ 법/NNG_ >/SS_
+작가/NNG_ 상/NNG_
+아 랑/NNP_ 은/JX_ 왜/MAG_
+검/VA_ 은/ETM_ 꽃/NNG_
+검/VA_ 은/ETM_ 꽃/NNG_
+나/NP_ 를/JKO_ 파괴/NNG_ 하/XSV_ ㄹ/ETM_ 권리/NNG_ 가/JKS_ 있/VV_ 다/EC_
+남 진 우/NNP_
+2008/SN_ 년/NNB_
+남 진 우/NNP_
+허 무 주의/NNG_ 적/XSN_
+빛 의 제 국/NNP_
+아 랑/NNP_ 은/JX_ 왜/MAG_
+퀴 즈 쇼 /NNP_
+나/NP_ 를/JKO_ 파괴/NNG_ 하/XSV_ ㄹ/ETM_ 권리/NNG_ 가/JKS_ 있/VV_ 다/EF_
+베스트 극 장/NNP_
+뮤지컬/NNG_
+나/NP_ 를/JKO_ 파괴/NNG_ 하/XSV_ ㄹ/ETM_ 권리/NNG_ 가/JKS_ 있/VV_ 다/EC_
+정 우 성/NNP_ ,/SP_ 손 예 진/NNP_
+김영 하/NNP_
+독일/NNP_
+일본/NNP_ 의/JKG_ 하 쿠 테이 샤 /NNG_ (/SS_ 白 帝 社 /SH_ )/SS_
+필리 프/NNP_ 피 키 에 /NNP_
+빛/NNG_ 의/JKG_ 제국/NNG_
+나/NP_ 를/JKO_ 파괴/NNG_ 하/XSV_ ㄹ/ETM_ 권리/NNG_ 가/JKS_ 있/VV_ 다/EC_
+12/SN_ 개/NNB_
+후쿠 시마/NNP_ 원전/NNG_ 사고/NNG_
+온 실/NNG_ 가스/NNG_ 감축/NNG_
+후쿠 시마/NNP_ 원전/NNG_ 사고/NNG_ 이후/NNG_
+사용/NNG_ 후/NNG_ 핵 연료/NNG_
+후쿠 시마/NNP_ 원전/NNG_ 사고/NNG_
+고/XPN_ 준 위/NNG_ 방사/NNG_ 성/XSN_ 폐기물/NNG_ 관리/NNG_ 기본/NNG_ 계획/NNG_
+후쿠 시마/NNP_ 사고/NNG_
+방사/NNG_ 성/XSN_ 물질/NNG_ 무/XPN_ 방 출/NNG_
+중대/NNG_ 사고/NNG_ 배제/NNG_ 기술/NNG_
+심 층/NNG_ 방어/NNG_ 강화/NNG_ 원천/NNG_ 기술/NNG_
+심 층/NNG_ 방어/NNG_ 강화/NNG_ 원천/NNG_ 기술/NNG_
+방사/NNG_ 성/XSN_ 물질/NNG_ 무/XPN_ 방 출/NNG_
+가상/NNG_ 원자 로/NNG_
+상용/NNG_ 경 수로/NNG_
+가상/NNG_ 원자 로/NNG_
+인공/NNG_ 지능/NNG_ ,/SP_ 빅/NNG_ 데이터/NNG_ ,/SP_ 3/SN_ D/SL_ 프린 팅/NNG_ ,/SP_ 로봇/NNG_
+가상/NNG_ 원자 로/NNG_
+상용/NNG_ 경 수로/NNG_
+원자력/NNG_ R/SL_ &/SW_ D/SL_
+스타/NNG_ 프로젝트/NNG_
+창의/NNG_ 성/XSN_
+선도/NNG_ 연구/NNG_
+원자력/NNG_ 진흥/NNG_ 종합/NNG_ 계획/NNG_
+방사 선/NNG_ 이용/NNG_ 개발/NNG_ 촉진/NNG_ 계획/NNG_
+중견/NNG_ 기업/NNG_ 의/JKG_ 부족/NNG_ ,/SP_ 인력/NNG_ 수급/NNG_ 불/XPN_ 균형/NNG_
+국가/NNG_ 동 위/NNG_ 원 소/NNG_ 네트워크/NNG_
+방사 선/NNG_ 원천/NNG_ 기술/NNG_ 확보/NNG_
+국가/NNG_ 동 위/NNG_ 원 소/NNG_ 네트워크/NNG_
+24/SN_ 명/NNB_
+퍼 드/NNG_ 갤 빈/NNG_
+5 11/SN_ 승/NNG_
+24/SN_ 명/NNB_
+퍼 드/NNG_ 갤 빈/NNG_
+7/SN_ 명/NNB_
+퍼 드/NNG_ 갤 빈/NNG_
+24/SN_ 명/NNB_
+영/NNG_
+토 미/NNP_ 존/NNP_ 수술/NNG_
+40/SN_ 대/NNB_
+랜 디/NNP_ 존 슨/NNP_
+토 미/NNP_ 존/NNP_ 수술/NNG_
+4/SN_ 인/NNG_ 선발/NNG_ 로 테이 션/NNG_
+토 미/NNP_ 존/NNP_ 수술/NNG_
+투수/NNG_
+명예/NNG_ 의/JKG_ 전당/NNG_
+3000/SN_ 탈 삼 진/NNG_ 클럽/NNG_
+명예/NNG_ 의/JKG_ 전당/NNG_
+5/SN_ 년/NNB_
+클 레 멘 스/NNP_
+경기 력/NNG_ 향상/NNG_ 약물/NNG_ 사용/NNG_ 에/JKB_ 연루/NNG_
+10/SN_ 명/NNB_
+엽 기/NNG_ 적/XSN_ 이/VCP_ ㄴ/ETM_ 그녀/NP_
+도 둑/NNG_ 들/XSN_
+엽 기/NNG_ 적/XSN_ 이/VCP_ ㄴ/ETM_ 그녀/NP_
+14/SN_ 년/NNB_
+엽 기/NNG_ 적/XSN_ 이/VCP_ ㄴ/ETM_ 그녀/NP_
+도 둑/NNG_ 들/XSN_
+대상/NNG_
+화이트/NNG_ 발 렌 타 인/NNP_
+시 월 애/NNP_
+여 명/NNG_
+박 신 양/NNP_
+삼성/NNP_ 마이 젯 /NNP_ 프린터/NNG_ 광고/NNG_
+화이트/NNG_ 발 렌 타 인/NNP_
+엽 기/NNG_ 적/XSN_ 이/VCP_ ㄴ/ETM_ 그녀/NP_
+50/SN_ 억/NR_
+4 88/SN_ 만/NR_
+9/SN_ 개/NNB_
+50/SN_ 억/NR_
+2/SN_ 관 왕/NNG_
+6/SN_ 주/NNB_
+4/SN_ 인/NNG_ 용/XSN_ 식 탁/NNG_
+71/SN_ 만/NR_ 명/NNB_
+20/SN_ 억/NR_ 엔/NNB_
+4/SN_ 인/NNG_ 용/XSN_ 식 탁/NNG_
+슈퍼 맨/NNG_ 이/VCP_ 었/EP_ 던/ETM_ 사 나이/NNG_
+71/SN_ 만/NR_ 명/NNB_
+《/SS_ 나/NP_ 의/JKG_ 여자/NNG_ 친구/NNG_ 를/JKO_ 소개/NNG_ 하/XSV_ ㅂ니다/EC_
+데 이지/NNP_
+설 화/NNG_ 와/JC_ 비밀/NNG_ 의/JKG_ 부채/NNG_
+5 80/SN_ 만/NR_ 달러/NNB_
+설 화/NNG_ 와/JC_ 비밀/NNG_ 의/JKG_ 부채/NNG_
+블 러 드/NNP_ :/SP_ 더/MAG_ 라 스트/NNG_ 뱀 파이어/NNG_
+리 빙 빙 /NNP_
+설 화/NNG_ 와/JC_ 비밀/NNG_ 의/JKG_ 부채/NNG_
+사 야/NNG_
+리 빙 빙 /NNP_
+예 니 콜 /NNP_
+련 정 희/NNP_
+26/SN_ ,/SP_ 7 57/SN_ ,/SP_ 4 91/SN_ 명/NNB_
+도 둑/NNG_ 들/XSN_
+10/SN_ 년/NNB_
+문화/NNG_ 창고/NNG_
+예 니 콜 /NNP_
+최 동 훈/NNP_
+4/SN_ 위/NNB_
+4/SN_ 관 왕/NNG_
+김수 현/NNP_
+백 상/NNP_ 예술/NNG_ 대상/NNG_
+2013/SN_ 년/NNB_
+22/SN_ ./SP_ 6/SN_ %/SW_
+4/SN_
+별/NNG_ 에서/JKB_ 오/VV_ ㄴ/ETM_ 그 대 /NP_
+천 송/NNG_ 이/JKS_
+김수 현/NNP_
+C F/SL_ 스타/NNG_
+전 지 현/NNP_
+베를린/NNP_
+H S/SL_ 애 드/NNG_
+안 현 모/NNP_
+장 진/NNP_
+길/VA_ ㄴ/ETM_ 생/XPN_ 머리/NNG_
+세계일보/NNP_
+길/VA_ ㄴ/ETM_ 생/XPN_ 머리/NNG_
+엘 라 스 틴/NNP_
+세계일보/NNP_
+길/VA_ ㄴ/ETM_ 생/XPN_ 머리/NNG_
+엘 라 스 틴/NNP_
+파 르 티 아/NNP_
+중기/NNG_ 페 르 시아 어/NNP_
+파 르 티 아/NNP_ 제국/NNG_
+바 흐 람 /NNP_ 1/SN_ 세/NNB_
+알/NNG_ 마다/JX_ 이/VCP_ ㄴ/ETM_
+십자 가 형/NNG_
+바 흐 람 /NNP_ 1/SN_ 세/NNB_
+귀 족/NNG_
+알 나 딤 /NNP_
+악 타/NNP_ 아르 켈 라이/NNP_
+피 흐 리 스트/NNP_
+이 븐 /NNG_ 알 나 딤 /NNP_
+이 븐 /NNG_ 알 나 딤 /NNP_
+마니/NNP_ 의/JKG_ 생 애/NNG_
+바 시 르/NNG_
+화가/NNG_ 마니/NNP_
+바 시 르/NNG_
+화가/NNG_ 마니/NNG_
+아카 마 쓰 /NNG_ 마사 히 데 /NNP_ (/SS_ 赤 松 政 秀 /SH_ )/SS_
+나 오 이/NNG_ 에/JKB_
+다 쓰 노/NNP_ 성/NNG_ (/SS_ 龍 野 城 /SH_ )/SS_
+우라/NNP_ 가 미/NNG_ 무 네 카 게 /NNP_
+다 쓰 노/NNP_ 성/NNG_
+에이 로 쿠 /NNP_ 12/SN_ 년/NNB_
+다 쓰 노/NNP_ 성/NNG_
+고 데 라/NNP_ 씨/NNB_ (/SS_ 小 寺 氏 /SH_ )/SS_
+우라 가 미/NNP_ 마사무 네/NNP_ (/SS_ 浦 上 政 宗 /SH_ )/SS_
+모 리/NNG_ 가 문/NNG_
+히 사 마 쓰 마 루/NNP_
+무 네 카 게 /NNP_
+히 사 마 쓰 마 루/NNP_
+하 리 마/NNP_ 국/NNG_
+고 지 마/NNP_ (/SS_ 幸 島 /SH_ )/SS_
+우라 /NP_ 가 미/NNG_ 가/VV_ 시/EP_ ㄴ/ETM_ 세력/NNG_
+우 키 타/NNP_ 가 문/NNG_
+고 지 마/NNP_
+하 리 마/NNP_
+비 젠/NNG_
+고 지 마/NNP_
+다이 코 키/NNP_
+황 실/NNG_
+2006/SN_ 년/NNB_
+서울시/NNP_ 무상/NNG_ 급식/NNG_ 정책/NNG_
+오 세훈/NNP_
+2006/SN_ 년/NNB_
+바르/VA_ ㄴ/ETM_ 정당/NNG_
+환경/NNG_ 권/XSN_
+1991/SN_ 년/NNB_
+경남 아파트/NNP_
+일 조/NNG_ 권/XSN_
+최 열/NNP_
+5/SN_ 년/NNB_
+환경/NNG_ 운동/NNG_ 연합/NNG_
+1995/SN_ 년/NNB_
+2000/SN_ 년/NNB_
+오/NNP_ 변호사/NNG_
+로 가 디스/NNP_
+오/NNP_ 변호사/NNG_
+1/SN_ 위/NNB_
+가끔/MAG_ 은/JX_ 변호사/NNG_ 도/JX_ 울/VV_ 고/EC_ 싶/VX_ 다/EC_
+경 원 대학교/NNP_
+고려 대학교/NNP_ 대학원/NNG_
+경 원 대학교/NNP_
+합동/NNG_ 법률/NNG_ 사무소/NNG_
+법학/NNG_ 과/JC_
+17/SN_ 대/NNB_
+2004/SN_ 년/NNB_ 1/SN_ 월/NNB_ 6/SN_ 일/NNB_
+2004/SN_ 년/NNB_
+중앙 당/NNG_
+T ri/SL_ -/SS_ A/SL_
+송 일 국/NNP_
+뫼 비 우스/NNP_ 의/JKG_ 띠/NNG_
+설 악 국제 트 라이 애 슬 론/NNP_
+박근혜/NNP_
+서울/NNP_ 시장/NNG_
+정 수기/NNG_
+5/SN_ 월/NNB_ 21/SN_ 일/NNB_
+강 금 실/NNP_
+아파트/NNG_ 후 분양/NNG_ 제/XSN_
+투명/NNG_ 하/XSA_ ㄴ/ETM_ 분양/NNG_ 원가/NNG_ 공개/NNG_
+어린 이 대 공원/NNP_
+4 23/SN_ 만/NR_ m/SL_
+그린/NNG_ 디자인/NNG_
+서울 성 곽 길/NNP_
+원 스트 라 아 크/NNP_ 아웃/NNG_ 제/XSN_
+클린/NNG_ 신고/NNG_ 센터/NNG_
+신/XPN_ 인사/NNG_ 시스템/NNG_
+원 스트 라 아 크/NNP_ 아웃/NNG_ 제/XSN_
+이명박/NNP_
+2008/SN_ 년/NNB_
+이명박/NNP_
+2007/SN_ 년/NNB_
+4/SN_ 회/NNB_
+세계/NNG_ 도시/NNG_ 전자/NNG_ 정부/NNG_ 협의 체/NNG_
+4/SN_ 회/NNB_
+서울/NNP_ IT/SL_ 선언/NNG_
+한명숙/NNP_
+2010/SN_ 년/NNB_
+2010/SN_ 년/NNB_
+6/SN_ 월/NNB_ 2/SN_ 일/NNB_
+27/SN_ 석/NNB_
+서울 광 장/NNP_ 운영/NNG_ 방식/NNG_
+2 133/SN_ 억/NR_
+2011/SN_ 년/NNB_
+1/SN_ m/SL_
+34 36/SN_ 억/NR_
+곽 노 현/NNP_
+주민/NNG_ 투표/NNG_
+곽 노 현/NNP_
+4000/SN_ 억/NR_
+조선 인/NNG_
+금 광/NNG_ 채 굴/NNG_ 권/XSN_
+정신/NNG_ 병원/NNG_
+금 광/NNG_ 채 굴/NNG_ 권/XSN_
+숙 희/NNP_
+후지 와 라/NNP_ 백 작/NNG_
+일제/NNG_ 강 점 기/NNG_
+장 물 아 비/NNG_
+히 데 코/NNP_
+사 사 키/NNP_ (/SS_ 김 해 숙/NNP_ )/SS_
+벚 꽃/NNG_ 나무/NNG_
+타 마 코/NNG_
+거짓말/NNG_
+타 마 코/NNG_
+정 오/NNG_
+그림/NNG_
+히 데 코/NNP_
+그림/NNG_
+숙 희/NNP_
+숙 희/NNP_
+그림/NNG_
+지하 실/NNG_
+혈 흔 /NNG_
+지하 실/NNG_
+절/NNG_
+일본/NNP_
+절/NNG_
+변 태/NNG_ 적/XSN_ 도 색/NNG_
+벚 꽃/NNG_ 나무/NNG_
+이 모/NNG_
+후지 와/NNP_ 이/VCP_ 라는/ETM_
+벚 꽃/NNG_ 나무/NNG_
+사 사 키/NNP_
+아 편/NNG_
+낭 독 회/NNG_
+아 편/NNG_
+자유/NNG_
+새롭/VA_ ㄴ/ETM_ 하 녀/NNG_
+아 편/NNG_
+지하 실/NNG_
+수 은/NNG_
+히 데 코/NNP_ 의/JKG_ 편지/NNG_
+상 해 로/NNP_ 의/JKG_
+숙 희/NNP_
+수 은/NNG_
+알 렉 산 더/NNP_ 스튜 어 트/NNP_
+알 렉 산 더/NNP_ 휴 이/NNP_ 홀 미 스/NNP_ 스튜 어 트/NNP_
+엘리 자 베 스/NNP_ 스튜 어 트/NNP_
+8/SN_ 번/NNB_ 째/XSN_
+아 치 볼 드/NNP_ 스튜 어 트/NNP_
+엘리 자 베 스/NNP_ 스튜 어 트/NNP_
+로 렐 /NNP_ 힐/NNP_
+알 렉 산 더/NNP_ 스튜 어 트/NNP_
+의장/NNG_
+18 48/SN_ 년/NNB_
+사관/NNG_ 후보/NNG_ 생/XSN_ 제/XPN_ 2/SN_ 대위/NNG_
+13/SN_ 등/NNB_
+14/SN_ 살/NNB_
+미 남/NNG_
+사관/NNG_ 후보/NNG_ 생/XSN_ 제/XPN_ 2/SN_ 대위/NNG_
+1850/SN_ 년/NNB_
+미 남/NNG_
+사관/NNG_ 후보/NNG_ 생/XSN_ 제/XPN_ 2/SN_ 대위/NNG_
+아메리카/NNP_ 원 주민/NNG_
+존/NNP_ 브라 운/NNP_
+로버트/NNP_ E/SL_ ./SF_ 리/NNP_
+18 57/SN_ 년/NNB_
+웨 스트 버 지니아/NNP_ 주/NNG_
+부 관/NNG_
+존/NNP_ 브라 운/NNP_
+로버트/NNP_ E/SL_ ./SF_ 리/NNP_
+아메리카/NNP_ 원 주민/NNG_
+18 63/SN_ 년/NNB_ 7/SN_ 월/NNB_ 1/SN_ 일/NNB_
+셰 넌 /NNG_ 도 어/NNG_ 계곡/NNG_
+18 63/SN_ 년/NNB_
+조지/NNP_ 미 드/NNP_ 소장/NNG_
+리/NNG_
+리/NNG_ 의/JKG_ 명령/NNG_
+해 리 스 버그/NNP_
+세 메 터 리 츠/NNG_
+이스트/NNG_ 킴 볼 리/NNP_ 필 드/NNG_
+2/SN_ 일/NNB_ 째/XSN_
+북 군/NNG_ 보급/NNG_ 마 차/NNG_ 들/XSN_
+통신 선/NNG_
+2/SN_ 일/NNB_ 째/XSN_
+적/NNG_ 의/JKG_ 통신 선/NNG_
+9 56/SN_ ,/SP_ 000/SN_ 달러/NNB_
+스튜 어 트 홀 /NNP_
+플로라/NNP_ 쿡 /NNP_ 스튜 어 트/NNP_
+9 56/SN_ ,/SP_ 000/SN_ 달러/NNB_
+18 62/SN_ 년/NNB_
+스튜 어 트/NNP_ 가 문/NNG_
+9 56/SN_ ,/SP_ 000/SN_ 달러/NNB_
+캠 프 불/NNG_
+버 지니아/NNP_ 부인/NNG_ 학교/NNG_
+히 로 히 토/NNP_
+제/XPN_ 124/SN_ 대/NNB_
+세계/NNG_ 대/XPN_ 공 황/NNG_
+정치/NNG_ 적/XSN_ 실 권/NNG_
+1900/SN_ 년/NNB_
+19 02/SN_ 년/NNB_
+가 와 무 라/NNP_ 스미 요 시/NNP_
+오 야 마/NNP_ 이 와 오/NNP_
+기도/NNG_ 다 카 마사/NNP_
+아 다 치/NNP_ 다 카/NNP_
+19 08/SN_ 년/NNB_
+황 족 신/NNG_ 위 령/NNG_
+요 시 히 토/NNP_
+동 궁/NNG_ 어 소/NNG_
+스 기 우라/NNP_ 주/VV_ 고/EC_
+시 미 즈/NNP_ 도 루/NNG_
+야 마 가 타/NNP_ 아리 토 모/NNP_
+하 라/NNP_ 다 카 시/NNP_
+마 키 노/NNP_ 노 부 아 키/NNP_
+시 라 니/NNP_ 다 케 시/NNP_
+도 야 마/NNP_ 미쓰 루/NNP_
+우 익/NNG_ 세력/NNG_
+시 데 /XR_ 하/XSA_ 라/EC_ 기 주/NNG_ 로/JKB_
+마 쓰 카 타/NNP_ 마사 요 시/NNP_
+19 21/SN_ 년/NNB_
+다 치/NNP_ 사 쿠 타 로/NNP_
+19 23/SN_ 년/NNB_
+5 35/SN_ 명/NNB_
+도 라 노 몬 /NNP_ 사건/NNG_
+데 루 노 미 야/NNP_ 시 게 코/NNP_
+5/SN_ 번/NNB_
+19 24/SN_ 년/NNB_
+가 네 코/NNP_ 후 미 코/NNP_
+국 체/NNG_ 논쟁/NNG_
+쇼 와/NNP_
+교 토/NNP_
+기도/NNG_ 고 이치/NNP_
+사이/NNG_ 오/VV_ ㄴ/ETM_ 지/EC_
+19 27/SN_ 년/NNB_
+다 나 카/NNP_ 기 이치/NNP_
+사고/NNG_ 야/JX_ 도 메 /VV_ 오/EC_
+하 마구 치/NNP_ 오사 치/NNP_
+19 31/SN_ 년/NNB_
+진 저 우/NNP_ 공 습/NNG_
+중 화 민국/NNP_
+가 나/VV_ 야/EC_ 한 조/NNG_
+황 도 파/NNG_
+벚 꽃 회/NNG_
+관 동 군/NNP_
+선 통 제/NNP_ 푸 이/NNP_
+혈 맹 단/NNG_
+사이 토/NNP_ 마 코 토/NNP_
+1/SN_ ,/SP_ 400/SN_ 명/NNB_
+5/SN_ 명/NNB_
+아 키 히 토/NNP_
+국 체/NNG_ 의/JKG_ 본 의/NNG_
+19 37/SN_ 년/NNB_
+간 인/NNG_ 노 미/NNG_ 야/JX_ 고 토 히 토/NNP_
+대 본 영/NNP_ 정부/NNG_ 연락/NNG_ 회의/NNG_
+성 전/NNG_
+17/SN_ ,/SP_ 000/SN_ 명/NNB_
+도쿄 니 치 니 치/NNP_ 신문/NNG_
+시 게 미쓰 /NNP_ 마 모 루/NNP_
+허 버트/NNP_ 빅 스/NNP_
+19 40/SN_ 년/NNB_
+대 륙 /NNP_ 명/NNB_ 제/XPN_ 4 58/SN_ 호/NNB_
+영국/NNP_
+대 정 익 찬 회/NNP_
+19 41/SN_ 년/NNB_
+미국/NNP_
+도 조/NNP_ 히 데 키/NNP_
+도 고/NNP_ 시 게 노 리/NNP_
+노무 라/NNP_ 기 치/NNG_ 사 부/NNG_ 로/JKB_
+나 가 노/NNP_ 오사 미/NNG_
+대/XPN_ 해 령/NNG_ 제/XPN_ 14/SN_ 호/NNB_
+부 건 빌/NNP_ 섬/NNG_
+약/MM_ 7/SN_ 만/NR_ 8/SN_ ,/SP_ 000/SN_ 명/NNB_
+둘 리 틀 /NNP_ 특 공 대/NNG_
+104/SN_ 명/NNB_
+네/MM_ 척/NNB_
+소비 에 트/NNP_ 연방/NNG_
+과 달/NNG_ 카 날/NNG_
+스 기 야 마/NNP_ 하 지 메 /NNP_
+시/NNG_ 마다/JX_ 시 게 타/NNP_ 로/JKB_
+395/SN_ 대/NNB_
+고 이 소/NNP_ 구 니 아 키/NNP_
+고 노 에 /NNP_ 후 미 마 로/NNP_
+유 닌 /NNG_
+19 45/SN_ 년/NNB_
+결 호/NNG_ 작전/NNG_
+만 주/NNP_
+포 츠 담/NNP_ 선언/NNG_
+선전/NNG_ 포 고/NNG_
+4/SN_ 년/NNB_
+궁 정체/NNG_
+와 다/NNP_ 노 부 카 타/NNP_
+장 제 스/NNP_
+오 가 타/NNP_ 다 케 토 라/NNP_
+특수/NNG_ 위안/NNG_ 시설/NNG_ 협회/NNG_
+블랙 리스트/NNG_ 작전/NNG_
+더 글 러 스/NNP_ 맥 아 더/NNP_
+진상/NNG_ 은/JX_ 이렇/VA_ 다/EC_
+교도/NNG_ 통신사/NNG_
+마 쓰 모토/NNP_ 조지/NNP_
+전쟁/NNG_ 포기/NNG_
+19 47/SN_ 년/NNB_
+알/VV_ 시/EP_ 다/EC_ 히 토 시/NNP_
+국제/NNG_ 검찰 국/NNG_
+보 너/NNG_ 펠 러 스/NNP_
+데 라 사 키/NNP_ 히 데 나 리/NNP_
+7/SN_ 가지/NNB_
+무력/NNG_ 하/XSA_ ㄴ/ETM_ 존재/NNG_
+회담/NNG_ 연기/NNG_
+조지 프/NNP_ 키 낸 /NNP_
+30/SN_ 명/NNB_
+페 드 로/NNP_ 로 페 스/NNP_
+144/SN_ 건/NNB_
+이 누 카이/NNP_ 다 케 루/NNP_
+앨 런/NNP_ 맨 스 필 드/NNP_
+윌리 엄/NNP_ 로 건/NNP_
+19 48/SN_ 년/NNB_
+히 로 타/NNP_ 고 키/NNP_
+7/SN_ 년/NNB_ 형/XSN_
+앙 리/NNP_ 베르 나 르/NNP_
+베르트/NNP_ 링/NNP_
+인천/NNP_ 상륙/NNG_ 작전/NNG_
+매 슈 /NNP_ 리 지 웨이/NNP_
+평화/NNG_ 의/JKG_ 노래/NNG_
+8/SN_ 명/NNB_
+나 카 소 네/NNP_ 야 스 히 로/NNP_
+19 52/SN_ 년/NNB_
+경찰관/NNG_ 직무/NNG_ 집행/NNG_ 법/NNG_
+19 58/SN_ 년/NNB_
+쇼 다/NNP_ 미 치 코/NNP_
+19 59/SN_ 년/NNB_
+시 마 나 카/NNP_ 호 지/NNP_
+후 카 자 와/NNP_ 시 치/NNG_ 로/JKB_
+19 72/SN_ 년/NNB_
+메이지/NNP_ 궁 전/NNG_
+고 단 샤 /NNP_
+19 75/SN_ 년/NNB_
+버 나 드/NNP_ 크리 셔 /NNP_
+스 기 야 마/NNP_ 메모/NNG_
+57/SN_ %/SW_
+이노 우 에 /NNP_ 기 요 시/NNP_
+배 청 록/NNP_
+이 리/NNP_ 에/JKB_ 스케 마사/NNG_
+나 카 소 네/NNP_ 야 스 히 로/NNP_
+88/SN_ 세/NNB_
+3/SN_ 일/NNB_
+소/XPN_ 규모/NNG_ 화학/NNG_ 회사/NNG_ 들/XSN_
+27/SN_ 곳/NNG_
+비상/NNG_ 경계 령/NNG_
+에 드 워 드/NNP_ 베르/NNP_
+해양/NNG_ 생물 학/NNG_
+핫 토 리/NNP_ 히 로 타/NNP_ 로/JKB_
+찰 스/NNP_ 다 윈/NNP_
+한도/NNG_ 가 즈 토 시/NNP_
+다 케 시 타/NNP_ 노 보 루/NNP_
+허 버트/NNP_ 빅 스/NNP_
+이명박/NNP_
+헤럴드/NNP_ 페 인/NNP_
+브 룩 스/NNP_ 베이 커/NNP_
+19 38/SN_ 년/NNB_
+7 31/SN_ 부대/NNG_
+히 메 타/NNP_ 미쓰 요 시/NNP_
+삼 광/NNG_ 작전/NNG_
+칙 어/NNG_
+삼 국/NNG_ 동맹/NNG_
+드 와이 트/NNP_ 아이 젠 하 워 /NNP_
+요 시 다/NNP_ 유 타 카/NNP_
+세이 키 주 쿠 /NNP_
+2000/SN_ 년/NNB_
+해 방 일보/NNP_
+국무부/NNG_
+난 바라/NNP_ 시 게 루/NNP_
+아베/NNP_ 요 시 시 게 /NNP_
+부 마/NNP_ 항 쟁/NNG_
+3/SN_ 당/NNG_ 합 당/NNG_
+문 민/NNG_ 정부/NNG_
+5/SN_ ./SP_ 18/SN_ 광주/NNP_ 민주/NNG_ 화/XSN_ 운동/NNG_
+19 86/SN_ 년/NNB_
+32/SN_ 년/NNB_
+부 마/NNP_ 항 쟁/NNG_
+민주 자유 당/NNP_
+문 민/NNG_ 정부/NNG_
+하나 회/NNP_
+혈액/NNG_ 감염/NNG_
+금융/NNG_ 실명/NNG_ 제/XSN_
+금융/NNG_ 실명/NNG_ 제/XSN_
+전두환/NNP_
+서울 대학 교 병원/NNP_
+금융/NNG_ 실명/NNG_ 제/XSN_
+IMF/SL_
+2015/SN_ 년/NNB_ 11/SN_ 월/NNB_ 22/SN_ 일/NNB_
+임진 왜 란/NNG_
+큰 달/NNG_ 섬/NNG_
+첫째/NR_ 로/JKB_
+김홍 조/NNP_
+사 육 신/NNG_ 사건/NNG_
+김 복 원/NNP_
+19 27/SN_ 년/NNB_ 12/SN_ 월/NNB_ 20/SN_ 일/NNB_
+경상 남도/NNP_ 거 제 시/NNP_ 장 목 면/NNP_ 외 포 리/NNP_
+기독교/NNG_
+뽕 밭/NNG_
+할아버지/NNG_
+할아버지/NNG_
+기독교/NNG_
+뽕 밭/NNG_
+20/SN_ 리/NNB_
+거지/NNG_ 도/JX_
+가 네 무 라/NNP_ 고유/NNG_
+8/SN_ 세/NNB_
+거지/NNG_ 도/JX_
+창 씨 개 명/NNG_
+장 목 소 학교/NNP_
+가 네 무 라/NNP_ 고유/NNG_
+와 타 나 베/NNP_
+노동/NNG_ 보 국/NNG_
+무기/NNG_ 정 학/NNG_
+키 타/NNG_ 이/VCP_ 지/EC_ 말/VX_ 아/EC_
+설 탕/NNG_
+와 타 나 베/NNP_
+통 영 중 학교/NNP_
+노동/NNG_ 보 국/NNG_
+노 장/NNP_ 철학/NNG_
+서울 대학교/NNP_
+8/SN_ 개/NNB_
+서울 대학교/NNP_
+19 51/SN_ 년/NNB_ 9/SN_ 월/NNB_
+서울 대학교/NNP_
+철학/NNG_
+19 48/SN_ 년/NNB_
+장 택 상/NNP_
+졸업/NNG_ 증 명서/NNG_
+경상 북도/NNP_ 칠 곡/NNP_
+외 무부/NNG_ 장관/NNG_ 상/NNG_
+장 택 상/NNP_
+김영삼/NNP_ 의/JKG_ 생 가/NNG_
+정부/NNG_ 수립/NNG_ 기념/NNG_ 웅 변 대회/NNG_
+장 택 상/NNP_
+사 사 오 입/NNG_ 개헌/NNG_
+이기 붕 /NNP_
+경 무 대/NNP_
+28/SN_ 세/NNB_
+최순 주/NNP_
+자유 당/NNP_
+28/SN_ 세/NNB_
+최순 주/NNP_
+민주당/NNP_
+19 54/SN_ 년/NNB_
+현 석 호/NNP_ ,/SP_ 한 동 석/NNP_
+민주당/NNP_
+19 54/SN_ 년/NNB_ 11/SN_ 월/NNB_ 27/SN_ 일/NNB_
+민주당/NNP_
+무장/NNG_ 공 비/NNG_
+서 석 재/NNP_
+향 토/NNG_ 예비 군 법/NNG_ 폐 지 안/NNG_
+향 토/NNG_ 예비 군 법/NNG_ 폐 지 안/NNG_
+무장/NNG_ 공 비/NNG_
+서 석 재/NNP_
+향 토/NNG_ 예비 군 법/NNG_ 폐 지 안/NNG_
+서 석 재/NNP_
+유진 산/NNP_
+김대중/NNP_
+유진 산/NNP_
+김대중/NNP_
+유진 산/NNP_
+김대중/NNP_
+서울/NNP_ 영등 포/NNP_ 갑 구/NNG_
+수 권/NNG_ 위원회/NNG_
+서울/NNP_ 영등 포/NNP_ 갑 구/NNG_ 출마/NNG_
+당 수/NNG_ 권한/NNG_ 대행/NNG_
+운영/NNG_ 위원회/NNG_
+진 산/NNG_ 파동/NNG_
+김대중/NNP_
+운영/NNG_ 위원회/NNG_ 부의장/NNG_
+운영/NNG_ 위원회/NNG_
+신 민 당/NNP_
+김홍 일/NNP_
+거부/NNG_ 의사/NNG_
+유 신/NNG_ 선포/NNG_
+마스크/NNG_
+하버 드/NNP_ 대학교/NNG_ 동아시아/NNP_ 연구소/NNG_
+6/SN_ 갑/NNG_
+유 신/NNG_
+19 72/SN_ 년/NNB_ 10/SN_ 월/NNB_
+이순 구/NNP_ 서울시/NNP_ 경 무 국장/NNG_
+김경 숙/NNP_
+원내/NNG_ 철 야/NNG_ 농성/NNG_
+2000/SN_ 여/XSN_ 명/NNB_
+김경 숙/NNP_
+김경 숙/NNP_
+김영삼/NNP_
+유 정 회/NNP_
+사 대 주의/NNG_ 발언/NNG_
+미국/NNP_
+국회의원/NNG_ 직/NNG_
+박정희/NNP_
+뉴욕 타임 스 지/NNP_
+공화당/NNP_ 에서/JKB_ 는/JX_
+부산 대학교/NNP_
+부 마/NNP_ 항 쟁/NNG_
+상 도 동/NNP_ 자택/NNG_
+부산 대학교/NNP_
+마 산시/NNP_ 및/MAG_ 창 원 시/NNP_
+부 마/NNP_ 항 쟁/NNG_
+부산 대학교/NNP_
+부 마/NNP_ 항 쟁/NNG_
+12/SN_ 사태/NNG_
+김대중/NNP_
+강원 용/NNP_
+민주주의/NNG_
+윤 보 선/NNP_
+윤 봉 길/NNP_ 생 가/NNG_
+신 민 당/NNP_
+윤 보 선/NNP_
+윤 봉 길/NNP_ 생 가/NNG_
+윤 보 선/NNP_
+현 충 사/NNP_
+김종 필/NNP_
+5/SN_ 월/NNB_ 20/SN_ 일/NNB_
+5/SN_ ·/SP_ 17/SN_ 쿠데타/NNG_
+김대중/NNP_ ,/SP_ 김종 필/NNP_
+5/SN_ ·/SP_ 17/SN_ 쿠데타/NNG_
+국민/NNG_ 적/XSN_ 목표/NNG_ 를/JKO_ 배 신/NNG_ 하/XSV_ ㄴ/ETM_ 5/SN_ ·/SP_ 17/SN_ 폭 거/NNG_
+이 학 봉/NNP_
+민주/NNP_ 산 악 회/NNG_
+이 학 봉/NNP_
+민주/NNP_ 산 악 회/NNG_
+김대중/NNP_ 계열/NNG_
+제/XPN_ 5/SN_ 공화국/NNG_
+이 학 봉/NNP_
+민주/NNP_ 산 악 회/NNG_
+민주 자유 당/NNP_
+노 태 우/NNP_
+여 소 야 대/NNG_ 정국/NNG_
+민주 자유 당/NNP_
+구/XPN_ 군사/NNG_ 정권/NNG_ 출 신자/NNG_ 들/XSN_
+민주 자유 당/NNP_
+김영삼/NNP_
+마 산/NNP_
+내각/NNG_ 제/XSN_ 포기/NNG_
+단독/NNG_ 면담/NNG_
+마 산/NNP_
+김종 필/NNP_ 최고/NNG_ 위원/NNG_
+마 산/NNP_
+김종 필/NNP_
+윤 석 양/NNP_
+이상 훈/NNP_ 국방부/NNG_ 장관/NNG_
+윤 석 양/NNP_
+양 심 선언/NNG_
+평 민 당사/NNG_
+윤 석 양/NNP_
+이상 훈/NNP_
+정 호 용/NNP_
+1960/SN_ 년/NNB_
+야당/NNG_
+정 호 용/NNP_
+김종 필/NNP_
+정 호 용/NNP_
+박 부 련/NNP_
+정 주영/NNP_
+우리/NP_ 가/JKS_
+1992/SN_ 년/NNB_
+불법/NNG_ 도청/NNG_
+영남/NNP_ 표/NNG_
+김영삼/NNP_ ,/SP_ 김대중/NNP_ ,/SP_ 정 주영/NNP_
+초 원 복 집 /NNP_ 사건/NNG_
+가 오리/NNG_
+LA/SL_ 매일 신문/NNP_
+민 자 당/NNP_ 대선/NNG_ 후보/NNG_
+LA/SL_ 매일 신문/NNP_
+가 오리/NNG_
+보수/NNG_ 세력/NNG_
+손 충 무/NNP_
+보수/NNG_ 세력/NNG_
+손 충 무/NNP_
+극 우/NNG_ 세력/NNG_
+조선 총 독 부/NNP_
+손 충 무/NNP_
+진실/NNG_ 을/JKO_ 밝히/VV_ 는/ETM_ 것/NNB_
+5/SN_ 월/NNB_ 13/SN_ 일/NNB_
+3/SN_ 월/NNB_ 13/SN_ 일/NNB_
+5/SN_ ·/SP_ 18/SN_ 광주/NNP_ 민주/NNG_ 화/XSN_ 운동/NNG_
+빌/NNP_ 클린턴/NNP_ 대통령/NNG_
+제네 바/NNP_ 합의/NNG_
+빌/NNP_ 클린턴/NNP_
+대북/NNG_ 포 용/NNG_ 정책/NNG_
+북한/NNP_ 잠수 함/NNG_ 침 투/NNG_ 사건/NNG_
+빌/NNP_ 클린턴/NNP_
+제네 바/NNP_ 합의/NNG_
+지 미/NNP_ 카 터/NNP_ 전/MM_ 대통령/NNG_
+보 수 주의/NNG_
+지 미/NNP_ 카 터/NNP_ 전/MM_ 대통령/NNG_
+7/SN_ 월/NNB_ 8/SN_ 일/NNB_
+자유/NNG_ 민주주의/NNG_
+지 미/NNP_ 카 터/NNP_
+로버트/NNP_ 갈 루 치/NNP_
+영 변/NNP_
+4/SN_ 월/NNB_ 15/SN_ 일/NNB_
+4/SN_ 월/NNB_ 15/SN_ 일/NNB_
+박 노 해/NNP_ ·/SP_ 김남 주/NNP_
+주민/NNG_
+1995/SN_ 년/NNB_ 5/SN_ 월/NNB_
+지방/NNG_ 자치/NNG_ 제도/NNG_
+1/SN_ 급/NNG_ 관리 관/NNG_
+국회의원/NNG_ 박 계 동/NNP_
+11/SN_ 월/NNB_ 24/SN_ 일/NNB_
+4/SN_ 천억/NR_ 이상/NNG_
+신/XPN_ 군부/NNG_ 인사/NNG_ 들/XSN_
+5/SN_ ·/SP_ 18/SN_ 관련/NNG_ 특별법/NNG_
+4/SN_ 천억/NR_ 비 자금 설/NNG_
+5/SN_ ·/SP_ 18/SN_ 관련/NNG_ 특별법/NNG_
+김윤 환/NNP_
+가/XPN_ 석방/NNG_
+10/SN_ %/SW_
+1997/SN_ 년/NNB_ 4/SN_ 월/NNB_ 17/SN_ 일/NNB_
+추 징금/NNG_ 문제/NNG_
+특별 /XR_ 사면/NNG_
+김대중/NNP_ 이회창/NNP_ 이인 제/NNP_
+김윤 환/NNP_
+김대중/NNP_
+이회창/NNP_
+1997/SN_ 년/NNB_ 12/SN_ 월/NNB_ 20/SN_ 일/NNB_
+지방/NNG_ 자치/NNG_ 단체장/NNG_ 선거/NNG_
+서울/NNP_ 특별 시장/NNG_
+노무현/NNP_
+강원도/NNP_
+1996/SN_ 년/NNB_
+노무현/NNP_ 정권/NNG_
+김 구/NNP_
+박정희/NNP_
+김일 영/NNP_ 교수/NNG_
+김 구/NNP_
+시 선 집 중/NNP_ 광주/NNP_
+89/SN_ 세/NNB_
+국가장/NNG_
+서울 대학교/NNP_ 병원/NNG_
+89/SN_ 세/NNB_
+5/SN_ 일/NNB_ 간/NNG_ 국가장/NNG_
+김영삼/NNP_
+국립/NNG_ 서울 현 충 원/NNP_
+쇠/NNG_ 말 뚝 /NNG_ 뽑/VV_ 기/ETN_
+독도/NNP_ 접 안/NNG_ 시설/NNG_
+금융/NNG_ 실명/NNG_ 제/XSN_
+독도/NNP_ 접 안/NNG_ 시설/NNG_
+초등학교/NNG_
+초등학교/NNG_
+쇠/NNG_ 말 뚝 /NNG_ 뽑/VV_ 기/ETN_
+70/SN_ %/SW_
+들 러 리/NNG_
+연평균/NNG_ 대북/NNG_ 지원/NNG_ 실적/NNG_
+9/SN_ 천/NR_ 8 15/SN_ 만/NR_ 달러/NNB_
+36/SN_ 억/NR_ 달러/NNB_
+9/SN_ 천/NR_ 8 15/SN_ 만/NR_ 달러/NNB_
+36/SN_ 억/NR_ 달러/NNB_
+이민 우/NNP_
+정 한 용/NNP_
+이인 제/NNP_
+안기부/NNG_ 법/NNG_ 개정/NNG_
+한국민주당/NNP_
+비서관/NNG_
+신한국당/NNP_
+한국민주당/NNP_
+반/XPN_ 유 신/NNG_ 체제/NNG_ 운동/NNG_
+신한국당/NNP_
+한국민주당/NNP_
+민주당/NNP_
+전두환/NNP_ 노 태 우/NNP_ 의/JKG_ 사면/NNG_
+김윤 환/NNP_ 고문/NNG_
+형/NNG_ 집행/NNG_ 정지/NNG_
+박정 수/NNP_ 부 총재/NNG_
+신한국당/NNP_
+이인 제/NNP_
+새정치 국민 회의 /NNP_
+워싱 턴 포스트/NNP_ 신문/NNG_
+박정 수/NNP_
+이회창/NNP_
+뉴욕 타임 스 지/NNP_ 는/JX_
+A BC/SL_ 방송/NNG_
+워싱 턴 포스트/NNP_
+안 풍/NNG_ 사건/NNG_
+홍준표/NNP_
+안 풍/NNG_ 사건/NNG_
+한나라당/NNP_
+안 풍/NNG_ 사건/NNG_
+홍준표/NNP_
+1992/SN_ 년/NNB_
+김기 수/NNP_
+민 자 당/NNP_
+호남/NNP_
+지역 감정/NNG_
+10/SN_ 신/NNG_
+보 살 영 락 본 업 경/NNP_
+영 락 경/NNP_
+52/SN_ 위/NNB_
+10/SN_ 신/NNG_
+영 락/NNG_
+10/SN_ 신/NNG_
+호 법 심/NNG_
+영 락 경/NNP_
+영 락 경/NNP_
+상권/NNG_
+호 법 심/NNG_
+경 전/NNG_ 과/JC_ 논 서/NNG_
+10/SN_ 순 명 자/NNG_ 보 살/NNG_
+10/SN_ 순 명 자/NNG_ 보 살/NNG_
+10/SN_ 순 명 자/NNG_ 보 살/NNG_
+10/SN_ 순 명 자/NNG_ 보 살/NNG_
+가 명/NNG_ 보 살/NNG_
+명 자/NNP_ 보 살/NNG_
+신 상 보 살 /NNP_
+믿음/NNG_
+공 덕/NNG_
+믿음/NNG_
+위/NNG_ 없/VA_ 는/ETM_ 마음/NNG_
+믿음/NNG_
+공 덕/NNG_
+2001/SN_ 년/NNB_ 영화/NNG_ 《/SS_ 선 물 /NNP_ 》/SS_
+《/SS_ 천 국/NNG_ 의/JKG_ 계단/NNG_ 》/SS_
+《/SS_ 용 팔 이/NNP_ 》/SS_
+한 유 리/NNP_
+뉴스타/NNG_ 상/NNG_
+최 승 희/NNP_
+천 국/NNG_ 의/JKG_ 계단/NNG_
+아이 리스/NNP_
+2000/SN_ 년/NNB_ "/SS_ 화이트/NNG_ "/SS_ 광고/NNG_
+중 등/NNG_ 정 연/NNP_ 역/NNG_
+오 기 환/NNP_
+화이트/NNG_
+서울 대학교/NNP_
+레 츠 고/NNP_
+화이트/NNG_
+신/XPN_ 도시/NNG_ 이/VCP_ ㄴ/ETM_
+《/SS_ 중 천/NNP_ 》/SS_
+150/SN_ 만/NR_ 명/NNB_
+중국/NNP_
+정 우 성/NNP_
+중 천/NNP_
+싸움/NNG_
+여 주인공/NNG_ 최 승 희/NNP_
+39/SN_ ./SP_ 9/SN_ %/SW_ ,/SP_
+우수/NNG_ 연기/NNG_ 상/NNG_
+그 랑 프리/NNP_
+최 승 희/NNP_
+아 테 나/NNP_
+《/SS_ 마이/NNP_ 프린 세 스/NNP_ 》/SS_
+스위스/NNP_ 에서/JKB_ 독도/NNP_ 사랑/NNG_ 캠페인/NNG_
+마이/NNP_ 프린 세 스/NNP_
+나/NP_ 와/JC_ 스타/NNG_ 의/JKG_ 99/SN_ 일/NNB_
+나/NP_ 와/JC_ 스타/NNG_ 의/JKG_ 99/SN_ 일/NNB_
+독도/NNP_ 사랑/NNG_ 캠페인/NNG_
+유 방 암/NNG_ 의/JKG_ 위험/NNG_ 성/XSN_
+"/SS_
+헤럴드/NNP_ 경제/NNG_
+이 완/NNG_
+이 완/NNG_
+메이 크 어/NNG_ 위 시/NNG_
+디스/NNG_ 패 치/NNG_
+2017/SN_ 년/NNB_ 1/SN_ 월/NNB_ 17/SN_ 일/NNB_
+정 지 훈/NNP_
+인 스타/NNG_ 그 램 /NNB_
+비/NNG_
+디스/NNG_ 패 치/NNG_
+자신/NNG_ 의/JKG_ 정액/NNG_
+원 시인/NNG_ 들/XSN_ 의/JKG_ 남녀/NNG_ 관계/NNG_
+화 원/NNG_
+환/NNP_ 씨/NNB_
+화 희/NNP_ 와/JC_ 공 손 사/NNP_
+당 산/NNP_
+어 석/NNG_
+초 나라/NNP_
+황 하/NNP_
+평 공/NNP_ 14/SN_ 년/NNB_
+제 후/NNG_ 연합 군/NNG_
+정 나라/NNP_
+정 나라/NNP_
+15/SN_ 년/NNB_
+평 공/NNP_
+공 자/NNP_ 좌/NNG_
+팽 형/NNG_
+공 자/NNP_ 좌/NNG_
+초 나라/NNP_
+팽 형/NNG_
+이/VV_ 려는/ETM_
+이 려/NNG_
+흥 선 대 원 군/NNP_
+러시아/NNP_
+미 우라/NNP_ 고 로/NNP_
+민/NNP_ 씨/NNB_ 척 족/NNG_
+18 95/SN_ 년/NNB_
+왕 비/NNG_ 간 택/NNG_
+창 덕 궁/NNP_
+한창 부/NNP_ 부인/NNG_
+12/SN_ 세/NNB_
+창 덕 궁/NNP_
+민 자 영/NNP_
+3/SN_ 월/NNB_ 6/SN_ 일/NNB_
+민 치 록/NNP_
+최 익 현/NNP_
+흥 인 군/NNP_
+유 학자/NNG_
+18 73/SN_ 년/NNB_
+최 익 현/NNP_
+박 규 수/NNP_
+김세 호/NNP_
+이재 선/NNP_
+강 화 도/NNP_ 조약/NNG_
+음 력/NNG_ 9/SN_ 월/NNB_ 13/SN_ 일/NNB_
+강 화 도/NNP_ 조약/NNG_
+박 규 수/NNP_
+조선 책 략 /NNP_
+임 오 군 란/NNG_
+대 원 군/NNP_
+조선 책 략 /NNP_
+김홍 집 /NNP_
+조선 책 략 /NNP_
+임 오 군 란/NNG_
+다 케 조/NNP_ 에/JKB_ 신 이치 로/NNP_
+김 옥 균/NNP_
+청 나라/NNP_
+한성/NNP_ 조약/NNG_
+청 군/NNG_ 의/JKG_ 원조/NNG_
+경 우 궁/NNP_
+한성/NNP_ 조약/NNG_
+러시아/NNP_
+중국/NNP_
+대 원 군/NNP_
+거 문 도/NNP_
+원 세 개/NNG_
+러시아/NNP_
+거 문 도/NNP_
+처 형/NNG_
+전 봉 준/NNP_
+동 비/NNG_
+최 제 우/NNP_
+최 시 형/NNP_
+최 제 우/NNP_
+최 시 형/NNP_
+전 봉 준/NNP_
+청 나라/NNP_
+일본/NNP_
+김홍 집 /NNP_
+전 주/NNG_ 화 약/NNG_
+김홍 집 /NNP_
+김홍 집 /NNP_
+청 나라/NNP_
+경 복 궁/NNP_
+스 기 무 라/NNP_ 후 카 시/NNP_
+명 성 황 후/NNP_
+경 복 궁/NNP_
+경 장/NNG_ 사업/NNG_
+전 봉 준/NNP_
+대 원 군/NNP_ 은/JX_
+청 나라/NNP_ 군대/NNG_
+전 봉 준/NNP_
+청 나라/NNP_
+전 봉 준/NNP_
+농민/NNG_ 운동/NNG_
+교 동/NNP_
+유 길 준/NNP_
+일본/NNP_ 영 사관/NNG_
+유 길 준/NNP_
+18 95/SN_ 년/NNB_
+대 원 군/NNP_
+대 원 군/NNP_
+아 소 정/NNP_
+고 유 문/NNG_
+갑 오 경 장/NNG_
+고 유 문/NNG_
+8/SN_ 월/NNB_ 20/SN_ 일/NNB_
+문 성/NNP_
+고 종/NNP_
+청 량 리 동/NNP_
+광 무/NNG_
+대한 제 국 정/NNP_
+치 하 포/NNG_
+상인/NNG_
+이노 우 에 /NNP_ 가 오 루/NNP_
+고 영 근/NNP_
+이 두 황/NNP_
+명 성 황 후/NNP_
+유 길 준/NNP_
+매 천 야 록/NNP_
+유 길 준/NNP_
+매 천 야 록/NNP_
+세 도/NNG_ 정치/NNG_
+반/XPN_ 일/NNP_ 의 병/NNG_ 운동/NNG_
+서 태 후/NNP_
+서 태 후/NNP_
+동 도서 기/NNG_
+대 원 군/NNP_
+고위/NNG_ 관 직/NNG_
+6/SN_ 종/NNG_
+소프트/NNG_ 키/NNG_
+물리/NNG_ 홈/NNG_ 버튼/NNG_
+85/SN_ %/SW_
+소프트/NNG_ 키/NNG_
+곡 면/NNG_
+퀄 컴/NNP_ 스 냅 드 래 곤/NNG_ 8 35/SN_ M SM/SL_ 8 9 98/SN_
+퀄 컴/NNP_ A d re no/SL_ 5 40/SN_ G PU/SL_
+삼성/NNP_ 엑 시 노 스/NNP_ 9/SN_ S eri es/SL_
+25/SN_
+64/SN_ GB/SL_
+4/SN_ GB/SL_
+4/SN_ GB/SL_
+U F S/SL_ 2/SN_ ./SP_ 1/SN_
+In fin it y/SL_ D ispl ay/SL_
+29 60/SN_ x/SL_ 14 40/SN_
+2 220/SN_ x/SL_ 10 80/SN_
+직 사 각/NNG_ 형/XSN_
+3/SN_ ,/SP_ 000/SN_ m A h/SL_
+17/SN_ 시간/NNG_
+3/SN_ ,/SP_ 000/SN_ m A h/SL_
+14/SN_ 시간/NNB_
+17/SN_ 시간/NNG_
+3/SN_ ,/SP_ 000/SN_ m A h/SL_
+1/SN_ ,/SP_ 200/SN_ 만/NR_ 화 소/NNG_
+소니/NNP_ 엑 스/NNG_ 모 어/NNG_ IM X/SL_ 3 33/SN_
+1/SN_ ,/SP_ 200/SN_ 만/NR_
+800/SN_ 만/NR_
+800/SN_ 만/NR_ 화 소/NNG_
+77/SN_ 도/NNB_
+엘리 자 베 스/NNP_ 룬 드/NNP_ 홈/NNG_
+엘리 너/NNP_ 루 이지/NNP_ 코 웰 /NNP_
+19 46/SN_ 년/NNB_ 11/SN_ 월/NNB_ 24/SN_ 일/NNB_
+19 46/SN_ 년/NNB_ 11/SN_ 월/NNB_ 24/SN_ 일/NNB_
+엘리 너/NNP_ 루 이지/NNP_ 코 웰 /NNP_
+엘리 너/NNP_ 루 이지/NNP_ 코 웰 /NNP_
+로이 드/NNP_ 마 셜 /NNP_
+사 뮤 엘/NNP_ 코 웰 /NNP_
+사 뮤 엘/NNP_ 코 웰 /NNP_
+필 라 델 피아/NNP_
+스티 븐/NNP_ 미 쇼 /NNP_ 와/JC_ 휴/NNG_ 애 인 스 워 스/NNP_
+3/SN_ 살/NNB_
+19 69/SN_ 년/NNB_
+사 촌/NNG_
+19 69/SN_ 년/NNB_
+줄리아/NNP_
+우울증/NNG_
+사 뮤 엘/NNP_ 코 웰 /NNP_
+사 뮤 엘/NNP_ 코 웰 /NNP_
+줄리아/NNP_
+외 할머니/NNG_
+사 뮤 엘/NNP_ 코 웰 /NNP_
+줄리아/NNP_
+전기/NNG_ 치료/NNG_
+1950/SN_ 년/NNB_
+워싱턴/NNP_ 주/NNG_ 터 코 마/NNP_
+19 51/SN_ 년/NNB_
+넬 슨/NNP_
+병원/NNG_ 요 리 사/NNG_
+4/SN_ 명/NNB_
+워싱턴/NNP_ 주/NNG_
+성인/NNG_ 싱글/NNG_ 나이 트/NNG_
+여자/NNG_ 친구/NNG_
+여자/NNG_ 나 체/NNG_ 사진/NNG_
+사체/NNG_ 나/JC_ 불 구/NNG_ 가/JKC_ 되/VV_ ㄴ/ETM_ 사진/NNG_ 이/JKS_ 있/VV_ 는/ETM_ 성 범죄/NNG_ 관련/NNG_ 실제/NNG_ 범죄/NNG_
+룰 /NNG_
+폴리/NNP_ 넬 슨/NNP_
+룰 /NNG_
+미 쇼 /NNP_
+실제/NNG_ 범죄/NNG_ 다큐 멘 터리/NNG_
+탐 정/NNG_ 잡지/NNG_
+미 쇼 /NNP_
+19 65/SN_ 년/NNB_
+퓨 젯 /NNG_ 사 운드/NNG_ 대학교/NNG_
+워싱턴/NNP_ 대학교/NNG_
+19 65/SN_ 년/NNB_
+워싱턴/NNP_ 대학교/NNG_
+공화당/NNP_ 전당/NNG_ 대회/NNG_
+스테 파 니/NNP_ 브 룩 스/NNP_
+공화당/NNP_ 전당/NNG_ 대회/NNG_
+콜 로 라 도/NNP_
+19 69/SN_ 년/NNB_ 가을/NNG_
+유 타 주/NNP_ 오 그 던/NNP_
+워싱턴/NNP_ 대학교/NNG_ 의 과/NNG_ 대학/NNG_
+유 타 주/NNP_ 오 그 던/NNP_
+심 리학/NNG_
+《/SS_ 나/NP_ 의/JKG_ 옆/NNG_ 의/JKG_ 이 방 인/NNG_
+워싱턴/NNP_ 대학교/NNG_
+심 리학/NNG_
+앤/NNP_ 룰 /NNP_
+19 72/SN_ 년/NNB_
+워싱턴/NNP_ 대학교/NNG_
+로스/NNP_ 데이 비스/NNP_
+다 니 엘/NNP_ J/SL_ ./SF_ 에 반 스/NNP_
+앨 버트/NNP_ 로 젤 리 니/NNP_
+로스/NNP_ 데이 비스/NNP_
+앨 버트/NNP_ 로 젤 리 니/NNP_
+로스/NNP_ 데이 비스/NNP_
+19 72/SN_ 년/NNB_
+퓨 젯 /NNG_ 사 운드/NNG_ 대학교/NNG_
+19 73/SN_ 년/NNB_ 가을/NNG_
+데이 비스/NNP_
+19 73/SN_ 년/NNB_
+클 로 퍼/NNG_
+퓨 젯 /NNG_ 사 운드/NNG_ 대학교/NNG_
+브 룩 스/NNP_
+데이 비스/NNP_
+퓨 젯 /NNG_ 사 운드/NNG_ 대학교/NNG_
+뉴 저 지주/NNP_ 오 션/NNG_ 시티/NNG_
+19 69/SN_ 년/NNB_
+19 74/SN_ 년/NNB_
+뉴 저 지주/NNP_ 오 션/NNG_ 시티/NNG_
+두/MM_ 명/NNB_
+27/SN_ 살/NNB_
+아트/NNP_ 노 만/NNP_
+앤/NNP_ 마 리/NNP_ 버 르/NNP_
+27/SN_ 살/NNB_
+에버그린/NNP_ 주 립/NNG_ 대학/NNG_
+센 트 럴/NNG_ 워싱턴/NNP_ 주 립/NNG_ 대학/NNG_
+오리 건/NNP_ 주 립/NNG_ 대학교/NNG_
+에버그린/NNP_ 주 립/NNG_ 대학/NNG_
+엘 라인/NNP_ 랜 코 트/NNP_
+로 베르 타/NNP_ 캐 슬 린/NNP_ 팍 스/NNP_
+재 즈/NNG_ 콘서 트 장/NNG_
+수 잔 /NNP_ 엘 라인/NNP_ 랜 코 트/NNP_
+브 렌 다/NNP_ 캐 롤 /NNP_ 볼/NNG_
+6/SN_ 월/NNB_ 11/SN_ 일/NNB_
+6/SN_ 월/NNB_ 1/SN_ 일/NNB_
+22/SN_ 살/NNB_
+워싱턴/NNP_ 대학교/NNG_
+백 인/NNG_
+조지 안/NNP_ 호 킨 스/NNP_
+워싱 턴 주/NNP_ 와/JC_ 오리 건/NNP_ 전역/NNG_
+여성/NNG_ 히 치 하이 킹/NNG_
+신문/NNG_ 과/JC_ 텔레비전/NNG_
+6/SN_ 명/NNB_
+건설/NNG_ 현장/NNG_
+슬 랙 스/NNG_ 나/JC_ 청 바지/NNG_
+건설/NNG_ 현장/NNG_
+폭 스 바 겐/NNP_ 비 틀/NNG_
+여성/NNG_ 히 치 하이 킹/NNG_
+7/SN_ 월/NNB_ 14/SN_ 일/NNB_
+레이 크/NNP_ 새 머 미 시/NNG_ 주 립/NNG_ 공원/NNG_
+제 니스/NNP_ 앤/NNP_ 오 트/NNP_
+2/SN_ 명/NNB_
+킹 /NNP_ 카운 티/NNG_ 소년/NNG_ 법정/NNG_
+데 니스/NNP_ 마 리/NNP_ 나스 런 드/NNP_
+보호/NNG_ 관 찰 관/NNG_
+마 리/NNP_ 나스 런 드/NNP_
+오 트/NNG_
+9/SN_ 월/NNB_ 2/SN_ 일/NNB_
+솔 트레이 크 시티/NNP_ 외곽/NNG_ 할 러 데이/NNG_
+캐피 톨 /NNP_ 리 프/NNP_ 국립 공원/NNG_ 근처/NNG_
+아이 다 호/NNG_
+낸 시/NNP_ 윌 콕 스/NNP_
+2/SN_ 건/NNB_
+16/SN_ 살/NNB_
+할 러 데이/NNG_
+구 약 학/NNG_
+갈 보 리 교회/NNP_
+미디어/NNG_ 팀장/NNG_
+총 신 대학교/NNP_
+19 74/SN_ 년/NNB_
+총 신 대학교/NNP_
+윤 정 훈/NNP_
+나/NP_ 는/JX_ 꼼 수 다/NNG_
+새누리당/NNP_
+2012/SN_ 년/NNB_
+새 마음/NNG_ 포럼/NNG_
+국 정 일보/NNP_
+새 마음/NNG_ 포럼/NNG_
+국정원/NNG_
+저/NP_ 의/JKG_ 나/JC_ 기 즈/NNP_
+위 스 콘 신/NNP_ 어린이/NNG_ 병원/NNG_
+CDC/SL_
+박 쥐/NNG_
+광 견 병/NNG_
+다시 증/NNG_
+광 견 병/NNG_
+윌 로 우 바이/NNP_
+광 견 병/NNG_
+윌 로 우 바이/NNP_
+뇌/NNG_
+광 견 병/NNG_
+광 견 병/NNG_
+케 네 스/NNP_ 맥 /NNP_
+31/SN_ 일/NNB_
+31/SN_ 일/NNB_
+케 네 스/NNP_ 맥 /NNP_
+4/SN_ 종/NNG_
+홈/NNG_ 버튼/NNG_
+2/SN_ 시간/NNG_
+4/SN_ 종/NNG_ 이/VCP_ 다/EF_ ./SF_
+삼성/NNP_ 엑 시 노 스/NNP_ 7 420/SN_
+3000/SN_ m A h/SL_
+S/SL_ 메모/NNG_
+1/SN_ ,/SP_ 600/SN_ 만/NR_
+18 08/SN_ 년/NNB_
+카 를 /NNP_ 13/SN_ 세/NNB_
+틸 지 트/NNG_ 조약/NNG_
+베르 나 도 트/NNP_
+영국/NNP_ ,/SP_ 러시아/NNP_
+핀 란드/NNP_
+스웨덴/NNP_ 군/NNG_ 총 사령관/NNG_
+18 12/SN_ 년/NNB_ 6/SN_ 월/NNB_ 24/SN_ 일/NNB_
+상 트 페 테 르 부르 크/NNP_
+바 클 레이/NNP_ 데/NNB_ 톨 리/NNG_
+네 만/NNP_ 강/NNG_
+상 트 페 테 르 부르 크/NNP_
+마크/NNG_ 도 날/NNG_
+프랑 스 군/NNG_
+총 살/NNG_
+7/SN_ 월/NNB_
+코 자 크/NNP_ 족/NNG_
+티 푸 스/NNG_
+코 자 크/NNP_ 족/NNG_
+말 먹 /NNG_ 이/JKS_ 풀/NNG_
+러시아/NNP_ 농 부/NNG_ 들/XSN_
+비 트 겐 슈 타 인/NNP_ 장군/NNG_
+비 텝 스크/NNP_
+다 부/NNP_
+비 텝 스크/NNP_
+스 몰 렌 스크/NNP_
+바 그라 티 온/NNP_ 의/JKG_ 러 시아 군/NNG_
+스 몰 렌 스크/NNP_ 전투/NNG_
+목재/NNG_ 건물/NNG_
+도로 고 부시/NNP_
+발 루 티 노/NNP_ 전투/NNG_
+스 몰 렌 스크/NNP_ 전투/NNG_
+스 몰 렌 스크/NNP_ 전투/NNG_
+발 루 티 노/NNP_ 전투/NNG_
+보 로 디 노/NNP_ 전투/NNG_
+각각/MAG_ 13/SN_ 만/NR_ 여/XSN_ 병력/NNG_
+보 로 디 노/NNP_ 전투/NNG_
+투 취 코 프/NNP_ 장군/NNG_
+3/SN_ 만/NR_ 명/NNB_
+나 폴 레 옹 /NNP_ 군/NNB_
+외 젠/NNG_ 드/NNP_ 보 아르 네/NNP_
+크 렘 린/NNP_ 궁/NNG_
+로 리 스 통 /NNP_ 장군/NNG_
+알 렉 산 드 르/NNP_ 1/SN_ 세/NNB_
+로 리 스 통 /NNP_ 장군/NNG_
+크 렘 린/NNP_ 궁/NNG_
+크 렘 린/NNP_ 궁/NNG_
+알 렉 산 드 르/NNP_ 1/SN_ 세/NNB_
+폴 라 즈 크/NNP_
+대략/MAG_ 9/SN_ 만/NR_ 명/NNB_
+폴 라 즈 크/NNP_
+9/SN_ 만/NR_ 명/NNB_
+비 트 겐 슈 타 인/NNP_ 의/JKG_ 군대/NNG_
+핀 란드/NNP_
+9/SN_ 만/NR_ 명/NNB_
+빅 토 르/NNP_ 페 랭 /NNP_ 원 수/NNG_
+만/NR_ 여/XSN_ 명/NNB_
+스 몰 렌 스크/NNP_
+오르 샤 /NNP_
+모 야 이 스크/NNG_ 쪽/NNB_
+빅 토 르/NNP_ 페 랭 /NNP_
+쿠 투 조 프/NNP_
+크 라 스 니/NNP_
+스 몰 렌 스크/NNP_ 공/NNG_
+골 리 친 /NNP_ 의/JKG_ 군대/NNG_
+밀 루/NNG_ 이/VCP_ 라도/EC_ 비 치 군/NNG_
+너/NP_ 의/JKG_
+쿠 투 조 프/NNP_
+우 바/NNG_ 로/JKB_ 보/VV_ 마을/NNG_
+비 텝 스크/NNP_ 일대/NNG_
+드 네 프 르/NNP_ 강/NNG_
+비 텝 스크/NNP_
+베 레 지/NNG_ 나/JC_ 강/NNG_
+치 챠 고 프/NNP_ 는/JX_
+빅 토 르/NNP_ 페 랭 /NNP_
+빅 토 르/NNP_ 페 랭 /NNP_
+에 블 레/NNP_
+빅 토 르/NNP_ 페 랭 /NNP_
+두/MM_ 개/NNB_ 의/JKG_ 부 교/NNG_
+빌 뉴스/NNP_
+뮈 라/NNP_
+빌 뉴스/NNP_
+나 폴리/NNP_
+빌 뉴스/NNP_
+뮈 라/NNP_
+쇤 브 룬 /NNP_ 조약/NNG_
+작 센/NNP_ 왕 국/NNG_
+프랑스/NNP_
+메 테 르 니 히/NNP_
+13 36/SN_ 년/NNB_
+고 다이 고/NNP_ 천 황/NNG_
+1392/SN_ 년/NNB_
+고 묘/NNG_ 천 황/NNG_
+삼 종 신 기/NNG_
+북 조/NNG_
+13 36/SN_ 년/NNB_
+아시카 가/NNP_ 다 카 우 지/NNP_
+남 조/NNP_
+고 다이 고/NNP_ 천 황/NNG_
+13 36/SN_ 년/NNB_
+삼 종 신 기/NNG_
+무 로 마 치/NNP_ 막 부/NNG_
+무사/NNG_ 들/XSN_
+13 36/SN_ 년/NNB_
+아시카 가/NNP_ 다 카 우 지/NNP_
+1354/SN_ 년/NNB_ 12/SN_ 월/NNB_ 24/SN_ 일/NNB_
+삼 종 신 기/NNG_
+위 조 품/NNG_
+1351/SN_ 년/NNB_
+북 조/NNG_
+북 조/NNG_
+남 조/NNP_
+천 황/NNG_ 제일 주의/NNG_
+일본/NNP_ 황 실/NNG_
+천 황/NNG_ 제일 주의/NNG_
+제/XPN_ 2/SN_ 차/NNB_ 세계/NNG_ 대전/NNG_
+살/VV_ 아/EC_ 영 생/NNG_
+요 한/NNP_ 복 음 서/NNG_
+신/NNG_
+신/NNG_
+하 느 님/NNG_ 나라/NNG_
+영 생 교/NNG_
+불 사/NNG_ (/SS_ 不 死 /SH_ )/SS_ 의/JKG_ 영 생 체/NNG_
+조 희 성/NNP_
+수원 지방 법원/NNP_
+2004/SN_ 년/NNB_
+조 희 성/NNP_
+심 근/NNG_ 경색/NNG_
+조 희 성/NNP_
+나 경 옥/NNP_
+사형/NNG_
+150/SN_ M b ps/SL_
+300/SN_ M b ps/SL_
+갤럭시/NNP_ S/SL_ 7/SN_
+삼성/NNP_ 엑 시 노 스/NNP_ 시리즈/NNG_
+통신/NNG_ 모 뎀 /NNG_ 솔루션/NNG_
+150/SN_ M b ps/SL_
+C at/SL_ ./SP_ 12/SN_
+3600/SN_ m A h/SL_
+고속/NNG_ 무선/NNG_ 충전/NNG_ 기술/NNG_
+3600/SN_ m A h/SL_
+1000/SN_ m A h/SL_
+70/SN_ %/SW_
+3600/SN_ m A h/SL_
+600/SN_ m A h/SL_
+70/SN_ %/SW_
+1/SN_ ,/SP_ 200/SN_ 만/NR_ 화 소/NNG_
+셀 피/NNG_ 플래시/NNG_
+1/SN_ ,/SP_ 200/SN_ 만/NR_ 화 소/NNG_
+카 툭 튀 /NNP_
+25/SN_ %/SW_
+O IS/SL_
+1/SN_ ,/SP_ 200/SN_ 만/NR_ 화 소/NNG_
+셀 피/NNG_ 플래시/NNG_
+후/NNG_ 이/VCP_ 면/EC_ 카메라/NNG_ 모듈/NNG_ 옆/NNG_
+IP/SL_ 68/SN_
+방 수/NNG_ 방 진/NNG_
+IP/SL_ 68/SN_
+심장/NNG_ 박 동/NNG_ 인식/NNG_ 센서/NNG_
+방 수/NNG_ 방 진/NNG_
+IP/SL_ 68/SN_
+갤럭시/NNP_ S/SL_ 7/SN_ 엣 지/NNG_
+6/SN_ 개월/NNB_
+2016/SN_ 년/NNB_
+삼성전자/NNP_
+중동/NNP_ 지역/NNG_
+18/SN_ 일/NNB_
+중동/NNP_ 지역/NNG_
